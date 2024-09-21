@@ -153,12 +153,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,20 +171,20 @@
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Пространства": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "857be9d204df600e",
+  "active": "959b0a459e2c7443",
   "lastOpenFiles": [
+    "Base/Git Init.md",
+    "Base/Программирование/Репликация данных/FFF.md",
+    "Base/Программирование/Репликация данных/SSS.md",
     "Daily",
     "Base",
     "Templates",
     "Files",
-    "Base/Программирование/Репликация данных/FFF.md",
     "Без названия 1.canvas",
     "2024-09-20.md",
-    "Base/Программирование/Репликация данных/SSS.md",
     "Без названия.canvas",
     "Base/Программирование/Репликация данных",
     "Программирование/Репликация данных.md",
