@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Git Init.md",
+                "file": "Base/Работа/Git Init.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Git Init.md",
+                "file": "Base/Работа/Git Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Git Init.md",
+                "file": "Base/Работа/Git Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Git Init.md"
+                "file": "Base/Работа/Git Init.md"
               }
             }
           },
@@ -164,8 +164,15 @@
   },
   "active": "959b0a459e2c7443",
   "lastOpenFiles": [
+    "Base/Работа/Syncthing.md",
+    "Base/Без названия 1.md",
+    "Base/Без названия 2.md",
+    "Base/Без названия 4.md",
+    "Base/Без названия.md",
+    "Base/Без названия 3.md",
+    "Base/Работа/Git Init.md",
+    "Base/Работа",
     "Base/Программирование/Репликация данных/FFF.md",
-    "Base/Git Init.md",
     "Base/Программирование/Репликация данных/SSS.md",
     "Daily",
     "Base",
