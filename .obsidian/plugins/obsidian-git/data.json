@@ -1,7 +1,7 @@
 {
   "commitMessage": "backup - {{hostname}}: {{date}}, count {{numFiles}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 10,
   "autoPullOnBoot": true,
