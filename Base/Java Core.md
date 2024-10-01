@@ -16,5 +16,5 @@ aliases:
 Tags: #java #develop  
 Author: [[]]
 Related: [[]]
-URL: https://roadmap.sh/java (карта тем по java)
-Книги: Java. Эффективная разработка" Джошуа Блоха, 
+URL: https://roadmap.sh/java (карта тем по java), https://github.com/Shell26/Java-Developer/tree/master (все что связанно с java)
+Книги: Java. Эффективная разработка" Джошуа Блоха
