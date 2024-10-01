@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Заметка.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Работа/Репликация данных.md",
+                "file": "Base/Репликация данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Заметка.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Заметка.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Заметка.md"
+                "file": "Base/Высоконагруженные приложения.md"
               }
             }
           },
@@ -185,8 +185,10 @@
   },
   "active": "959b0a459e2c7443",
   "lastOpenFiles": [
-    "Base/Работа/Репликация данных.md",
-    "Base/Работа/Высоконагруженные приложения.md",
+    "Base/Репликация данных.md",
+    "Base/Секционирование.md",
+    "Base/Транзакции.md",
+    "Base/Высоконагруженные приложения.md",
     "Templates/Заметка.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
