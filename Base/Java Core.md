@@ -17,4 +17,4 @@ Tags: #java #develop
 Author: [[]]
 Related: [[]]
 URL: https://roadmap.sh/java (карта тем по java)
-Книги: 
+Книги: Java. Эффективная разработка" Джошуа Блоха, 
