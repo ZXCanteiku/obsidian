@@ -28,7 +28,8 @@ aliases:
 - [[Платформы мониторинга и анализа]]
 - [[Hadoop]]
 - [[Elasticsearch и другие]]
-- 
+- [[Apache Ignite]]
+- [[Apache Spark]]
 
 ---
 Tags: #java #develop  
