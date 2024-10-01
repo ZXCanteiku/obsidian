@@ -185,8 +185,9 @@
   },
   "active": "959b0a459e2c7443",
   "lastOpenFiles": [
-    "Base/Методы wait-notify их связь и случаи использования.md",
+    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Java.md",
+    "Base/Методы wait-notify их связь и случаи использования.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Garbage Colector.md",
     "Base/Транзакции.md",
