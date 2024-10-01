@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Без названия.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#highLoad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Без названия.md",
+                "file": "Base/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Без названия.md",
+                "file": "Base/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Без названия.md"
+                "file": "Base/Java Core.md"
               }
             }
           },
@@ -185,11 +186,11 @@
   },
   "active": "959b0a459e2c7443",
   "lastOpenFiles": [
+    "Base/Транзакции.md",
+    "Base/Java Core.md",
     "Base/Высоконагруженные приложения.md",
-    "Base/Без названия.md",
     "Base/Репликация данных.md",
     "Base/Секционирование.md",
-    "Base/Транзакции.md",
     "Templates/Заметка.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
