@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#highLoad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "959b0a459e2c7443",
+  "active": "857be9d204df600e",
   "lastOpenFiles": [
     "Base/Транзакции.md",
     "Base/Java Core.md",
