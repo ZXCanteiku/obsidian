@@ -269,7 +269,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -290,7 +291,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "728386ae2c729a8b",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
     "Base/Репликация с ведущим узлом.md",
