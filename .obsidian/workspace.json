@@ -35,8 +35,24 @@
             "id": "25a6d3aed90a6c9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "728386ae2c729a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -88,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,11 +165,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7141d3ce232f8961",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "fb4d31af219e5ab2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +244,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Репликация с ведущим узлом.md"
+              }
             }
           },
           {
@@ -214,12 +269,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 1091.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +290,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25a6d3aed90a6c9c",
+  "active": "728386ae2c729a8b",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Репликация с ведущим узлом.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Ведущие и ведомы узлы.md",
     "Templates/Заметка.md",
