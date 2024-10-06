@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md"
+                "file": "Base/Репликация с несколькими ведущими узлами.md"
               }
             }
           },
@@ -208,10 +208,11 @@
   "active": "4106d27fb3cef5cb",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
-    "Base/Репликация с ведущим узлом.md",
     "Base/Синхронная и асинхронная репликация.md",
-    "Base/Высоконагруженные приложения.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Решение проблем с перебоями в обслуживание узлов.md",
+    "Base/Репликация с ведущим узлом.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Создание новых ведомых узлов.md",
     "Files/Pasted image 20241006162508.png",
     "Base/Реализация журналов репликации.md",
@@ -235,7 +236,6 @@
     "Base/Без названия 1.md",
     "Base/Без названия 2.md",
     "Base/Без названия 4.md",
-    "Base/Без названия 3.md",
     "Base/Работа",
     "Daily",
     "Base",
