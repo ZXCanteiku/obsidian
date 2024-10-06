@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "cd01106073e54494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4e643d858856544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e20955c93555b770",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -269,8 +293,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,7 +314,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "f4e643d858856544",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
     "Base/Репликация с ведущим узлом.md",
