@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#highLoad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "857be9d204df600e",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
     "Base/Высоконагруженные приложения.md",
