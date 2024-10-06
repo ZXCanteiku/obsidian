@@ -11,8 +11,12 @@
             "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Java.md"
+              }
             }
           },
           {
@@ -165,6 +173,9 @@
   },
   "active": "ea905ef543b733c7",
   "lastOpenFiles": [
+    "Base/No SQL базы данных.md",
+    "Base/Java.md",
+    "Base/Garbage Colector.md",
     "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241006162508.png",
     "Files",
@@ -179,9 +190,6 @@
     "Base/Секционирование.md",
     "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Транзакции.md",
-    "Base/Garbage Colector.md",
-    "Base/No SQL базы данных.md",
-    "Base/Java.md",
     "Base/Работа/Высоконагруженные приложения.md",
     "Base/Репликация данных.md",
     "Base/Elasticsearch и другие.md",
