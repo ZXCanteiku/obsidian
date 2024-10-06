@@ -32,6 +32,150 @@
             }
           },
           {
+            "id": "69564e9c508d2381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d7e0adebc01ae0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Синхронная и асинхронная репликация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26dd5e11cc466ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ec440f7d6ad6776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Создание новых ведомых узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4932b8ca3cd7107b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677df9d10c0820c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Создание новых ведомых узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ccac8a6217d5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a13f76d677e1b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация с ведущим узлом.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17bda93e6183fcc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c15447eac646f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Создание новых ведомых узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c699295d55586046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40d57ac2dd3f4558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38528dce5d84486e",
             "type": "leaf",
             "state": {
@@ -44,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -110,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md"
+                "file": "Base/Решение проблем с перебоями в обслуживание узлов.md"
               }
             }
           },
@@ -230,11 +374,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d546c5eea99d6a3",
+  "active": "40d57ac2dd3f4558",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
-    "Base/Синхронная и асинхронная репликация.md",
+    "Base/Решение проблем с перебоями в обслуживание узлов.md",
+    "Base/Создание новых ведомых узлов.md",
     "Base/Репликация с ведущим узлом.md",
+    "Base/Синхронная и асинхронная репликация.md",
     "Files/Pasted image 20241006162508.png",
     "Base/Реализация журналов репликации.md",
     "Base/Высоконагруженные приложения.md",
@@ -260,8 +406,6 @@
     "Base/Без названия 4.md",
     "Base/Без названия 3.md",
     "Base/Работа",
-    "Base/Программирование/Репликация данных/FFF.md",
-    "Base/Программирование/Репликация данных/SSS.md",
     "Daily",
     "Base",
     "Templates",
