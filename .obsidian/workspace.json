@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "899a3b7a3de6ef9e",
+        "id": "9f68a04681d05c07",
         "type": "tabs",
         "children": [
           {
-            "id": "346b4cbddf518e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7333e974c5f86bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Высоконагруженные приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25a6d3aed90a6c9c",
+            "id": "0f2f9c3b35795b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,43 +20,7 @@
             }
           },
           {
-            "id": "728386ae2c729a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c2854f2dbdf04af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df0a34c35bc03d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec6f57f6fc50c682",
+            "id": "1d546c5eea99d6a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,55 +32,7 @@
             }
           },
           {
-            "id": "f4e643d858856544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Реализация журналов репликации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5a9e2ac11f1f527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Реализация журналов репликации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20955c93555b770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Высоконагруженные приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70148d63d6ce7380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de3e197be2a0904",
+            "id": "38528dce5d84486e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "129249d95303b026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Синхронная и асинхронная репликация.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Синхронная и асинхронная репликация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Синхронная и асинхронная репликация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация данных.md"
+                "file": "Base/Синхронная и асинхронная репликация.md"
               }
             }
           },
@@ -350,10 +230,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5df0a34c35bc03d9",
+  "active": "1d546c5eea99d6a3",
   "lastOpenFiles": [
-    "Base/Синхронная и асинхронная репликация.md",
     "Base/Репликация данных.md",
+    "Base/Синхронная и асинхронная репликация.md",
     "Base/Репликация с ведущим узлом.md",
     "Files/Pasted image 20241006162508.png",
     "Base/Реализация журналов репликации.md",
