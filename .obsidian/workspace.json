@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "cd01106073e54494",
+            "id": "3c2854f2dbdf04af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,12 +68,48 @@
             }
           },
           {
+            "id": "5df0a34c35bc03d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec6f57f6fc50c682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Синхронная и асинхронная репликация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f4e643d858856544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Реализация журналов репликации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5a9e2ac11f1f527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Реализация журналов репликации.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Репликация данных.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Репликация данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Репликация данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md"
+                "file": "Base/Репликация данных.md"
               }
             }
           },
@@ -314,10 +350,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4e643d858856544",
+  "active": "5df0a34c35bc03d9",
   "lastOpenFiles": [
+    "Base/Синхронная и асинхронная репликация.md",
     "Base/Репликация данных.md",
     "Base/Репликация с ведущим узлом.md",
+    "Files/Pasted image 20241006162508.png",
+    "Base/Реализация журналов репликации.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Ведущие и ведомы узлы.md",
@@ -347,9 +386,7 @@
     "Base",
     "Templates",
     "Files",
-    "2024-09-20.md",
     "Base/Программирование/Репликация данных",
-    "Программирование/Репликация данных.md",
     "Base/Программирование"
   ]
 }
