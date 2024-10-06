@@ -210,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -231,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d96b47242dd0f30",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
     "Base/Высоконагруженные приложения.md",
