@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "899a3b7a3de6ef9e",
+        "id": "9f68a04681d05c07",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "ea905ef543b733c7",
+=======
+            "id": "4106d27fb3cef5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Высоконагруженные приложения.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72c408e1a8954e5a",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7d96b47242dd0f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,11 +105,50 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7141d3ce232f8961",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Base/Высоконагруженные приложения.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "fb4d31af219e5ab2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Base/Высоконагруженные приложения.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +165,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Base/Высоконагруженные приложения.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +190,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "Base/Высоконагруженные приложения.md"
+              }
+>>>>>>> origin/main
             }
           },
           {
@@ -142,11 +220,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 1091.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,12 +235,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
       "workspaces:Пространства": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "ea905ef543b733c7",
   "lastOpenFiles": [
     "Base/Архитектурные паттерны.md",
@@ -177,6 +256,31 @@
     "Base/Репликация данных.md",
     "Base/Elasticsearch и другие.md",
     "Base/Работа/Репликация данных.md",
+=======
+  "active": "857be9d204df600e",
+  "lastOpenFiles": [
+    "Base/Репликация данных.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Синхронная и асинхронная репликация.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Решение проблем с перебоями в обслуживание узлов.md",
+    "Base/Репликация с ведущим узлом.md",
+    "Base/Создание новых ведомых узлов.md",
+    "Files/Pasted image 20241006162508.png",
+    "Base/Реализация журналов репликации.md",
+    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
+    "Base/Ведущие и ведомы узлы.md",
+    "Templates/Заметка.md",
+    "Base/Транзакции.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Работа/Репликация данных.md",
+    "Base/Работа/Высоконагруженные приложения.md",
+    "Base/Секционирование.md",
+    "Base/No SQL базы данных.md",
+    "Base/Java.md",
+    "Base/Garbage Colector.md",
+    "Base/Elasticsearch и другие.md",
+>>>>>>> origin/main
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Daily/2024-09-21.md",
@@ -186,17 +290,12 @@
     "Base/Без названия 1.md",
     "Base/Без названия 2.md",
     "Base/Без названия 4.md",
-    "Base/Без названия 3.md",
     "Base/Работа",
-    "Base/Программирование/Репликация данных/FFF.md",
-    "Base/Программирование/Репликация данных/SSS.md",
     "Daily",
     "Base",
     "Templates",
     "Files",
-    "2024-09-20.md",
     "Base/Программирование/Репликация данных",
-    "Программирование/Репликация данных.md",
     "Base/Программирование"
   ]
 }
