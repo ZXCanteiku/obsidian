@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Base/Высоконагруженные приложения.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72c408e1a8954e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d96b47242dd0f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#highLoad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,14 +231,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4106d27fb3cef5cb",
+  "active": "7d96b47242dd0f30",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Синхронная и асинхронная репликация.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Решение проблем с перебоями в обслуживание узлов.md",
     "Base/Репликация с ведущим узлом.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Создание новых ведомых узлов.md",
     "Files/Pasted image 20241006162508.png",
     "Base/Реализация журналов репликации.md",
