@@ -23,28 +23,12 @@
             "id": "72c408e1a8954e5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d96b47242dd0f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Высоконагруженные приложения.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,12 +210,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "857be9d204df600e",
+  "active": "72c408e1a8954e5a",
   "lastOpenFiles": [
     "Base/Репликация данных.md",
+    "Base/Hibernate.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Синхронная и асинхронная репликация.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Решение проблем с перебоями в обслуживание узлов.md",
     "Base/Репликация с ведущим узлом.md",
     "Base/Создание новых ведомых узлов.md",
@@ -261,7 +241,6 @@
     "Base/Работа/Syncthing.md",
     "Base/Без названия 1.md",
     "Base/Без названия 2.md",
-    "Base/Без названия 4.md",
     "Base/Работа",
     "Daily",
     "Base",
