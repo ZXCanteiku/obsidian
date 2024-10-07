@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Предотвращение конфликтов.md",
+                "file": "Base/Сходимость к согласованному состоянию.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Предотвращение конфликтов.md",
+                "file": "Base/Сходимость к согласованному состоянию.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Предотвращение конфликтов.md",
+                "file": "Base/Сходимость к согласованному состоянию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Предотвращение конфликтов.md",
+                "file": "Base/Сходимость к согласованному состоянию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Предотвращение конфликтов.md"
+                "file": "Base/Сходимость к согласованному состоянию.md"
               }
             }
           },
@@ -253,9 +253,10 @@
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
     "Base/Обработка конфликтов записи.md",
+    "Base/Сходимость к согласованному состоянию.md",
     "Base/Предотвращение конфликтов.md",
-    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/Репликация данных.md",
     "Base/ЦОД.md",
     "Base/Транзакции.md",
@@ -278,7 +279,6 @@
     "Base/No SQL базы данных.md",
     "Base/Java.md",
     "Base/Garbage Colector.md",
-    "Base/Elasticsearch и другие.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
