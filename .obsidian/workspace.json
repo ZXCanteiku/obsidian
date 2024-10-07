@@ -4,43 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f68a04681d05c07",
+        "id": "899a3b7a3de6ef9e",
         "type": "tabs",
         "children": [
           {
-            "id": "4106d27fb3cef5cb",
+            "id": "959b0a459e2c7443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72c408e1a8954e5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e6c29fb76ab55c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d88ebe9b3d767b0",
+            "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,47 +92,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7141d3ce232f8961",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000007,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
             "id": "fb4d31af219e5ab2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация данных.md"
+                "file": "Base/Java.md"
               }
             }
           },
@@ -217,11 +161,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 1091.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,48 +177,48 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
       "workspaces:Пространства": false,
       "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d88ebe9b3d767b0",
+  "active": "959b0a459e2c7443",
   "lastOpenFiles": [
-    "Base/Репликация с несколькими ведущими узлами.md",
-    "Base/Репликация данных.md",
     "Base/ЦОД.md",
-    "Base/Транзакции.md",
-    "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Решение проблем с перебоями в обслуживание узлов.md",
-    "Base/Репликация с ведущим узлом.md",
-    "Base/Создание новых ведомых узлов.md",
     "Files/Pasted image 20241006162508.png",
+    "Files",
+    "Base/Создание новых ведомых узлов.md",
+    "Base/Синхронная и асинхронная репликация.md",
+    "Base/Решение проблем с перебоями в обслуживание узлов.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Репликация с ведущим узлом.md",
     "Base/Реализация журналов репликации.md",
-    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
-    "Base/Ведущие и ведомы узлы.md",
-    "Templates/Заметка.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Работа/Репликация данных.md",
-    "Base/Работа/Высоконагруженные приложения.md",
-    "Base/Секционирование.md",
     "Base/No SQL базы данных.md",
     "Base/Java.md",
     "Base/Garbage Colector.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Elasticsearch и другие.md",
+    "Base/Elasticsearch и дургие.md",
+    "Base/Методы wait-notify их связь и случаи использования.md",
+    "Base/Транзакции.md",
+    "Base/Репликация данных.md",
+    "Base/Секционирование.md",
+    "Templates/Заметка.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Daily/2024-09-21.md",
     "Base/Работа/Git Init.md",
     "Base/Работа/Syncthing.md",
+    "Base/Без названия 1.md",
+    "Base/Без названия 2.md",
     "Base/Работа",
     "Daily",
     "Base",
     "Templates",
-    "Files",
     "Base/Программирование/Репликация данных",
     "Base/Программирование"
   ]
