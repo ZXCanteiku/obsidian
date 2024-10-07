@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+                "file": "Base/Предотвращение конфликтов.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+                "file": "Base/Предотвращение конфликтов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+                "file": "Base/Предотвращение конфликтов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+                "file": "Base/Предотвращение конфликтов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Асинхронное и синхронное обнаружение конфликтов.md"
+                "file": "Base/Предотвращение конфликтов.md"
               }
             }
           },
@@ -253,6 +253,7 @@
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
     "Base/Обработка конфликтов записи.md",
+    "Base/Предотвращение конфликтов.md",
     "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Репликация данных.md",
@@ -280,7 +281,6 @@
     "Base/Elasticsearch и другие.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
-    "Daily/2024-09-21.md",
     "Base/Работа",
     "Daily",
     "Base",
