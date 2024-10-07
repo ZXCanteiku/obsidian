@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90fe4a6f78819b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Репликация с несколькими ведущими узлами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация данных.md"
+                "file": "Base/Репликация с несколькими ведущими узлами.md"
               }
             }
           },
@@ -238,10 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d88ebe9b3d767b0",
+  "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
-    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Репликация данных.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
     "Base/ЦОД.md",
     "Base/Транзакции.md",
     "conflict-files-obsidian-git.md",
