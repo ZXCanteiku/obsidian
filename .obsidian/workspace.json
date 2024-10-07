@@ -229,7 +229,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -250,7 +251,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90fe4a6f78819b0e",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Обработка конфликтов записи.md",
     "Base/Сходимость к согласованному состоянию.md",
