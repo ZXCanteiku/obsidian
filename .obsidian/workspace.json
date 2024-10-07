@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "file": "Base/Обработка конфликтов записи.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "file": "Base/Обработка конфликтов записи.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "file": "Base/Обработка конфликтов записи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md",
+                "file": "Base/Обработка конфликтов записи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация с несколькими ведущими узлами.md"
+                "file": "Base/Обработка конфликтов записи.md"
               }
             }
           },
@@ -252,8 +252,9 @@
   },
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
-    "Base/Репликация данных.md",
     "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Обработка конфликтов записи.md",
+    "Base/Репликация данных.md",
     "Base/ЦОД.md",
     "Base/Транзакции.md",
     "conflict-files-obsidian-git.md",
@@ -280,7 +281,6 @@
     "Без названия 1.canvas",
     "Daily/2024-09-21.md",
     "Base/Работа/Git Init.md",
-    "Base/Работа/Syncthing.md",
     "Base/Работа",
     "Daily",
     "Base",
