@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "959b0a459e2c7443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Репликация данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,47 +92,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f293df5b3873d1bd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
             "id": "fb4d31af219e5ab2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md",
+                "file": "Base/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Репликация с ведущим узлом.md"
+                "file": "Base/Java.md"
               }
             }
           },
@@ -184,11 +161,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,38 +183,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea905ef543b733c7",
+  "active": "959b0a459e2c7443",
   "lastOpenFiles": [
-    "Base/Репликация данных.md",
-    "Base/Репликация с ведущим узлом.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
-    "Base/ЦОД.md",
-    "Base/Решение проблем с перебоями в обслуживание узлов.md",
-    "Base/Создание новых ведомых узлов.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Журнал репликации.md",
-    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
-    "Base/Реализация журналов репликации.md",
-    "Base/Секционирование.md",
-    "Base/Транзакции.md",
-    "Base/Elasticsearch и другие.md",
-    "Base/Garbage Colector.md",
-    "Base/Java.md",
-    "Base/No SQL базы данных.md",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241006162508.png",
     "Files",
-    "Base/Работа/Высоконагруженные приложения.md",
-    "Base/Работа/Репликация данных.md",
+    "Base/Создание новых ведомых узлов.md",
+    "Base/Синхронная и асинхронная репликация.md",
+    "Base/Решение проблем с перебоями в обслуживание узлов.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Репликация с ведущим узлом.md",
+    "Base/Реализация журналов репликации.md",
+    "Base/No SQL базы данных.md",
+    "Base/Java.md",
+    "Base/Garbage Colector.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
+    "Base/Elasticsearch и другие.md",
+    "Base/Elasticsearch и дургие.md",
+    "Base/Методы wait-notify их связь и случаи использования.md",
+    "Base/Транзакции.md",
+    "Base/Репликация данных.md",
+    "Base/Секционирование.md",
+    "Templates/Заметка.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Daily/2024-09-21.md",
-    "Templates/Заметка.md",
     "Base/Работа/Git Init.md",
     "Base/Работа/Syncthing.md",
     "Base/Без названия 1.md",
+    "Base/Без названия 2.md",
+    "Base/Без названия 4.md",
     "Base/Работа",
     "Daily",
     "Base",
