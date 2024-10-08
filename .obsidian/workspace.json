@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сходимость к согласованному состоянию.md",
+                "file": "Base/Пользовательская логика разрешения конфликтов.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Пользовательская логика разрешения конфликтов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Пользовательская логика разрешения конфликтов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Пользовательская логика разрешения конфликтов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md"
+                "file": "Base/Пользовательская логика разрешения конфликтов.md"
               }
             }
           },
@@ -229,8 +229,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,10 +250,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
     "Base/Обработка конфликтов записи.md",
     "Base/Сходимость к согласованному состоянию.md",
+    "Base/Пользовательская логика разрешения конфликтов.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Предотвращение конфликтов.md",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Асинхронное и синхронное обнаружение конфликтов.md",
@@ -264,7 +265,6 @@
     "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
     "Base/Синхронная и асинхронная репликация.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Решение проблем с перебоями в обслуживание узлов.md",
     "Base/Репликация с ведущим узлом.md",
     "Base/Создание новых ведомых узлов.md",
@@ -279,7 +279,6 @@
     "Base/Секционирование.md",
     "Base/No SQL базы данных.md",
     "Base/Java.md",
-    "Base/Garbage Colector.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
