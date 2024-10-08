@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Сходимость к согласованному состоянию.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Сходимость к согласованному состоянию.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Сходимость к согласованному состоянию.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Сходимость к согласованному состоянию.md"
+                "file": "Base/Высоконагруженные приложения.md"
               }
             }
           },
