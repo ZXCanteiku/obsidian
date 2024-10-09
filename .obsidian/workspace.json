@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Нестрогие кворумы и направленная передача.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Нестрогие кворумы и направленная передача.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Нестрогие кворумы и направленная передача.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Нестрогие кворумы и направленная передача.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Нестрогие кворумы и направленная передача.md"
+                "file": "Base/Репликация без ведущего узла.md"
               }
             }
           },
@@ -252,10 +252,10 @@
   },
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
+    "Base/Репликация данных.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Ограничения согласованности по кворуму.md",
-    "Base/Репликация данных.md",
     "Files/Pasted image 20241009194155.png",
     "Files/Pasted image 20241009194011.png",
     "Base/Высоконагруженные приложения.md",
