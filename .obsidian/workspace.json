@@ -57,18 +57,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация без ведущего узла.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "622508d0c527082e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Base/Нестрогие кворумы и направленная передача.md",
                 "mode": "source",
                 "source": false
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "622508d0c527082e",
+  "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
     "Base/Репликация без ведущего узла.md",
     "Base/Нестрогие кворумы и направленная передача.md",
