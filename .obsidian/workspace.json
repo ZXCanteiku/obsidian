@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Репликация без ведущего узла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md"
+                "file": "Base/Репликация без ведущего узла.md"
               }
             }
           },
@@ -251,8 +251,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
+    "Files/Pasted image 20241009194155.png",
+    "Files/Pasted image 20241009194011.png",
+    "Base/Высоконагруженные приложения.md",
     "Base/Репликация данных.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Репликация с несколькими ведущими узлами.md",
@@ -263,7 +266,6 @@
     "Base/Автоматическое разрешение конфликтов.md",
     "Base/Сходимость к согласованному состоянию.md",
     "Base/Пользовательская логика разрешения конфликтов.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Предотвращение конфликтов.md",
     "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/ЦОД.md",
@@ -281,7 +283,6 @@
     "Templates/Заметка.md",
     "Base/Архитектурные паттерны.md",
     "Base/Работа/Репликация данных.md",
-    "Base/Работа/Высоконагруженные приложения.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
