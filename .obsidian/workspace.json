@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Ограничения согласованности по кворуму.md",
+                "file": "Base/Репликация без ведущего узла.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "622508d0c527082e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Нестрогие кворумы и направленная передача.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Ограничения согласованности по кворуму.md",
+                "file": "Base/Нестрогие кворумы и направленная передача.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Ограничения согласованности по кворуму.md",
+                "file": "Base/Нестрогие кворумы и направленная передача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Ограничения согласованности по кворуму.md",
+                "file": "Base/Нестрогие кворумы и направленная передача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Ограничения согласованности по кворуму.md"
+                "file": "Base/Нестрогие кворумы и направленная передача.md"
               }
             }
           },
@@ -250,9 +262,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90fe4a6f78819b0e",
+  "active": "622508d0c527082e",
   "lastOpenFiles": [
     "Base/Репликация без ведущего узла.md",
+    "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Ограничения согласованности по кворуму.md",
     "Base/Репликация данных.md",
     "Files/Pasted image 20241009194155.png",
@@ -282,7 +295,6 @@
     "Base/Ведущие и ведомы узлы.md",
     "Templates/Заметка.md",
     "Base/Архитектурные паттерны.md",
-    "Base/Работа/Репликация данных.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
