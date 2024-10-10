@@ -237,7 +237,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -258,11 +259,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "90fe4a6f78819b0e",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
-    "Daily/2024-10-10.md",
-    "Base/Векторы версий.md",
     "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Векторы версий.md",
+    "Files/Pasted image 20241010212603.png",
+    "Daily/2024-10-10.md",
     "Base/Слияние конкурентно записываемых значений.md",
     "Base/Разрешение конфликтов Выигрывает последний.md",
     "Files/Pasted image 20241010212218.png",
@@ -294,8 +296,6 @@
     "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
     "Base/Синхронная и асинхронная репликация.md",
-    "Base/Решение проблем с перебоями в обслуживание узлов.md",
-    "Files/Pasted image 20241006162508.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
