@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Обнаружение связей тип Происходит до.md",
+                "file": "Base/Векторы версий.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Обнаружение связей тип Происходит до.md",
+                "file": "Base/Векторы версий.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Обнаружение связей тип Происходит до.md",
+                "file": "Base/Векторы версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Обнаружение связей тип Происходит до.md",
+                "file": "Base/Векторы версий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Обнаружение связей тип Происходит до.md"
+                "file": "Base/Векторы версий.md"
               }
             }
           },
@@ -260,12 +260,18 @@
   },
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
+    "Daily/2024-10-10.md",
+    "Base/Векторы версий.md",
     "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Слияние конкурентно записываемых значений.md",
+    "Base/Разрешение конфликтов Выигрывает последний.md",
+    "Files/Pasted image 20241010212218.png",
     "Base/Обнаружение связей тип Происходит до.md",
+    "Files/Pasted image 20241010211806.png",
+    "Files/Pasted image 20241010211755.png",
     "Base/Отношение «произошло до» и параллелизм.md",
     "Files/Pasted image 20241010211130.png",
     "Files/Pasted image 20241010211039.png",
-    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Репликация данных.md",
@@ -289,10 +295,7 @@
     "Base/Hibernate.md",
     "Base/Синхронная и асинхронная репликация.md",
     "Base/Решение проблем с перебоями в обслуживание узлов.md",
-    "Base/Репликация с ведущим узлом.md",
-    "Base/Создание новых ведомых узлов.md",
     "Files/Pasted image 20241006162508.png",
-    "Base/Реализация журналов репликации.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
