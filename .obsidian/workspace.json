@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "file": "Base/Обнаружение связей тип Происходит до.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "file": "Base/Обнаружение связей тип Происходит до.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +161,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.965556045656675,
+                  "scale": 1.4019828977761026,
                   "close": true
                 }
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "file": "Base/Обнаружение связей тип Происходит до.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "file": "Base/Обнаружение связей тип Происходит до.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md"
+                "file": "Base/Обнаружение связей тип Происходит до.md"
               }
             }
           },
@@ -260,8 +260,12 @@
   },
   "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
-    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Обнаружение связей тип Происходит до.md",
+    "Base/Отношение «произошло до» и параллелизм.md",
+    "Files/Pasted image 20241010211130.png",
+    "Files/Pasted image 20241010211039.png",
+    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Репликация данных.md",
@@ -289,8 +293,6 @@
     "Base/Создание новых ведомых узлов.md",
     "Files/Pasted image 20241006162508.png",
     "Base/Реализация журналов репликации.md",
-    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
-    "Base/Ведущие и ведомы узлы.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
