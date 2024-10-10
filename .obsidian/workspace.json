@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация без ведущего узла.md",
+                "file": "Base/Обнаружение конкурентных операций записи.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Обнаружение конкурентных операций записи.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Обнаружение конкурентных операций записи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Обнаружение конкурентных операций записи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md"
+                "file": "Base/Обнаружение конкурентных операций записи.md"
               }
             }
           },
@@ -251,15 +251,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "90fe4a6f78819b0e",
   "lastOpenFiles": [
-    "Base/Репликация данных.md",
     "Base/Репликация без ведущего узла.md",
+    "Base/Обнаружение конкурентных операций записи.md",
     "Base/Нестрогие кворумы и направленная передача.md",
+    "Base/Репликация данных.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Ограничения согласованности по кворуму.md",
     "Files/Pasted image 20241009194155.png",
     "Files/Pasted image 20241009194011.png",
-    "Base/Высоконагруженные приложения.md",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Топологии репликации с несколькими ведущими узлами.md",
     "Files/Pasted image 20241008202107.png",
@@ -283,7 +284,6 @@
     "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
     "Base/Ведущие и ведомы узлы.md",
     "Templates/Заметка.md",
-    "Base/Архитектурные паттерны.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
