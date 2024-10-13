@@ -69,19 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8513e964113f60c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Base/Векторы версий.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Векторы версий.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Векторы версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md",
+                "file": "Base/Векторы версий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Синхронная и асинхронная репликация.md"
+                "file": "Base/Векторы версий.md"
               }
             }
           },
@@ -253,8 +241,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,12 +262,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "725406d3d0b10ece",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Репликация без ведущего узла.md",
+    "Base/Репликация данных.md",
+    "Base/Синхронная и асинхронная репликация.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Векторы версий.md",
     "Files/Pasted image 20241010212603.png",
     "Daily/2024-10-10.md",
@@ -293,9 +282,7 @@
     "Base/Отношение «произошло до» и параллелизм.md",
     "Files/Pasted image 20241010211130.png",
     "Files/Pasted image 20241010211039.png",
-    "Base/Репликация без ведущего узла.md",
     "Base/Нестрогие кворумы и направленная передача.md",
-    "Base/Репликация данных.md",
     "Base/Ограничения согласованности по кворуму.md",
     "Files/Pasted image 20241009194155.png",
     "Files/Pasted image 20241009194011.png",
