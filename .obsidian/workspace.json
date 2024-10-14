@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование данных ключ-значение.md",
+                "file": "Base/Секционирование по хешу ключа.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование данных ключ-значение.md",
+                "file": "Base/Секционирование по хешу ключа.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование данных ключ-значение.md",
+                "file": "Base/Секционирование по хешу ключа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование данных ключ-значение.md",
+                "file": "Base/Секционирование по хешу ключа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование данных ключ-значение.md"
+                "file": "Base/Секционирование по хешу ключа.md"
               }
             }
           },
@@ -276,10 +276,11 @@
   },
   "active": "725406d3d0b10ece",
   "lastOpenFiles": [
+    "Base/Секционирование данных ключ-значение.md",
+    "Base/Секционирование по хешу ключа.md",
     "Base/Секционирование по диапазонам ключей.md",
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
-    "Base/Секционирование данных ключ-значение.md",
     "Base/Векторы версий.md",
     "Base/Секционирование.md",
     "Base/Высоконагруженные приложения.md",
