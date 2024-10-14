@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование по хешу ключа.md",
+                "file": "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование по хешу ключа.md",
+                "file": "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование по хешу ключа.md",
+                "file": "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование по хешу ключа.md",
+                "file": "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование по хешу ключа.md"
+                "file": "Base/Асимметричные нагрузки и разгрузка горячих точек.md"
               }
             }
           },
@@ -276,10 +276,11 @@
   },
   "active": "725406d3d0b10ece",
   "lastOpenFiles": [
-    "Files/Pasted image 20241014185837.png",
-    "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по хешу ключа.md",
+    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
+    "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по диапазонам ключей.md",
+    "Files/Pasted image 20241014185837.png",
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
     "Base/Векторы версий.md",
@@ -304,7 +305,6 @@
     "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Ограничения согласованности по кворуму.md",
     "Files/Pasted image 20241009194155.png",
-    "Files/Pasted image 20241009194011.png",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Топологии репликации с несколькими ведущими узлами.md",
     "Base/Обработка конфликтов записи.md",
