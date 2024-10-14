@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Секционирование данных ключ-значение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485234ad2ba36c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Секционирование данных ключ-значение.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Секционирование данных ключ-значение.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Секционирование данных ключ-значение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Секционирование данных ключ-значение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование.md"
+                "file": "Base/Секционирование данных ключ-значение.md"
               }
             }
           },
@@ -264,8 +276,9 @@
   },
   "active": "725406d3d0b10ece",
   "lastOpenFiles": [
-    "Base/Высоконагруженные приложения.md",
     "Base/Секционирование.md",
+    "Base/Секционирование данных ключ-значение.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Репликация данных.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Обнаружение конкурентных операций записи.md",
@@ -299,7 +312,6 @@
     "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/ЦОД.md",
     "Base/Транзакции.md",
-    "Base/Hibernate.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
