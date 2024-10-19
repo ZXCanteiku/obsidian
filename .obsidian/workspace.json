@@ -11,9 +11,11 @@
             "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/Pasted image 20241006162508.png"
+                "file": "Base/Автоматическое разрешение конфликтов.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Files/Pasted image 20241006162508.png",
+                "file": "Base/Автоматическое разрешение конфликтов.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Pasted image 20241006162508.png",
+                "file": "Base/Автоматическое разрешение конфликтов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Pasted image 20241006162508.png",
+                "file": "Base/Автоматическое разрешение конфликтов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20241006162508.png"
+                "file": "Base/Автоматическое разрешение конфликтов.md"
               }
             }
           },
@@ -182,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,8 +205,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea905ef543b733c7",
+  "active": "f293df5b3873d1bd",
   "lastOpenFiles": [
+    "Files/Pasted image 20241006162508.png",
     "Base/Репликация данных.md",
     "Files/Pasted image 20241014185837.png",
     "Files/Pasted image 20241014184305.png",
