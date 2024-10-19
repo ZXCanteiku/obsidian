@@ -4,91 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9f68a04681d05c07",
+        "id": "899a3b7a3de6ef9e",
         "type": "tabs",
         "children": [
           {
-            "id": "4106d27fb3cef5cb",
+            "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72c408e1a8954e5a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e6c29fb76ab55c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d88ebe9b3d767b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Репликация данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90fe4a6f78819b0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Векторы версий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "725406d3d0b10ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "485234ad2ba36c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Секционирование данных ключ-значение.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Pasted image 20241006162508.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,14 +78,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7141d3ce232f8961",
+            "id": "f293df5b3873d1bd",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Files/Pasted image 20241006162508.png",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -177,7 +106,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761026,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -189,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Files/Pasted image 20241006162508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Files/Pasted image 20241006162508.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md"
+                "file": "Files/Pasted image 20241006162508.png"
               }
             }
           },
@@ -253,11 +182,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 1091.5
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,57 +198,56 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false,
       "workspaces:Пространства": false,
       "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "725406d3d0b10ece",
+  "active": "ea905ef543b733c7",
   "lastOpenFiles": [
-    "Base/Секционирование.md",
-    "Base/Секционирование и вторичные индексы.md",
-    "Base/Секционирование данных ключ-значение.md",
-    "Base/Секционирование по хешу ключа.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Base/Секционирование по диапазонам ключей.md",
+    "Base/Репликация данных.md",
     "Files/Pasted image 20241014185837.png",
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
-    "Base/Векторы версий.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Репликация данных.md",
-    "Base/Репликация без ведущего узла.md",
-    "Base/Обнаружение конкурентных операций записи.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "conflict-files-obsidian-git.md",
+    "Base/Секционирование по хешу ключа.md",
+    "Base/Секционирование по диапазонам ключей.md",
+    "Base/Секционирование и вторичные индексы.md",
+    "Base/Секционирование данных ключ-значение.md",
+    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
+    "Base/Репликация с ведущим узлом.md",
     "Files/Pasted image 20241010212603.png",
-    "Daily/2024-10-10.md",
-    "Base/Слияние конкурентно записываемых значений.md",
-    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Files/Pasted image 20241010212218.png",
-    "Base/Обнаружение связей тип Происходит до.md",
     "Files/Pasted image 20241010211806.png",
     "Files/Pasted image 20241010211755.png",
-    "Base/Отношение «произошло до» и параллелизм.md",
     "Files/Pasted image 20241010211130.png",
     "Files/Pasted image 20241010211039.png",
-    "Base/Нестрогие кворумы и направленная передача.md",
-    "Base/Ограничения согласованности по кворуму.md",
     "Files/Pasted image 20241009194155.png",
-    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/ЦОД.md",
     "Base/Топологии репликации с несколькими ведущими узлами.md",
-    "Base/Обработка конфликтов записи.md",
-    "Base/Автоматическое разрешение конфликтов.md",
     "Base/Сходимость к согласованному состоянию.md",
+    "Base/Слияние конкурентно записываемых значений.md",
+    "Base/Репликация без ведущего узла.md",
+    "Base/Разрешение конфликтов Выигрывает последний.md",
+    "Base/Предотвращение конфликтов.md",
     "Base/Пользовательская логика разрешения конфликтов.md",
+    "Base/Отношение «произошло до» и параллелизм.md",
+    "Base/Ограничения согласованности по кворуму.md",
+    "Base/Обработка конфликтов записи.md",
+    "Base/Обнаружение связей тип Происходит до.md",
+    "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Нестрогие кворумы и направленная передача.md",
+    "Base/Векторы версий.md",
+    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+    "Base/Автоматическое разрешение конфликтов.md",
+    "Base/Hibernate.md",
+    "Files",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
     "Base",
     "Templates",
-    "Files",
     "Base/Программирование/Репликация данных",
     "Base/Программирование"
   ]
