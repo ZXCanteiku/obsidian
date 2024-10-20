@@ -154,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование и вторичные индексы.md"
+                "file": "Base/Высоконагруженные приложения.md"
               }
             }
           },
@@ -253,7 +253,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -274,7 +275,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "725406d3d0b10ece",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Секционирование.md",
     "Base/Секционирование и вторичные индексы.md",
