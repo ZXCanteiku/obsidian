@@ -241,7 +241,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -262,7 +263,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "485234ad2ba36c98",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
