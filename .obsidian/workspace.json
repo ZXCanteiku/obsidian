@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba39ff9d3ed356f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -275,11 +287,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "ba39ff9d3ed356f8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Base/Секционирование данных ключ-значение.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Секционирование.md",
     "Base/Секционирование и вторичные индексы.md",
-    "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по хешу ключа.md",
     "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
     "Base/Секционирование по диапазонам ключей.md",
@@ -287,12 +301,10 @@
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
     "Base/Векторы версий.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Репликация данных.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Обнаружение конкурентных операций записи.md",
     "Base/Синхронная и асинхронная репликация.md",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241010212603.png",
     "Daily/2024-10-10.md",
     "Base/Слияние конкурентно записываемых значений.md",
