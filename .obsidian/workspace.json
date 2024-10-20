@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Хеширование по модулю N.md",
+                "file": "Base/Динамическое секционирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Хеширование по модулю N.md",
+                "file": "Base/Динамическое секционирование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Хеширование по модулю N.md",
+                "file": "Base/Динамическое секционирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Хеширование по модулю N.md",
+                "file": "Base/Динамическое секционирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Хеширование по модулю N.md"
+                "file": "Base/Динамическое секционирование.md"
               }
             }
           },
@@ -265,8 +265,11 @@
   "active": "485234ad2ba36c98",
   "lastOpenFiles": [
     "Base/Перебалансировка секций.md",
-    "Base/Хеширование по модулю N.md",
+    "Base/Динамическое секционирование.md",
+    "Base/Фиксированное количество секций.md",
+    "Files/Pasted image 20241020162845.png",
     "Base/Секционирование.md",
+    "Base/Хеширование по модулю N.md",
     "Base/Секционирование и вторичные индексы.md",
     "Base/Секционирование по термам.md",
     "Files/Pasted image 20241020160508.png",
@@ -295,11 +298,8 @@
     "Files/Pasted image 20241010212218.png",
     "Base/Обнаружение связей тип Происходит до.md",
     "Files/Pasted image 20241010211806.png",
-    "Files/Pasted image 20241010211755.png",
     "Base/Отношение «произошло до» и параллелизм.md",
     "Base/Нестрогие кворумы и направленная передача.md",
-    "Base/Ограничения согласованности по кворуму.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
