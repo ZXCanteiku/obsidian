@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование по документам.md",
+                "file": "Base/Секционирование по термам.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование по документам.md",
+                "file": "Base/Секционирование по термам.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование по документам.md",
+                "file": "Base/Секционирование по термам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование по документам.md",
+                "file": "Base/Секционирование по термам.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование по документам.md"
+                "file": "Base/Секционирование по термам.md"
               }
             }
           },
@@ -264,15 +264,18 @@
   },
   "active": "485234ad2ba36c98",
   "lastOpenFiles": [
-    "Files/Pasted image 20241020155954.png",
+    "Files/Pasted image 20241020160508.png",
+    "Files/Pasted image 20241020160433.png",
     "Base/Секционирование и вторичные индексы.md",
+    "Base/Секционирование по термам.md",
+    "Base/Секционирование по документам.md",
+    "Files/Pasted image 20241020155954.png",
     "Base/Секционирование.md",
     "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по диапазонам ключей.md",
     "Base/Векторы версий.md",
     "Base/Репликация данных.md",
     "Base/Cassandra.md",
-    "Base/Секционирование по документам.md",
     "conflict-files-obsidian-git.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Секционирование по хешу ключа.md",
@@ -293,13 +296,10 @@
     "Files/Pasted image 20241010211755.png",
     "Base/Отношение «произошло до» и параллелизм.md",
     "Files/Pasted image 20241010211130.png",
-    "Files/Pasted image 20241010211039.png",
     "Base/Нестрогие кворумы и направленная передача.md",
     "Base/Ограничения согласованности по кворуму.md",
-    "Files/Pasted image 20241009194155.png",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Топологии репликации с несколькими ведущими узлами.md",
-    "Base/Обработка конфликтов записи.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
