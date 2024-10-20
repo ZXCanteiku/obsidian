@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование по термам.md",
+                "file": "Base/Перебалансировка секций.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование по термам.md",
+                "file": "Base/Перебалансировка секций.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование по термам.md",
+                "file": "Base/Перебалансировка секций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование по термам.md",
+                "file": "Base/Перебалансировка секций.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование по термам.md"
+                "file": "Base/Перебалансировка секций.md"
               }
             }
           },
@@ -264,13 +264,14 @@
   },
   "active": "485234ad2ba36c98",
   "lastOpenFiles": [
+    "Base/Секционирование.md",
+    "Base/Перебалансировка секций.md",
     "Base/Секционирование и вторичные индексы.md",
     "Base/Секционирование по термам.md",
     "Files/Pasted image 20241020160508.png",
     "Files/Pasted image 20241020160433.png",
     "Base/Секционирование по документам.md",
     "Files/Pasted image 20241020155954.png",
-    "Base/Секционирование.md",
     "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по диапазонам ключей.md",
     "Base/Векторы версий.md",
