@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Маршрутизация запросов.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Маршрутизация запросов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Маршрутизация запросов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Секционирование.md",
+                "file": "Base/Маршрутизация запросов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Секционирование.md"
+                "file": "Base/Маршрутизация запросов.md"
               }
             }
           },
@@ -264,13 +264,16 @@
   },
   "active": "485234ad2ba36c98",
   "lastOpenFiles": [
+    "Files/Pasted image 20241020165211.png",
+    "Files/Pasted image 20241020165204.png",
+    "Base/Секционирование.md",
+    "Base/Маршрутизация запросов.md",
     "Base/Перебалансировка секций.md",
     "Base/Автоматическая или ручная перебалансировка.md",
     "Daily/2024-10-20.md",
     "Base/Секционирование пропорционально количеству узлов.md",
     "Base/СУБД Cassandra.md",
     "Base/Cassandra.md",
-    "Base/Секционирование.md",
     "Base/Секционирование данных ключ-значение.md",
     "Base/Векторы версий.md",
     "Base/Динамическое секционирование.md",
@@ -296,10 +299,7 @@
     "Base/Обнаружение конкурентных операций записи.md",
     "Base/Синхронная и асинхронная репликация.md",
     "Files/Pasted image 20241010212603.png",
-    "Daily/2024-10-10.md",
-    "Base/Слияние конкурентно записываемых значений.md",
     "Files/Pasted image 20241010212218.png",
-    "Files/Pasted image 20241010211806.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
