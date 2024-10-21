@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "ecc733aef5f9d55d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Base/Секционирование.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Секционирование)"
+            }
+          },
+          {
             "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
@@ -48,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Java"
+              "title": "Обратные ссылки для conflict-files-obsidian-git"
             }
           },
           {
@@ -139,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Java.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Java"
+              "title": "Исходящие ссылки из conflict-files-obsidian-git"
             }
           },
           {
@@ -166,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Java.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Java"
+              "title": "Структура conflict-files-obsidian-git"
             }
           },
           {
@@ -218,20 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb613dc121b717bc",
+  "active": "ecc733aef5f9d55d",
   "lastOpenFiles": [
-    "Base/Автоматическая или ручная перебалансировка.md",
-    "Base/Автоматическое разрешение конфликтов.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Векторы версий.md",
-    "Base/Динамическое секционирование.md",
-    "Base/Обнаружение конкурентных операций записи.md",
-    "Base/Маршрутизация запросов.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
-    "Без названия.canvas",
     "conflict-files-obsidian-git.md",
+    "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
     "Files/Pasted image 20241020162845.png",
@@ -242,22 +245,32 @@
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
     "Files/Pasted image 20241010212603.png",
+    "Base/Хеширование по модулю N.md",
+    "Base/Фиксированное количество секций.md",
+    "Base/Топологии репликации с несколькими ведущими узлами.md",
+    "Base/Сходимость к согласованному состоянию.md",
+    "Base/Слияние конкурентно записываемых значений.md",
+    "Base/Секционирование пропорционально количеству узлов.md",
+    "Base/Секционирование по хешу ключа.md",
+    "Base/Секционирование по термам.md",
+    "Base/Секционирование по документам.md",
+    "Base/Секционирование по диапазонам ключей.md",
+    "Base/Секционирование и вторичные индексы.md",
+    "Base/Секционирование данных ключ-значение.md",
+    "Base/Репликация без ведущего узла.md",
+    "Base/Разрешение конфликтов Выигрывает последний.md",
+    "Base/Предотвращение конфликтов.md",
+    "Base/Пользовательская логика разрешения конфликтов.md",
+    "Base/Перебалансировка секций.md",
+    "Base/Отношение «произошло до» и параллелизм.md",
     "Base/Ограничения согласованности по кворуму.md",
     "Base/Обработка конфликтов записи.md",
     "Base/Обнаружение связей тип Происходит до.md",
+    "Base/Обнаружение конкурентных операций записи.md",
     "Base/Нестрогие кворумы и направленная передача.md",
-    "Base/Cassandra.md",
-    "Base/Java.md",
-    "Base/ЦОД.md",
-    "Base/Hibernate.md",
+    "Base/Маршрутизация запросов.md",
+    "Base/Динамическое секционирование.md",
     "Files",
-    "Base/Создание новых ведомых узлов.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "Base/Решение проблем с перебоями в обслуживание узлов.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
-    "Base/Репликация с ведущим узлом.md",
-    "Base/Реализация журналов репликации.md",
-    "Base/No SQL базы данных.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
