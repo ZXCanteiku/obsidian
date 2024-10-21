@@ -23,8 +23,12 @@
             "id": "c66e4e2d4a39bb5f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Автоматическая или ручная перебалансировка.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Автоматическая или ручная перебалансировка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Автоматическая или ручная перебалансировка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Автоматическая или ручная перебалансировка.md"
+              }
             }
           },
           {
@@ -188,10 +196,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "857be9d204df600e",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
-    "Без названия.canvas",
+    "Base/Автоматическое разрешение конфликтов.md",
+    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
+    "Base/Автоматическая или ручная перебалансировка.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Векторы версий.md",
+    "Base/Динамическое секционирование.md",
     "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Маршрутизация запросов.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+    "Без названия.canvas",
     "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
@@ -207,13 +224,6 @@
     "Base/Обработка конфликтов записи.md",
     "Base/Обнаружение связей тип Происходит до.md",
     "Base/Нестрогие кворумы и направленная передача.md",
-    "Base/Маршрутизация запросов.md",
-    "Base/Динамическое секционирование.md",
-    "Base/Векторы версий.md",
-    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Base/Автоматическое разрешение конфликтов.md",
-    "Base/Автоматическая или ручная перебалансировка.md",
     "Base/Cassandra.md",
     "Base/Java.md",
     "Base/ЦОД.md",
@@ -226,7 +236,6 @@
     "Base/Репликация с ведущим узлом.md",
     "Base/Реализация журналов репликации.md",
     "Base/No SQL базы данных.md",
-    "Base/Garbage Colector.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
