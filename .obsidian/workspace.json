@@ -37,13 +37,10 @@
             "id": "ecc733aef5f9d55d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Base/Секционирование.md",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Секционирование)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
