@@ -20,7 +20,18 @@
             }
           },
           {
-            "id": "14180e8770704cc9",
+            "id": "c66e4e2d4a39bb5f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Base/Высоконагруженные приложения.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "04ed189d54e0ea22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,13 +207,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14180e8770704cc9",
+  "active": "04ed189d54e0ea22",
   "lastOpenFiles": [
-    "Base/Java.md",
     "conflict-files-obsidian-git.md",
+    "Files/Pasted image 20241020165211.png",
+    "Files/Pasted image 20241020165204.png",
+    "Files/Pasted image 20241020162845.png",
+    "Files/Pasted image 20241020160508.png",
+    "Files/Pasted image 20241020160433.png",
+    "Files/Pasted image 20241020155954.png",
+    "Files/Pasted image 20241014185837.png",
+    "Files/Pasted image 20241014184305.png",
+    "Files/Pasted image 20241014184250.png",
+    "Files/Pasted image 20241010212603.png",
+    "Base/Ограничения согласованности по кворуму.md",
+    "Base/Обработка конфликтов записи.md",
+    "Base/Обнаружение связей тип Происходит до.md",
+    "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Нестрогие кворумы и направленная передача.md",
+    "Base/Маршрутизация запросов.md",
+    "Base/Динамическое секционирование.md",
+    "Base/Векторы версий.md",
+    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
+    "Base/Автоматическое разрешение конфликтов.md",
+    "Base/Автоматическая или ручная перебалансировка.md",
+    "Base/Cassandra.md",
+    "Base/Java.md",
     "Base/ЦОД.md",
     "Base/Hibernate.md",
-    "Files/Pasted image 20241006162508.png",
     "Files",
     "Base/Создание новых ведомых узлов.md",
     "Base/Синхронная и асинхронная репликация.md",
@@ -212,22 +245,8 @@
     "Base/Реализация журналов репликации.md",
     "Base/No SQL базы данных.md",
     "Base/Garbage Colector.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Двоичное представления целочисленных типов в Java, дополнительный код.md",
-    "Base/Elasticsearch и другие.md",
-    "Base/Elasticsearch и дургие.md",
-    "Base/Методы wait-notify их связь и случаи использования.md",
-    "Base/Транзакции.md",
-    "Base/Репликация данных.md",
-    "Base/Секционирование.md",
-    "Templates/Заметка.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
-    "Daily/2024-09-21.md",
-    "Base/Работа/Git Init.md",
-    "Base/Работа/Syncthing.md",
-    "Base/Без названия 1.md",
     "Base/Работа",
     "Daily",
     "Base",
