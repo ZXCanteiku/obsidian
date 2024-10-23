@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.4"
             }
+          },
+          {
+            "id": "d68ce18e93cf7aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Автоматическое разрешение конфликтов.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Автоматическое разрешение конфликтов"
+              "title": "Граф conflict-files-obsidian-git"
             }
           },
           {
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Автоматическое разрешение конфликтов.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Автоматическое разрешение конфликтов"
+              "title": "Обратные ссылки для conflict-files-obsidian-git"
             }
           },
           {
@@ -162,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Автоматическое разрешение конфликтов.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Автоматическое разрешение конфликтов"
+              "title": "Исходящие ссылки из conflict-files-obsidian-git"
             }
           },
           {
@@ -189,10 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Автоматическое разрешение конфликтов.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Автоматическое разрешение конфликтов"
+              "title": "Структура conflict-files-obsidian-git"
             }
           },
           {
@@ -219,7 +233,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -240,8 +255,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfff880ffaf2034a",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Без названия.canvas",
+    "Files/Pasted image 20241020165211.png",
+    "Files/Pasted image 20241020165204.png",
+    "Files/Pasted image 20241020162845.png",
+    "Files/Pasted image 20241020160508.png",
+    "Files/Pasted image 20241020160433.png",
+    "Files/Pasted image 20241020155954.png",
+    "Base/Хеширование по модулю N.md",
+    "Base/Фиксированное количество секций.md",
+    "Base/Создание нового ведущего узла.md",
+    "Base/Секционирование пропорционально количеству узлов.md",
+    "Base/Секционирование по термам.md",
+    "Base/Секционирование по документам.md",
+    "Base/Проблемы задержки репликации.md",
+    "Base/Перебалансировка секций.md",
+    "Base/Маршрутизация запросов.md",
+    "Base/Журнал репликации.md",
+    "Base/Динамическое секционирование.md",
+    "Base/Автоматическая или ручная перебалансировка.md",
+    "Base/Cassandra.md",
     "Base/Архитектурные паттерны.md",
     "Base/Автоматическое разрешение конфликтов.md",
     "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
@@ -254,32 +290,11 @@
     "Base/Асинхронное и синхронное обнаружение конфликтов.md",
     "Base/Отношение «произошло до» и параллелизм.md",
     "Base/Реализация журналов репликации.md",
-    "Base/Репликация с ведущим узлом.md",
-    "Base/Секционирование данных ключ-значение.md",
-    "Base/Создание новых ведомых узлов.md",
-    "Base/Топологии репликации с несколькими ведущими узлами.md",
-    "Base/Elasticsearch и другие.md",
-    "Base/Слияние конкурентно записываемых значений.md",
-    "Base/Секционирование по диапазонам ключей.md",
-    "Base/Секционирование.md",
-    "Base/Репликация с несколькими ведущими узлами.md",
-    "Base/Предотвращение конфликтов.md",
-    "Base/Ограничения согласованности по кворуму.md",
-    "Base/Пользовательская логика разрешения конфликтов.md",
-    "Base/Обработка конфликтов записи.md",
-    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Files/Pasted image 20241006162508.png",
     "Files/Pasted image 20241014185837.png",
     "Files/Pasted image 20241014184305.png",
     "Files/Pasted image 20241014184250.png",
-    "Files/Pasted image 20241010212603.png",
-    "Files/Pasted image 20241010212218.png",
-    "Files/Pasted image 20241010211806.png",
-    "Files/Pasted image 20241010211755.png",
-    "Files/Pasted image 20241010211130.png",
-    "Files/Pasted image 20241010211039.png",
     "Files",
-    "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
