@@ -16,10 +16,25 @@
                 "file": "Base/Автоматическое разрешение конфликтов.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Автоматическое разрешение конфликтов"
+            }
+          },
+          {
+            "id": "dfff880ffaf2034a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -111,7 +132,9 @@
                   "scale": 1,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Автоматическое разрешение конфликтов"
             }
           },
           {
@@ -128,7 +151,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Автоматическое разрешение конфликтов"
             }
           },
           {
@@ -140,7 +165,9 @@
                 "file": "Base/Автоматическое разрешение конфликтов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Автоматическое разрешение конфликтов"
             }
           },
           {
@@ -151,7 +178,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -161,7 +190,9 @@
               "type": "outline",
               "state": {
                 "file": "Base/Автоматическое разрешение конфликтов.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Структура Автоматическое разрешение конфликтов"
             }
           },
           {
@@ -173,7 +204,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           },
           {
@@ -181,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -205,7 +240,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea905ef543b733c7",
+  "active": "dfff880ffaf2034a",
   "lastOpenFiles": [
     "Base/Архитектурные паттерны.md",
     "Base/Автоматическое разрешение конфликтов.md",
