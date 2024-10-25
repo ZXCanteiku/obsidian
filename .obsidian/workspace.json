@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Перебалансировка секций.md",
+                "file": "Base/Хеширование по модулю N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перебалансировка секций"
+              "title": "Хеширование по модулю N"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Перебалансировка секций.md",
+                "file": "Base/Хеширование по модулю N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Перебалансировка секций"
+              "title": "Обратные ссылки для Хеширование по модулю N"
             }
           },
           {
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Перебалансировка секций.md",
+                "file": "Base/Хеширование по модулю N.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Перебалансировка секций"
+              "title": "Граф Хеширование по модулю N"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Перебалансировка секций.md",
+                "file": "Base/Хеширование по модулю N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Перебалансировка секций"
+              "title": "Исходящие ссылки из Хеширование по модулю N"
             }
           },
           {
@@ -285,6 +285,7 @@
   },
   "active": "bb613dc121b717bc",
   "lastOpenFiles": [
+    "Base/Перебалансировка секций.md",
     "Base/Секционирование.md",
     "Base/Секционирование и вторичные индексы.md",
     "Base/Секционирование по термам.md",
@@ -310,7 +311,6 @@
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/СУБД CouchDB.md",
     "Base/Масштабируемый подходы для обнаружения и разрешения конфликтов.md",
-    "Base/ЦОД.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
