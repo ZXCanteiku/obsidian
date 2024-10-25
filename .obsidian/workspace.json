@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Маршрутизация запросов.md",
+                "file": "Base/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Маршрутизация запросов"
+              "title": "Java"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Маршрутизация запросов.md",
+                "file": "Base/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Маршрутизация запросов"
+              "title": "Обратные ссылки для Java"
             }
           },
           {
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Маршрутизация запросов.md",
+                "file": "Base/Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Маршрутизация запросов"
+              "title": "Граф Java"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Маршрутизация запросов.md",
+                "file": "Base/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Маршрутизация запросов"
+              "title": "Исходящие ссылки из Java"
             }
           },
           {
@@ -285,12 +285,15 @@
   },
   "active": "bb613dc121b717bc",
   "lastOpenFiles": [
+    "Base/Hibernate.md",
     "Base/Секционирование.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Транзакции.md",
+    "Base/Маршрутизация запросов.md",
     "Base/Перебалансировка секций.md",
     "Base/Cassandra.md",
     "Base/Автоматическая или ручная перебалансировка.md",
     "Base/Секционирование пропорционально количеству узлов.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Фиксированное количество секций.md",
     "Base/Хеширование по модулю N.md",
     "Base/Секционирование и вторичные индексы.md",
@@ -308,9 +311,6 @@
     "Base/Слияние конкурентно записываемых значений.md",
     "Base/CRDT.md",
     "Base/Разрешение конфликтов Выигрывает последний.md",
-    "Base/Пользовательская логика разрешения конфликтов.md",
-    "Base/Обработка конфликтов записи.md",
-    "Base/Обнаружение связей тип Происходит до.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",

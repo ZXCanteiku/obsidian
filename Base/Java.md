@@ -31,7 +31,7 @@ aliases:
 
 
 ---
-Tags: #java #develop  
+Tags: #java #develop  #main_java
 Author: [[]]
 Related: [[]]
 URL: https://roadmap.sh/java (карта тем по java), https://github.com/Shell26/Java-Developer/tree/master (все что связанно с java)
