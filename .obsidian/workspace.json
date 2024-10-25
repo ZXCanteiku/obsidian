@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Разрешение конфликтов Выигрывает последний.md",
+                "file": "Base/Слияние конкурентно записываемых значений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Разрешение конфликтов Выигрывает последний"
+              "title": "Слияние конкурентно записываемых значений"
+            }
+          },
+          {
+            "id": "70210093c24f8dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/CRDT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRDT"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Разрешение конфликтов Выигрывает последний.md",
+                "file": "Base/CRDT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Разрешение конфликтов Выигрывает последний"
+              "title": "Обратные ссылки для CRDT"
             }
           },
           {
@@ -141,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Разрешение конфликтов Выигрывает последний.md",
+                "file": "Base/CRDT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Разрешение конфликтов Выигрывает последний"
+              "title": "Граф CRDT"
             }
           },
           {
@@ -178,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Разрешение конфликтов Выигрывает последний.md",
+                "file": "Base/CRDT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Разрешение конфликтов Выигрывает последний"
+              "title": "Исходящие ссылки из CRDT"
             }
           },
           {
@@ -255,12 +269,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb613dc121b717bc",
+  "active": "70210093c24f8dfa",
   "lastOpenFiles": [
-    "Base/Обнаружение конкурентных операций записи.md",
-    "Base/Пользовательская логика разрешения конфликтов.md",
-    "Base/Разрешение конфликтов Выигрывает последний.md",
     "Base/Слияние конкурентно записываемых значений.md",
+    "Base/CRDT.md",
+    "Base/Обнаружение конкурентных операций записи.md",
+    "Base/Разрешение конфликтов Выигрывает последний.md",
+    "Base/Пользовательская логика разрешения конфликтов.md",
     "Base/Векторы версий.md",
     "Base/Обработка конфликтов записи.md",
     "Base/Обнаружение связей тип Происходит до.md",
@@ -282,7 +297,6 @@
     "Base/Высоконагруженные приложения.md",
     "Base/Elasticsearch и другие.md",
     "Base/Java.md",
-    "conflict-files-obsidian-git.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
