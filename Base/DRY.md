@@ -14,5 +14,5 @@ DRY (Don't Repeat Yourself) — это принцип программирова
 ---
 Tags: #DRY
 Author: [[]]
-Related: [[Дизайн паттерны и принципы]]]
+Related: [[Дизайн паттерны и принципы]]
 URL: [[]]

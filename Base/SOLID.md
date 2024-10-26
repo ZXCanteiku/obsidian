@@ -43,5 +43,5 @@ aliases:
 ---
 Tags: #SOLID
 Author: [[]]
-Related: [[Дизайн паттерны и принципы]]]
+Related: [[Дизайн паттерны и принципы]]
 URL: [[]]

@@ -13,5 +13,5 @@ KISS (Keep It Simple, Stupid) — это принцип проектирован
 ---
 Tags: #KISS
 Author: [[]]
-Related: [[Дизайн паттерны и принципы]]]
+Related: [[Дизайн паттерны и принципы]]
 URL: [[]]
