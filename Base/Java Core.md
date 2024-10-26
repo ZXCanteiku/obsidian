@@ -4,9 +4,9 @@ aliases:
 
 Устройство java
 
-- [[Garbage Colector]]
 - [[JVM,  Архитектура JVM]]
 - [[Устройство памяти в JVM]]
+- [[Garbage Colector]]
 - [[Пулл Integer]]
 - [[Пулл String]]
 - [[Джинерики]]

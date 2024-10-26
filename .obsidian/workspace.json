@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/SOLID.md",
+                "file": "Base/KISS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID"
+              "title": "KISS"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дизайн паттерны и принципы.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дизайн паттерны и принципы"
+              "title": "JVM,  Архитектура JVM"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Виды ссылок в java.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды ссылок в java"
+              "title": "JVM,  Архитектура JVM"
             }
           },
           {
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CMS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Виды ссылок в java.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Виды ссылок в java"
+              "title": "Граф JVM,  Архитектура JVM"
             }
           },
           {
@@ -413,24 +413,25 @@
   },
   "active": "57d83502b6c3e390",
   "lastOpenFiles": [
+    "Base/Java Core.md",
     "Base/Garbage Colector.md",
-    "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Виды ссылок в java.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/KISS.md",
+    "Base/SOLID.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Garbage-First (G1).md",
     "Base/Parallel.md",
     "Base/Serial.md",
-    "Base/Java Core.md",
     "Files/Pasted image 20241026142223.png",
-    "Base/Дизайн паттерны и принципы.md",
     "Base/DRY.md",
-    "Base/SOLID.md",
     "Base/Java Developer.md",
-    "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти типов.md",
     "Base/Многопоточность.md",
     "Base/ООП.md",
     "Base/YAGNI.md",
-    "Base/KISS.md",
     "Base/Полиморфизм.md",
     "Base/Наследование.md",
     "Base/Динамическое связывание.md",
@@ -439,7 +440,6 @@
     "Base/Инкапсуляция.md",
     "Base/Секционирование по термам.md",
     "Base/Автоматическое разрешение конфликтов.md",
-    "Base/Hibernate.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
