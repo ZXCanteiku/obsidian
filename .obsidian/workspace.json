@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JVM",
+                "query": "tag:#KISS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -411,17 +411,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a50e57744570543",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
+    "Base/KISS.md",
+    "Base/Устройство памяти в JVM.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
     "Base/Garbage Colector.md",
     "Base/Виды ссылок в java.md",
     "Base/Дизайн паттерны и принципы.md",
-    "Base/KISS.md",
     "Base/SOLID.md",
-    "Base/Устройство памяти в JVM.md",
     "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Garbage-First (G1).md",
     "Base/Parallel.md",
