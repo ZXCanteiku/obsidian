@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Устройство памяти в JVM.md",
+                "file": "Base/Устройство памяти примитивных типов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Устройство памяти в JVM"
+              "title": "Устройство памяти примитивных типов"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Устройство памя",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,8 +256,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Устройство памяти в JVM.md",
+                "file": "Base/Устройство памяти примитивных типов.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +304,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Устройство памяти в JVM"
+              "title": "Граф Устройство памяти примитивных типов"
             }
           },
           {
@@ -390,8 +389,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -412,10 +410,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "7a50e57744570543",
   "lastOpenFiles": [
-    "Base/KISS.md",
     "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/KISS.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
@@ -430,7 +430,6 @@
     "Files/Pasted image 20241026142223.png",
     "Base/DRY.md",
     "Base/Java Developer.md",
-    "Base/Устройство памяти типов.md",
     "Base/Многопоточность.md",
     "Base/ООП.md",
     "Base/YAGNI.md",
