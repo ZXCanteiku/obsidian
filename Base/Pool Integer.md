@@ -1,4 +1,4 @@
-## Пулл Integer
+## Pool Integer
 
 aliases: 
 	- "Пулл Integer"

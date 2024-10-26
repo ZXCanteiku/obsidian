@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пулл String.md",
+                "file": "Base/PoolString.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пулл String"
+              "title": "PoolString"
             }
           },
           {
@@ -256,8 +256,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,7 +276,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Пулл String.md",
+                "file": "Base/PoolString.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +304,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Пулл String"
+              "title": "Граф PoolString"
             }
           },
           {
@@ -413,9 +412,9 @@
   },
   "active": "7a50e57744570543",
   "lastOpenFiles": [
+    "Base/Pool Integer.md",
     "Base/Java Core.md",
-    "Base/Пулл Integer.md",
-    "Base/Пулл String.md",
+    "Base/PoolString.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/Дизайн паттерны и принципы.md",

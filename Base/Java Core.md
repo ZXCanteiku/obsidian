@@ -7,8 +7,8 @@ aliases:
 - [[JVM,  Архитектура JVM]]
 - [[Устройство памяти в JVM]]
 - [[Garbage Colector]]
-- [[Пулл Integer]]
-- [[Пулл String]]
+- [[Pool Integer]]
+- [[Pool String]]
 - [[Джинерики]]
 
 ---
