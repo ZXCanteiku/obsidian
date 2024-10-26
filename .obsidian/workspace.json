@@ -399,6 +399,7 @@
   },
   "active": "4cfe14245ad3a95c",
   "lastOpenFiles": [
+    "Files/Pasted image 20241026142223.png",
     "Base/Дизайн паттерны и принципы.md",
     "Base/DRY.md",
     "Base/SOLID.md",
@@ -424,7 +425,6 @@
     "Base/Обнаружение конкурентных операций записи.md",
     "Base/Riak 2.0.md",
     "Base/CRDT.md",
-    "Base/Репликация без ведущего узла.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
