@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Динамическое связывание.md",
+                "file": "Base/Дизайн паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамическое связывание"
+              "title": "Дизайн паттерны"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Полиморфизм",
+                "query": "tag:#ООП",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,13 +316,14 @@
   },
   "active": "57d83502b6c3e390",
   "lastOpenFiles": [
-    "Base/Полиморфизм.md",
     "Base/ООП.md",
+    "Base/Дизайн паттерны.md",
+    "Base/Наследование.md",
+    "Base/Полиморфизм.md",
     "Base/Динамическое связывание.md",
     "Base/Абстракция.md",
     "Base/Посылка сообщений.md",
     "Base/Инкапсуляция.md",
-    "Base/Наследование.md",
     "Base/Секционирование по термам.md",
     "Base/Автоматическое разрешение конфликтов.md",
     "Base/Java Developer.md",
@@ -341,7 +342,6 @@
     "Base/Обработка конфликтов записи.md",
     "Base/Масштабируемый подходы для обнаружения и разрешения конфликтов.md",
     "Base/Пользовательская логика разрешения конфликтов.md",
-    "Base/Сходимость к согласованному состоянию.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
