@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#heap",
+                "query": "tag:#integer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -414,8 +414,8 @@
   "active": "7a50e57744570543",
   "lastOpenFiles": [
     "Base/Java Core.md",
-    "Base/Пулл String.md",
     "Base/Пулл Integer.md",
+    "Base/Пулл String.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/Дизайн паттерны и принципы.md",

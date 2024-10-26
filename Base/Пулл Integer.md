@@ -13,13 +13,12 @@ aliases:
         `Integer a = new Integer(128); Integer b = new Integer(128); System.out.println(a == b); // false, так как это разные объекты`
         
 3. **Использование статического метода `Integer.valueOf()`**:
-    
     - Рекомендуется использовать метод `Integer.valueOf(int)` вместо конструктора `Integer(int)` для создания объектов `Integer`. Метод `valueOf` использует пул объектов и возвращает кэшированные значения для диапазона от `-128` до `127`.
         `Integer a = Integer.valueOf(127); Integer b = Integer.valueOf(127); System.out.println(a == b); // true`
 
 
 ---
-Tags: #integer #pull
+Tags: #integer #pool
 Author: [[]]
 Related: [[Java Core]]
 URL: [[]]
