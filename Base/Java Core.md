@@ -9,7 +9,7 @@ aliases:
 - [[Garbage Colector]]
 - [[Pool Integer]]
 - [[Pool String]]
-- [[Джинерики]]
+- [[Дженерики]]
 
 ---
 Tags: #java_core
