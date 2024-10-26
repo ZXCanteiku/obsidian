@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JVM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -411,15 +411,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d83502b6c3e390",
+  "active": "7a50e57744570543",
   "lastOpenFiles": [
     "Base/Java Core.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Garbage Colector.md",
     "Base/Виды ссылок в java.md",
     "Base/Дизайн паттерны и принципы.md",
     "Base/KISS.md",
     "Base/SOLID.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Garbage-First (G1).md",
