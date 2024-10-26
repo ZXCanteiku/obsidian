@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/DRY.md",
+                "file": "Base/Дизайн паттерны и принципы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRY"
+              "title": "Дизайн паттерны и принципы"
             }
           },
           {
@@ -399,18 +399,18 @@
   },
   "active": "4cfe14245ad3a95c",
   "lastOpenFiles": [
-    "Base/Java Developer.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/DRY.md",
+    "Base/SOLID.md",
     "Base/Garbage Colector.md",
+    "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти типов.md",
     "Base/Многопоточность.md",
     "Base/ООП.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/DRY.md",
     "Base/YAGNI.md",
     "Base/KISS.md",
-    "Base/SOLID.md",
     "Base/Полиморфизм.md",
     "Base/Наследование.md",
     "Base/Динамическое связывание.md",
