@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/ООП.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ООП"
+              "title": "Java Core"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java  Core.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java  Core"
+              "title": "Java Core"
             }
           },
           {
@@ -274,9 +274,10 @@
   "active": "dfff880ffaf2034a",
   "lastOpenFiles": [
     "Base/Java Developer.md",
-    "Base/ООП.md",
+    "Base/Java Core.md",
+    "Base/Hibernate.md",
     "Base/Концепции ООП.md",
-    "Base/Java  Core.md",
+    "Base/ООП.md",
     "Base/Секционирование по термам.md",
     "Base/Обнаружение конкурентных операций записи.md",
     "Base/Riak 2.0.md",
@@ -305,7 +306,6 @@
     "Files/Pasted image 20241020160508.png",
     "Files/Pasted image 20241020160433.png",
     "Files/Pasted image 20241020155954.png",
-    "Base/Хеширование по модулю N.md",
     "Files/Pasted image 20241006162508.png",
     "Files/Pasted image 20241014185837.png",
     "Files/Pasted image 20241014184305.png",
