@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Устройство памяти примитивных типов.md",
+                "file": "Base/Пулл String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Устройство памяти примитивных типов"
+              "title": "Пулл String"
             }
           },
           {
@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Устройство памя",
+                "query": "tag:#heap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +256,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Устройство памяти примитивных типов.md",
+                "file": "Base/Пулл String.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Устройство памяти примитивных типов"
+              "title": "Граф Пулл String"
             }
           },
           {
@@ -412,11 +413,13 @@
   },
   "active": "7a50e57744570543",
   "lastOpenFiles": [
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/Устройство памяти примитивных типов.md",
-    "Base/KISS.md",
-    "Base/Устройство памяти в JVM.md",
     "Base/Java Core.md",
+    "Base/Пулл String.md",
+    "Base/Пулл Integer.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/KISS.md",
     "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
     "Base/Garbage Colector.md",
@@ -438,7 +441,6 @@
     "Base/Абстракция.md",
     "Base/Посылка сообщений.md",
     "Base/Инкапсуляция.md",
-    "Base/Секционирование по термам.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
