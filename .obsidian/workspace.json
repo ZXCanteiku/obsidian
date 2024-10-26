@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Garbage Colector"
             }
           },
           {
@@ -263,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Garbage Colector.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Core"
+              "title": "Граф Garbage Colector"
             }
           },
           {
@@ -399,10 +399,11 @@
   },
   "active": "4cfe14245ad3a95c",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
+    "Base/Garbage Colector.md",
+    "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти типов.md",
-    "Base/Java Core.md",
-    "Base/Java Developer.md",
     "Base/Многопоточность.md",
     "Base/ООП.md",
     "Base/Дизайн паттерны и принципы.md",
@@ -424,7 +425,6 @@
     "Base/Riak 2.0.md",
     "Base/CRDT.md",
     "Base/Репликация без ведущего узла.md",
-    "Base/Репликация данных.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
