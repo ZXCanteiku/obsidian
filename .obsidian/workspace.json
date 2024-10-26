@@ -235,7 +235,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KISS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -390,7 +390,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -411,7 +412,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d83502b6c3e390",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/KISS.md",
     "Base/Устройство памяти в JVM.md",
