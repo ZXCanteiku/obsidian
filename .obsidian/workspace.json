@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Hibernate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дженерики"
+              "title": "Hibernate"
             }
           },
           {
@@ -290,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Hibernate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,7 +318,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Дженерики"
+              "title": "Граф Hibernate"
             }
           },
           {
@@ -424,9 +424,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01ca8f30865cf92b",
+  "active": "857be9d204df600e",
   "lastOpenFiles": [
+    "Base/Garbage-First (G1).md",
+    "Base/Hibernate.md",
     "Base/Java Core.md",
+    "Base/KISS.md",
+    "Base/Parallel.md",
+    "Base/Serial.md",
+    "Base/SOLID.md",
     "Base/Дженерики.md",
     "Base/Pool Integer.md",
     "Base/Pool String.md",
@@ -434,16 +440,11 @@
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/Дизайн паттерны и принципы.md",
-    "Base/KISS.md",
     "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
     "Base/Garbage Colector.md",
     "Base/Виды ссылок в java.md",
-    "Base/SOLID.md",
     "Base/Concurrent Mark Sweep (CMS).md",
-    "Base/Garbage-First (G1).md",
-    "Base/Parallel.md",
-    "Base/Serial.md",
     "Files/Pasted image 20241026142223.png",
     "Base/DRY.md",
     "Base/Java Developer.md",
@@ -454,7 +455,6 @@
     "Base/Наследование.md",
     "Base/Динамическое связывание.md",
     "Base/Абстракция.md",
-    "Base/Посылка сообщений.md",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
