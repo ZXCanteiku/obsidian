@@ -403,7 +403,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -424,7 +425,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "857be9d204df600e",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Garbage-First (G1).md",
     "Base/Hibernate.md",
