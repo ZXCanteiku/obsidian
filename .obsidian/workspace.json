@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/ThreadLocal.md",
+                "file": "Base/Java thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ThreadLocal"
+              "title": "Java thread"
             }
           },
           {
@@ -318,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/ThreadLocal.md",
+                "file": "Base/Java thread.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф ThreadLocal"
+              "title": "Граф Java thread"
             }
           },
           {
@@ -454,11 +454,11 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
+    "Base/Concurrent.md",
     "Base/Java thread.md",
+    "Base/Atomic.md",
     "Base/Cпособы синхронизации в Java.md",
     "Base/ThreadLocal.md",
-    "Base/Atomic.md",
-    "Base/Concurrent.md",
     "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
     "Base/Livelock.md",
