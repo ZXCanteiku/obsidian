@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дамп потока.md",
+                "file": "Base/Потоки демоны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дамп потока"
+              "title": "Потоки демоны"
             }
           },
           {
@@ -298,8 +298,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Дамп потока.md",
+                "file": "Base/Потоки демоны.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Дамп потока"
+              "title": "Граф Потоки демоны"
             }
           },
           {
@@ -455,24 +454,25 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
-    "Base/Java thread.md",
-    "Base/Concurrent.md",
-    "Base/Дамп потока.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Interrupted.md",
-    "Base/Atomic.md",
-    "Base/ThreadLocal.md",
-    "Base/Locks.md",
     "Base/Многопоточность.md",
-    "Base/Модель памяти в Java.md",
+    "Base/Потоки демоны.md",
     "Base/Проблемы многопоточности.md",
+    "Base/Java Developer.md",
+    "Base/Deadlock.md",
+    "Base/Interrupted.md",
+    "Base/Java thread.md",
+    "Base/ThreadLocal.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Дамп потока.md",
+    "Base/Concurrent.md",
+    "Base/Atomic.md",
+    "Base/Locks.md",
+    "Base/Модель памяти в Java.md",
     "Base/Livelock.md",
     "Base/Race condition.md",
     "Files/Pasted image 20241028192859.png",
-    "Base/Deadlock.md",
     "Files/Pasted image 20241028192745.png",
     "Base/Зелёные потоки.md",
-    "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Дженерики.md",
     "Base/KISS.md",
@@ -482,7 +482,6 @@
     "Base/Parallel.md",
     "Base/Serial.md",
     "Base/SOLID.md",
-    "Base/Pool Integer.md",
     "Files/Pasted image 20241026163913.png",
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
