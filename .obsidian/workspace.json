@@ -291,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,7 +319,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -404,8 +404,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -426,7 +425,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a50e57744570543",
+  "active": "f293df5b3873d1bd",
   "lastOpenFiles": [
     "Base/Java Developer.md",
     "Base/Многопоточность.md",
