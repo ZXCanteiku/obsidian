@@ -249,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java_core",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,8 +270,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -425,19 +424,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f293df5b3873d1bd",
+  "active": "7a50e57744570543",
   "lastOpenFiles": [
     "Base/Java Developer.md",
-    "Base/Многопоточность.md",
     "Base/Java Core.md",
+    "Base/Дженерики.md",
+    "Base/KISS.md",
+    "Base/Многопоточность.md",
     "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
     "Base/Garbage-First (G1).md",
-    "Base/KISS.md",
     "Base/Parallel.md",
     "Base/Serial.md",
     "Base/SOLID.md",
-    "Base/Дженерики.md",
     "Base/Pool Integer.md",
     "Base/Pool String.md",
     "Files/Pasted image 20241026163913.png",
