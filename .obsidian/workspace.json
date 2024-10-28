@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Deadlock.md",
+                "file": "Base/Livelock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlock"
+              "title": "Livelock"
             }
           },
           {
@@ -305,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Deadlock.md",
+                "file": "Base/Livelock.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,7 +333,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Deadlock"
+              "title": "Граф Livelock"
             }
           },
           {
@@ -443,8 +443,10 @@
   "lastOpenFiles": [
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
-    "Base/Livelock.md",
+    "Files/Pasted image 20241028192859.png",
     "Base/Deadlock.md",
+    "Files/Pasted image 20241028192745.png",
+    "Base/Livelock.md",
     "Base/Многопоточность.md",
     "Base/Зелёные потоки.md",
     "Base/Java thread.md",
@@ -468,7 +470,6 @@
     "Base/Дизайн паттерны и принципы.md",
     "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
-    "Base/Garbage Colector.md",
     "Files/Pasted image 20241026142223.png",
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
@@ -476,8 +477,6 @@
     "Files/Pasted image 20241020162845.png",
     "Files/Pasted image 20241020160508.png",
     "Files/Pasted image 20241020160433.png",
-    "Files/Pasted image 20241020155954.png",
-    "Files/Pasted image 20241006162508.png",
     "Files",
     "Без названия 1.canvas",
     "Base/Работа",
