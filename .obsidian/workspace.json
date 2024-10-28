@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Locks.md",
+                "file": "Base/CountDownLatch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locks"
+              "title": "CountDownLatch"
             }
           },
           {
@@ -318,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Locks.md",
+                "file": "Base/CountDownLatch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Locks"
+              "title": "Граф CountDownLatch"
             }
           },
           {
@@ -454,8 +454,11 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
-    "Base/Cпособы синхронизации в Java.md",
     "Base/Locks.md",
+    "Base/CountDownLatch.md",
+    "Base/ReadWriteLock.md",
+    "Base/ReentrantLock.md",
+    "Base/Cпособы синхронизации в Java.md",
     "Base/Java thread.md",
     "Base/Concurrent.md",
     "Base/Многопоточность.md",
@@ -479,9 +482,6 @@
     "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
     "Base/Garbage-First (G1).md",
-    "Base/Parallel.md",
-    "Base/Serial.md",
-    "Base/SOLID.md",
     "Files/Pasted image 20241026163913.png",
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
