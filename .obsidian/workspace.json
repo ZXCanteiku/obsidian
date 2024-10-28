@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Cпособы синхронизации в Java.md",
+                "file": "Base/Atomic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cпособы синхронизации в Java"
+              "title": "Atomic"
             }
           },
           {
@@ -304,7 +304,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Cпособы синхронизации в Java.md",
+                "file": "Base/Atomic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,7 +332,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Cпособы синхронизации в Java"
+              "title": "Граф Atomic"
             }
           },
           {
@@ -441,8 +441,9 @@
   "active": "905cd75d53c4476b",
   "lastOpenFiles": [
     "Base/Java thread.md",
-    "Base/Concurrent.md",
+    "Base/Atomic.md",
     "Base/Cпособы синхронизации в Java.md",
+    "Base/Concurrent.md",
     "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
     "Base/Livelock.md",
@@ -468,7 +469,6 @@
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/Дизайн паттерны и принципы.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
     "Без названия.canvas",
