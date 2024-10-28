@@ -6,7 +6,7 @@ aliases:
 
 
 ---
-Tags: #thread #java #locks #CountDownLatch
+Tags: #thread #java #locks #count_down_latch
 Author: [[]]
 Related: [[Locks]]
 URL: [[]]
