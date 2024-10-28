@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Cпособы синхронизации в Java.md",
+                "file": "Base/Concurrent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cпособы синхронизации в Java"
+              "title": "Concurrent"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deadlock",
+                "query": "tag:#concurrent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,7 +298,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -318,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Cпособы синхронизации в Java.md",
+                "file": "Base/Concurrent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Cпособы синхронизации в Java"
+              "title": "Граф Concurrent"
             }
           },
           {
@@ -454,12 +455,14 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
-    "Base/Java thread.md",
-    "Base/Atomic.md",
+    "Base/Locks.md",
     "Base/Concurrent.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/ThreadLocal.md",
+    "Base/Java thread.md",
     "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Atomic.md",
+    "Base/ThreadLocal.md",
     "Base/Проблемы многопоточности.md",
     "Base/Livelock.md",
     "Base/Race condition.md",
@@ -467,7 +470,6 @@
     "Base/Deadlock.md",
     "Files/Pasted image 20241028192745.png",
     "Base/Зелёные потоки.md",
-    "Base/Модель памяти в Java.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Дженерики.md",
@@ -482,7 +484,6 @@
     "Base/Pool String.md",
     "Files/Pasted image 20241026163913.png",
     "Base/Устройство памяти в JVM.md",
-    "Base/Устройство памяти примитивных типов.md",
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
     "Без названия.canvas",
