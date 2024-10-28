@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Многопоточность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Многопоточность"
             }
           },
           {
@@ -249,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#integer",
+                "query": "tag:#java_core",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,7 +270,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -428,8 +429,9 @@
   "active": "7a50e57744570543",
   "lastOpenFiles": [
     "Base/Java Developer.md",
-    "conflict-files-obsidian-git.md",
+    "Base/Многопоточность.md",
     "Base/Java Core.md",
+    "conflict-files-obsidian-git.md",
     "Base/Hibernate.md",
     "Base/Garbage-First (G1).md",
     "Base/KISS.md",
@@ -450,7 +452,6 @@
     "Base/Concurrent Mark Sweep (CMS).md",
     "Files/Pasted image 20241026142223.png",
     "Base/DRY.md",
-    "Base/Многопоточность.md",
     "Base/ООП.md",
     "Base/YAGNI.md",
     "Base/Полиморфизм.md",
