@@ -125,12 +125,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Java thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Java thread"
+            }
+          },
+          {
+            "id": "21bfc66cb6546b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/ThreadLocal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ThreadLocal"
             }
           },
           {
@@ -232,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -304,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/ThreadLocal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф ThreadLocal"
             }
           },
           {
@@ -438,11 +452,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905cd75d53c4476b",
+  "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
     "Base/Java thread.md",
-    "Base/Atomic.md",
     "Base/Cпособы синхронизации в Java.md",
+    "Base/ThreadLocal.md",
+    "Base/Atomic.md",
     "Base/Concurrent.md",
     "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
@@ -468,7 +483,6 @@
     "Files/Pasted image 20241026163913.png",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
-    "Base/Дизайн паттерны и принципы.md",
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
     "Без названия.canvas",

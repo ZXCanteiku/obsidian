@@ -14,6 +14,7 @@ aliases:
 - [[Interrupted]]
 - [[Дамп потока]]
 - [[Cпособы синхронизации в Java]]
+- [[ThreadLocal]]
 
 
 ---
