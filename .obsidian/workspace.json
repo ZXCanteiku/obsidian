@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "905cd75d53c4476b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Многопоточность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Многопоточность"
+            }
+          },
+          {
             "id": "01ca8f30865cf92b",
             "type": "leaf",
             "state": {
@@ -218,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -424,7 +438,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a50e57744570543",
+  "active": "905cd75d53c4476b",
   "lastOpenFiles": [
     "Base/Модель памяти в Java.md",
     "Base/Многопоточность.md",
