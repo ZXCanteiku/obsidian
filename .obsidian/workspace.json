@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/Cпособы синхронизации в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java thread"
+              "title": "Cпособы синхронизации в Java"
             }
           },
           {
@@ -318,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/Cпособы синхронизации в Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java thread"
+              "title": "Граф Cпособы синхронизации в Java"
             }
           },
           {
@@ -454,9 +454,9 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
-    "Base/Concurrent.md",
     "Base/Java thread.md",
     "Base/Atomic.md",
+    "Base/Concurrent.md",
     "Base/Cпособы синхронизации в Java.md",
     "Base/ThreadLocal.md",
     "Base/Многопоточность.md",
