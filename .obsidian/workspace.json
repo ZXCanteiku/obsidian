@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Java Developer"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -290,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Hibernate.md",
+                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,7 +318,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Hibernate"
+              "title": "Граф Java Developer"
             }
           },
           {
@@ -425,11 +425,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "7a50e57744570543",
   "lastOpenFiles": [
-    "Base/Garbage-First (G1).md",
-    "Base/Hibernate.md",
     "Base/Java Core.md",
+    "Base/Hibernate.md",
+    "Base/Garbage-First (G1).md",
     "Base/KISS.md",
     "Base/Parallel.md",
     "Base/Serial.md",
