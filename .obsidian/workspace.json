@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Неповторяющееся чтение.md",
+                "file": "Base/Фантомное чтение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Неповторяющееся чтение"
+              "title": "Фантомное чтение"
             }
           },
           {
@@ -333,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Неповторяющееся чтение.md",
+                "file": "Base/Фантомное чтение.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -361,7 +361,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Неповторяющееся чтение"
+              "title": "Граф Фантомное чтение"
             }
           },
           {
@@ -470,8 +470,10 @@
   "active": "38cee8c0f506b7a1",
   "lastOpenFiles": [
     "Base/Уровни изоляций транзакции.md",
-    "Base/Грязное чтение.md",
     "Base/Неповторяющееся чтение.md",
+    "Base/Фантомное чтение.md",
+    "Files/Pasted image 20241029230639.png",
+    "Base/Грязное чтение.md",
     "Files/Pasted image 20241029230220.png",
     "Base/Реляционные базы данных.md",
     "Base/ACID.md",
@@ -495,7 +497,6 @@
     "Base/Exchanger.md",
     "Base/Semaphore.md",
     "Base/CyclicBarrier.md",
-    "Base/CountDownLatch.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
@@ -505,7 +506,6 @@
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
     "Files/Pasted image 20241020162845.png",
-    "Files/Pasted image 20241020160508.png",
     "Files",
     "Без названия 1.canvas",
     "Base/Работа",
