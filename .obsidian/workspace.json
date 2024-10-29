@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Реляционные базы данных.md",
+                "file": "Base/ACID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реляционные базы данных"
+              "title": "ACID"
             }
           },
           {
@@ -318,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Реляционные базы данных.md",
+                "file": "Base/ACID.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Реляционные базы данных"
+              "title": "Граф ACID"
             }
           },
           {
@@ -454,8 +454,9 @@
   },
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
-    "Base/Java Developer.md",
     "Base/Реляционные базы данных.md",
+    "Base/ACID.md",
+    "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Многопоточность.md",
     "Base/Типы блокировок.md",
@@ -479,7 +480,6 @@
     "Base/Concurrent.md",
     "Base/Deadlock.md",
     "Base/ThreadLocal.md",
-    "Base/Atomic.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
