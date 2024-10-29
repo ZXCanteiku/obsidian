@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CyclicBarrier.md",
+                "file": "Base/Exchanger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CyclicBarrier"
+              "title": "Exchanger"
             }
           },
           {
@@ -319,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CyclicBarrier.md",
+                "file": "Base/Exchanger.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф CyclicBarrier"
+              "title": "Граф Exchanger"
             }
           },
           {
@@ -456,6 +456,7 @@
   "active": "21bfc66cb6546b6f",
   "lastOpenFiles": [
     "Base/Locks.md",
+    "Base/Semaphore.md",
     "Base/CyclicBarrier.md",
     "Base/CountDownLatch.md",
     "Base/ReadWriteLock.md",
@@ -463,7 +464,6 @@
     "Base/StampedLock.md",
     "Base/Phaser.md",
     "Base/Exchanger.md",
-    "Base/Semaphore.md",
     "Base/Cпособы синхронизации в Java.md",
     "Base/Java thread.md",
     "Base/Concurrent.md",
