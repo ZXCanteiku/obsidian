@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Фантомное чтение.md",
+                "file": "Base/Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фантомное чтение"
+              "title": "Индексы"
             }
           },
           {
@@ -291,7 +291,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#derty_reead",
+                "query": "tag:#acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -333,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Фантомное чтение.md",
+                "file": "Base/Индексы.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -361,7 +361,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Фантомное чтение"
+              "title": "Граф Индексы"
             }
           },
           {
@@ -467,17 +467,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38cee8c0f506b7a1",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
-    "Files/Pasted image 20241029230932.png",
+    "Base/Реляционные базы данных.md",
+    "Base/ACID.md",
     "Base/Уровни изоляций транзакции.md",
-    "Base/Неповторяющееся чтение.md",
+    "Base/Индексы.md",
     "Base/Фантомное чтение.md",
+    "Files/Pasted image 20241029230932.png",
+    "Base/Неповторяющееся чтение.md",
     "Files/Pasted image 20241029230639.png",
     "Base/Грязное чтение.md",
     "Files/Pasted image 20241029230220.png",
-    "Base/Реляционные базы данных.md",
-    "Base/ACID.md",
     "Base/Нормальные формы.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
@@ -505,7 +506,6 @@
     "Без названия.canvas",
     "Files/Pasted image 20241020165211.png",
     "Files/Pasted image 20241020165204.png",
-    "Files/Pasted image 20241020162845.png",
     "Files",
     "Без названия 1.canvas",
     "Base/Работа",
