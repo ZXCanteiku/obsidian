@@ -469,6 +469,7 @@
   },
   "active": "38cee8c0f506b7a1",
   "lastOpenFiles": [
+    "Files/Pasted image 20241029230932.png",
     "Base/Уровни изоляций транзакции.md",
     "Base/Неповторяющееся чтение.md",
     "Base/Фантомное чтение.md",
@@ -496,7 +497,6 @@
     "Base/Phaser.md",
     "Base/Exchanger.md",
     "Base/Semaphore.md",
-    "Base/CyclicBarrier.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
