@@ -4,14 +4,15 @@ aliases:
 	- "StampedLock"
 
 **StampedLock** - Современная версия `ReadWriteLock`, которая включает механизмы оптимистического чтения. Потоки могут выполнять операции без блокировки, пока не происходит записи, используя метод `tryOptimisticRead()`.
-
-	StampedLock lock = new StampedLock();
-	long stamp = lock.tryOptimisticRead();
-	try {
-	    // Чтение данных
-	} finally {
-	    lock.unlock(stamp);
-	}
+```java
+StampedLock lock = new StampedLock();
+long stamp = lock.tryOptimisticRead();
+try {
+	// Чтение данных
+} finally {
+	lock.unlock(stamp);
+}
+```
 
 **Преимущества**:
 - **Оптимистическое чтение**: `StampedLock` позволяет избежать блокировок при операциях чтения, если записи не происходят, что может значительно ускорить операции чтения.

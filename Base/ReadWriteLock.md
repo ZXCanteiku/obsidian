@@ -6,25 +6,25 @@ aliases:
 **ReadWriteLock** – это интерфейс расширяющий базовый интерфейс `Lock`. Используется для улучшения производительности в многопоточном процессе и оперирует парой связанных блокировок (одна - для операций чтения, другая - для записи). Блокировка чтения может удерживаться одновременно несколькими читающими потоками, до тех пор пока не появится записывающий. Блокировка записи является эксклюзивеной.
 
 Существует реализующий интерфейс `ReadWriteLock` класс `ReentrantReadWriteLock`, который поддерживает до 65535 блокировок записи и до стольки же блокировок чтения.
+```java
+ReadWriteLock rwLock = new ReentrantReadWriteLock();
+Lock rLock = rwLock.readLock();
+Lock wLock = rwLock.writeLock();
 
-	ReadWriteLock rwLock = new ReentrantReadWriteLock();
-	Lock rLock = rwLock.readLock();
-	Lock wLock = rwLock.writeLock();
-	
-	wLock.lock();
-	try {
-	    // exclusive write
-	} finally {
-	    wLock.unlock();
-	}
-	        
-	rLock.lock();
-	try {
-	    // shared reading
-	} finally {
-	    rLock.unlock();
-	}        
-
+wLock.lock();
+try {
+	// exclusive write
+} finally {
+	wLock.unlock();
+}
+		
+rLock.lock();
+try {
+	// shared reading
+} finally {
+	rLock.unlock();
+}        
+```
 **Преимущества**:
 - **Разделение доступа**: Потоки могут читать параллельно, если нет блокировки на запись, что особенно полезно для сценариев, где чтение встречается чаще, чем запись.
 - **Увеличение производительности**: В сценариях с высокой нагрузкой на чтение, производительность повышается за счёт параллельных чтений.

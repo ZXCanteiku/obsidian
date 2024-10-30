@@ -8,7 +8,7 @@ aliases:
 
 1. **Прямое прерывание**: Если поток находится в методах `wait()`, `sleep()`, `join()`, то вызов `interrupt()` приведет к немедленному выбрасыванию `InterruptedException`.
 2. **Проверка состояния**: Если поток выполняет операции, не вызывающие `InterruptedException`, то он должен сам периодически проверять статус прерывания, используя `Thread.interrupted()` или `isInterrupted()`
-
+```java
 public class InterruptCheckExample {
     public static void main(String[] args) {
         Thread thread = new Thread(() -> {
@@ -24,18 +24,16 @@ public class InterruptCheckExample {
             }
             System.out.println("Поток завершен.");
         });
-
         thread.start();
         try {
             Thread.sleep(3000); // Даем потоку некоторое время для работы
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
         thread.interrupt(); // Прерываем поток
     }
 }
-
+```
 
 
 ---
