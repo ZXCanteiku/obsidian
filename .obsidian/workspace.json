@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Профилирование.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Профилирование"
+              "title": "Java Developer"
             }
           },
           {
@@ -498,9 +498,9 @@
   },
   "active": "ae2a71d9b76735d9",
   "lastOpenFiles": [
+    "Base/Профилирование.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
-    "Base/Профилирование.md",
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
     "Base/Типы индексов.md",
