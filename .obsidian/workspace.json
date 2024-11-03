@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Поведенческие паттерны.md",
+                "file": "Base/Порождающие паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поведенческие паттерны"
+              "title": "Порождающие паттерны"
             }
           },
           {
@@ -413,7 +413,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Поведенческие паттерны.md",
+                "file": "Base/Порождающие паттерны.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -441,7 +441,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Поведенческие паттерны"
+              "title": "Граф Порождающие паттерны"
             }
           },
           {
@@ -550,10 +550,10 @@
   "active": "b2b81cb55eddf910",
   "lastOpenFiles": [
     "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
     "Base/Структурные паттерны.md",
     "Base/Порождающие паттерны.md",
     "Base/Java Developer.md",
-    "Base/Поведенческие паттерны.md",
     "Base/Java Core.md",
     "Base/Дженерики.md",
     "Base/Устройство памяти в JVM.md",
