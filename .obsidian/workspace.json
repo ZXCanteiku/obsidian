@@ -181,12 +181,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Шаблонное проектирование.md",
+                "file": "Base/Устройство памяти в JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблонное проектирование"
+              "title": "Устройство памяти в JVM"
+            }
+          },
+          {
+            "id": "909c96ca8fb40369",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           },
           {
@@ -361,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Индексы.md",
+                "file": "Base/Устройство памяти в JVM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -389,7 +399,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Индексы"
+              "title": "Граф Устройство памяти в JVM"
             }
           },
           {
@@ -474,8 +484,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -498,10 +507,15 @@
   },
   "active": "ae2a71d9b76735d9",
   "lastOpenFiles": [
-    "Base/Java Developer.md",
     "Base/Java Core.md",
-    "Base/Профилирование.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Garbage Colector.md",
+    "Base/Garbage-First (G1).md",
+    "Base/Serial.md",
+    "Base/Виды ссылок в java.md",
+    "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
+    "Base/Профилирование.md",
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
     "Base/Типы индексов.md",
@@ -523,11 +537,6 @@
     "Base/Оптимистическая блокировка.md",
     "Base/Потоки демоны.md",
     "Base/Проблемы многопоточности.md",
-    "Base/Java thread.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Locks.md",
-    "Base/ReentrantLock.md",
-    "Base/Interrupted.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
