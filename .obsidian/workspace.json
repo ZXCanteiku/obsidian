@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Адаптер.md",
+                "file": "Base/Мост.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Адаптер"
+              "title": "Мост"
             }
           },
           {
@@ -399,7 +399,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#adapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -441,7 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Адаптер.md",
+                "file": "Base/Мост.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -469,7 +469,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Адаптер"
+              "title": "Граф Мост"
             }
           },
           {
@@ -558,7 +558,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -575,11 +575,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5dbe6bd05f16520",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
-    "Files/Pasted image 20241103194741.png",
     "Base/Структурные паттерны.md",
+    "Base/Мост.md",
     "Base/Адаптер.md",
+    "Files/Pasted image 20241103194741.png",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
     "Base/Фабричный метод.md",
@@ -612,7 +613,6 @@
     "Base/B-tree индексы.md",
     "Files/Pasted image 20241103141029.png",
     "Files/Pasted image 20241029230932.png",
-    "Files/Pasted image 20241029230639.png",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
