@@ -223,12 +223,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Структурные паттерны.md",
+                "file": "Base/Порождающие паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структурные паттерны"
+              "title": "Порождающие паттерны"
             }
           },
           {
@@ -413,7 +413,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Структурные паттерны.md",
+                "file": "Base/Порождающие паттерны.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -441,7 +441,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Структурные паттерны"
+              "title": "Граф Порождающие паттерны"
             }
           },
           {
@@ -550,8 +550,9 @@
   "active": "b2b81cb55eddf910",
   "lastOpenFiles": [
     "Base/Шаблонное проектирование.md",
-    "Base/Структурные паттерны.md",
     "Base/Порождающие паттерны.md",
+    "Base/Поведенческие паттерны.md",
+    "Base/Структурные паттерны.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Дженерики.md",
@@ -578,7 +579,6 @@
     "Files/Pasted image 20241029230932.png",
     "Files/Pasted image 20241029230639.png",
     "Files/Pasted image 20241029230220.png",
-    "Base/Многопоточность.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
