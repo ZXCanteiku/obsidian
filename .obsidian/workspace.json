@@ -237,12 +237,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Прототип.md",
+                "file": "Base/Порождающие паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прототип"
+              "title": "Порождающие паттерны"
+            }
+          },
+          {
+            "id": "e5dbe6bd05f16520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Одиночка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Одиночка"
             }
           },
           {
@@ -354,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -427,7 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Прототип.md",
+                "file": "Base/Одиночка.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -455,7 +469,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Прототип"
+              "title": "Граф Одиночка"
             }
           },
           {
@@ -561,11 +575,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af1b5253bb5840f8",
+  "active": "e5dbe6bd05f16520",
   "lastOpenFiles": [
-    "Files/Pasted image 20241103192920.png",
     "Base/Порождающие паттерны.md",
     "Base/Прототип.md",
+    "Base/Одиночка.md",
+    "Base/Шаблонное проектирование.md",
+    "Files/Pasted image 20241103192920.png",
     "Base/Абстрактная фабрика.md",
     "Base/Строитель.md",
     "Files/Pasted image 20241103192258.png",
@@ -573,7 +589,6 @@
     "Files/Pasted image 20241103191407.png",
     "Files/Pasted image 20241103191358.png",
     "Base/Фабричный метод.md",
-    "Base/Шаблонное проектирование.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
@@ -598,7 +613,6 @@
     "Files/Pasted image 20241029230932.png",
     "Files/Pasted image 20241029230639.png",
     "Files/Pasted image 20241029230220.png",
-    "Files/Pasted image 20241028192859.png",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
