@@ -575,8 +575,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d83502b6c3e390",
+  "active": "e5dbe6bd05f16520",
   "lastOpenFiles": [
+    "Files/Pasted image 20241103195801.png",
     "Base/Структурные паттерны.md",
     "Base/Мост.md",
     "Base/Адаптер.md",
@@ -610,7 +611,6 @@
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
     "Base/Типы индексов.md",
-    "Base/B-tree индексы.md",
     "Files/Pasted image 20241103141029.png",
     "Files/Pasted image 20241029230932.png",
     "Без названия.canvas",
