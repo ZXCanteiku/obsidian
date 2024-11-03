@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Структурные паттерны.md",
+                "file": "Base/Легковес.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структурные паттерны"
+              "title": "Легковес"
             }
           },
           {
@@ -399,7 +399,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#adapter",
+                "query": "tag:#flyweight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -441,7 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Структурные паттерны.md",
+                "file": "Base/Легковес.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -469,7 +469,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Структурные паттерны"
+              "title": "Граф Легковес"
             }
           },
           {
@@ -575,12 +575,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5dbe6bd05f16520",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
-    "Base/Фасад.md",
-    "Files/Pasted image 20241103201321.png",
+    "Files/Pasted image 20241103201903.png",
     "Base/Структурные паттерны.md",
     "Base/Декоратор.md",
+    "Base/Легковес.md",
+    "Base/Фасад.md",
+    "Files/Pasted image 20241103201321.png",
     "Base/Компоновщик.md",
     "Base/Мост.md",
     "Base/Адаптер.md",
@@ -611,7 +613,6 @@
     "Base/Garbage-First (G1).md",
     "Base/Serial.md",
     "Base/Виды ссылок в java.md",
-    "Base/Профилирование.md",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
