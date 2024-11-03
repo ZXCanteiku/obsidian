@@ -251,12 +251,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Компоновщик.md",
+                "file": "Base/Структурные паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Компоновщик"
+              "title": "Структурные паттерны"
             }
           },
           {
@@ -441,7 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Компоновщик.md",
+                "file": "Base/Структурные паттерны.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -469,7 +469,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Компоновщик"
+              "title": "Граф Структурные паттерны"
             }
           },
           {
@@ -577,10 +577,10 @@
   },
   "active": "e5dbe6bd05f16520",
   "lastOpenFiles": [
+    "Base/Компоновщик.md",
     "Files/Pasted image 20241103200328.png",
     "Base/Структурные паттерны.md",
     "Base/Мост.md",
-    "Base/Компоновщик.md",
     "Files/Pasted image 20241103195801.png",
     "Base/Адаптер.md",
     "Files/Pasted image 20241103194741.png",
@@ -612,7 +612,6 @@
     "Base/Профилирование.md",
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
-    "Files/Pasted image 20241103141029.png",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
