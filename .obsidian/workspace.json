@@ -498,8 +498,9 @@
   },
   "active": "ae2a71d9b76735d9",
   "lastOpenFiles": [
-    "Base/Профилирование.md",
+    "Base/Шаблонное проектирование.md",
     "Base/Java Developer.md",
+    "Base/Профилирование.md",
     "Base/Java Core.md",
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
@@ -527,7 +528,6 @@
     "Base/Locks.md",
     "Base/ReentrantLock.md",
     "Base/Interrupted.md",
-    "Base/Дамп потока.md",
     "Files/Pasted image 20241028192859.png",
     "Files/Pasted image 20241028192745.png",
     "Files/Pasted image 20241026163913.png",
