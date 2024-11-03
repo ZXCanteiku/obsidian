@@ -237,12 +237,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Фабричный метод.md",
+                "file": "Base/Абстрактная фабрика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фабричный метод"
+              "title": "Абстрактная фабрика"
             }
           },
           {
@@ -427,7 +427,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Фабричный метод.md",
+                "file": "Base/Абстрактная фабрика.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -455,7 +455,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Фабричный метод"
+              "title": "Граф Абстрактная фабрика"
             }
           },
           {
@@ -563,19 +563,20 @@
   },
   "active": "af1b5253bb5840f8",
   "lastOpenFiles": [
-    "Files/Pasted image 20241103185808.png",
     "Base/Порождающие паттерны.md",
     "Base/Фабричный метод.md",
+    "Base/Абстрактная фабрика.md",
     "Base/Шаблонное проектирование.md",
-    "Base/Поведенческие паттерны.md",
-    "Base/Структурные паттерны.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
-    "Base/Дженерики.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
-    "Base/JVM,  Архитектура JVM.md",
+    "Base/Дженерики.md",
     "Base/Garbage Colector.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Files/Pasted image 20241103185808.png",
+    "Base/Поведенческие паттерны.md",
+    "Base/Структурные паттерны.md",
     "Base/Garbage-First (G1).md",
     "Base/Serial.md",
     "Base/Виды ссылок в java.md",
@@ -599,7 +600,6 @@
     "Files/Pasted image 20241026145325.png",
     "Files/Pasted image 20241026142223.png",
     "Без названия.canvas",
-    "Files/Pasted image 20241020165211.png",
     "Files",
     "Без названия 1.canvas",
     "Base/Работа",
