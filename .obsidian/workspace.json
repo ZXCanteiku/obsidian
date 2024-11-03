@@ -554,7 +554,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -575,7 +576,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5dbe6bd05f16520",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Files/Pasted image 20241103202419.png",
     "Base/Структурные паттерны.md",
