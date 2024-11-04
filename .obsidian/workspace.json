@@ -251,12 +251,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Заместитель.md",
+                "file": "Base/Шаблонное проектирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заместитель"
+              "title": "Шаблонное проектирование"
+            }
+          },
+          {
+            "id": "97bb8de86a6defd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Цепочка обязанностей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Цепочка обязанностей"
             }
           },
           {
@@ -368,7 +382,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -576,11 +590,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "97bb8de86a6defd2",
   "lastOpenFiles": [
-    "Files/Pasted image 20241103202419.png",
+    "Base/Поведенческие паттерны.md",
+    "Base/Цепочка обязанностей.md",
+    "Base/Шаблонное проектирование.md",
     "Base/Структурные паттерны.md",
     "Base/Заместитель.md",
+    "Files/Pasted image 20241103202419.png",
     "Base/Легковес.md",
     "Files/Pasted image 20241103201903.png",
     "Base/Декоратор.md",
@@ -594,7 +611,6 @@
     "Files/Pasted image 20241103200328.png",
     "Files/Pasted image 20241103195801.png",
     "Files/Pasted image 20241103194741.png",
-    "Base/Шаблонное проектирование.md",
     "Base/Фабричный метод.md",
     "Base/Одиночка.md",
     "Files/Pasted image 20241103193824.png",
@@ -603,7 +619,6 @@
     "Base/Абстрактная фабрика.md",
     "Base/Строитель.md",
     "Files/Pasted image 20241103192258.png",
-    "Files/Pasted image 20241103191454.png",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
@@ -611,7 +626,6 @@
     "Base/Дженерики.md",
     "Base/Garbage Colector.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Поведенческие паттерны.md",
     "Base/Garbage-First (G1).md",
     "Base/Serial.md",
     "Без названия.canvas",
