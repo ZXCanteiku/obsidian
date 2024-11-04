@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Стратегия.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стратегия"
+              "title": "Java Developer"
             }
           },
           {
@@ -606,10 +606,15 @@
   },
   "active": "c51850d211b2f8ab",
   "lastOpenFiles": [
-    "Files/Pasted image 20241104190807.png",
+    "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
+    "Base/Посетитель.md",
+    "Files/Pasted image 20241104191946.png",
+    "Base/Шаблонный метод.md",
     "Base/Стратегия.md",
     "Base/Состояние.md",
+    "Files/Pasted image 20241104191602.png",
+    "Files/Pasted image 20241104190807.png",
     "Files/Pasted image 20241104185547.png",
     "Base/Наблюдатель.md",
     "Files/Pasted image 20241104185122.png",
@@ -624,15 +629,11 @@
     "Base/Цепочка обязанностей.md",
     "Base/Порождающие паттерны.md",
     "Files/Pasted image 20241104181521.png",
-    "Base/Шаблонное проектирование.md",
     "Base/Структурные паттерны.md",
     "Base/Заместитель.md",
-    "Files/Pasted image 20241103202419.png",
     "Base/Легковес.md",
-    "Files/Pasted image 20241103201903.png",
     "Base/Декоратор.md",
     "Base/Фасад.md",
-    "Files/Pasted image 20241103201321.png",
     "Base/Компоновщик.md",
     "Base/Мост.md",
     "Base/Адаптер.md",
@@ -640,8 +641,6 @@
     "Base/Одиночка.md",
     "Base/Прототип.md",
     "Base/Абстрактная фабрика.md",
-    "Base/Строитель.md",
-    "Base/Java Developer.md",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
