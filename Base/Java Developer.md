@@ -1,4 +1,4 @@
-## Java Developer и все что с ним связанно
+   ## Java Developer и все что с ним связанно
 
 aliases: 
 	- "java", "java developer"
