@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Итератор.md",
+                "file": "Base/Посредник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Итератор"
+              "title": "Посредник"
             }
           },
           {
@@ -606,10 +606,11 @@
   },
   "active": "c51850d211b2f8ab",
   "lastOpenFiles": [
-    "Files/Pasted image 20241104183108.png",
     "Base/Поведенческие паттерны.md",
+    "Base/Посредник.md",
     "Base/Команда.md",
     "Base/Итератор.md",
+    "Files/Pasted image 20241104183108.png",
     "Files/Pasted image 20241104182250.png",
     "Base/Цепочка обязанностей.md",
     "Base/Порождающие паттерны.md",
@@ -632,7 +633,6 @@
     "Files/Pasted image 20241103194741.png",
     "Base/Фабричный метод.md",
     "Base/Одиночка.md",
-    "Files/Pasted image 20241103193824.png",
     "Base/Прототип.md",
     "Base/Абстрактная фабрика.md",
     "Base/Строитель.md",
