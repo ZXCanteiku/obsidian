@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Снимок.md",
+                "file": "Base/Наблюдатель.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Снимок"
+              "title": "Наблюдатель"
             }
           },
           {
@@ -606,10 +606,12 @@
   },
   "active": "c51850d211b2f8ab",
   "lastOpenFiles": [
-    "Files/Pasted image 20241104184455.png",
+    "Files/Pasted image 20241104185122.png",
     "Base/Поведенческие паттерны.md",
-    "Base/Снимок.md",
+    "Base/Наблюдатель.md",
     "Base/Посредник.md",
+    "Base/Снимок.md",
+    "Files/Pasted image 20241104184455.png",
     "Files/Pasted image 20241104183857.png",
     "Base/Команда.md",
     "Base/Итератор.md",
@@ -632,7 +634,6 @@
     "Base/Адаптер.md",
     "Files/Pasted image 20241103200827.png",
     "Files/Pasted image 20241103200328.png",
-    "Files/Pasted image 20241103195801.png",
     "Base/Фабричный метод.md",
     "Base/Одиночка.md",
     "Base/Прототип.md",
@@ -641,7 +642,6 @@
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
-    "Base/Устройство памяти примитивных типов.md",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
