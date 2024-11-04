@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Состояние.md",
+                "file": "Base/Стратегия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Состояние"
+              "title": "Стратегия"
             }
           },
           {
@@ -606,9 +606,10 @@
   },
   "active": "c51850d211b2f8ab",
   "lastOpenFiles": [
-    "Files/Pasted image 20241104185547.png",
     "Base/Поведенческие паттерны.md",
+    "Base/Стратегия.md",
     "Base/Состояние.md",
+    "Files/Pasted image 20241104185547.png",
     "Base/Наблюдатель.md",
     "Files/Pasted image 20241104185122.png",
     "Base/Посредник.md",
@@ -634,7 +635,6 @@
     "Base/Компоновщик.md",
     "Base/Мост.md",
     "Base/Адаптер.md",
-    "Files/Pasted image 20241103200827.png",
     "Base/Фабричный метод.md",
     "Base/Одиночка.md",
     "Base/Прототип.md",
