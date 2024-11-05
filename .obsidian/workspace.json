@@ -288,6 +288,18 @@
             }
           },
           {
+            "id": "59847f258c40db8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "909c96ca8fb40369",
             "type": "leaf",
             "state": {
@@ -396,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -604,7 +616,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c51850d211b2f8ab",
+  "active": "59847f258c40db8a",
   "lastOpenFiles": [
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
