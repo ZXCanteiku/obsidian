@@ -1,3 +1,8 @@
+## Инфраструктурными технологии для разработки на Java
+
+aliases: 
+	- "Инфраструктурными технологии для разработки на Java"
+
 - [[Apache Kafka]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
 - [[Jenkins]]
