@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Шаблонное проектирование.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблонное проектирование"
+              "title": "Java Developer"
             }
           },
           {
@@ -285,7 +285,9 @@
   },
   "active": "90b31ff66a14e647",
   "lastOpenFiles": [
+    "Base/SQL.md",
     "Base/Java Developer.md",
+    "Base/Шаблонное проектирование.md",
     "Base/Java thread.md",
     "Base/CyclicBarrier.md",
     "Base/KISS.md",
@@ -311,8 +313,6 @@
     "Base/Одиночка.md",
     "Base/Наблюдатель.md",
     "Base/Мост.md",
-    "Base/Легковес.md",
-    "Base/Компоновщик.md",
     "Files/Pasted image 20241029230932.png",
     "Files/Pasted image 20241029230639.png",
     "Files/Pasted image 20241029230220.png",
