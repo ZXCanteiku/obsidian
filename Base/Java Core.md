@@ -10,6 +10,7 @@ aliases:
 - [[Pool Integer]]
 - [[Pool String]]
 - [[Дженерики]]
+- [[Аннотации]]
 
 ---
 Tags: #java_core
