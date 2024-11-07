@@ -11,13 +11,14 @@
             "id": "bb613dc121b717bc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Base/Java Developer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "Java Developer"
             }
           },
           {
@@ -134,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Java Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Java Developer"
             }
           },
           {
@@ -152,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +182,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Java Developer"
             }
           },
           {
@@ -188,11 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Base/Java Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Java Developer"
             }
           },
           {
@@ -264,8 +268,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "bb613dc121b717bc",
   "lastOpenFiles": [
+    "Base/Java Core.md",
     "Base/Java Developer.md",
     "Base/Реляционные базы данных.md",
     "Base/ACID.md",
@@ -293,7 +298,6 @@
     "Base/Декоратор.md",
     "Base/Адаптер.md",
     "Base/Абстрактная фабрика.md",
-    "Base/B-tree индексы.md",
     "Files/Pasted image 20241029230932.png",
     "Files/Pasted image 20241029230639.png",
     "Files/Pasted image 20241029230220.png",
