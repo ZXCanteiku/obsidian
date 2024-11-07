@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Распределённые транзакции.md",
+                "file": "Base/Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Распределённые транзакции"
+              "title": "Индексы"
             }
           },
           {
@@ -620,8 +620,10 @@
   "active": "59847f258c40db8a",
   "lastOpenFiles": [
     "Base/Реляционные базы данных.md",
-    "Base/Распределённые транзакции.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/ACID.md",
     "Base/Нормальные формы.md",
+    "Base/Распределённые транзакции.md",
     "Base/Java Developer.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Аннотации.md",
@@ -653,8 +655,6 @@
     "Base/Порождающие паттерны.md",
     "Files/Pasted image 20241104181521.png",
     "Base/Структурные паттерны.md",
-    "Base/Заместитель.md",
-    "Base/Легковес.md",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
