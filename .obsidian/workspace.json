@@ -8,35 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb613dc121b717bc",
+            "id": "ea905ef543b733c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Автоматическое разрешение конфликтов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Автоматическое разрешение конфликтов"
             }
           },
           {
-            "id": "90b31ff66a14e647",
+            "id": "cdc868a3e2c9a065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Полиморфизм.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Полиморфизм"
             }
           },
           {
-            "id": "3e5813de6549347f",
+            "id": "d037f110bedd5abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Дизайн паттерны и принципы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дизайн паттерны и принципы"
+            }
+          },
+          {
+            "id": "d7f1bf9353de8b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Дизайн паттерны и принципы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дизайн паттерны и принципы"
+            }
+          },
+          {
+            "id": "7375199c7f8934cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/KISS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KISS"
+            }
+          },
+          {
+            "id": "5b2f06d869287fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Дизайн паттерны и принципы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дизайн паттерны и принципы"
+            }
+          },
+          {
+            "id": "b69f64facae06b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/KISS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KISS"
+            }
+          },
+          {
+            "id": "7a50e57744570543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Многопоточность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Многопоточность"
+            }
+          },
+          {
+            "id": "905cd75d53c4476b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java thread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java thread"
+            }
+          },
+          {
+            "id": "21bfc66cb6546b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,49 +148,269 @@
             }
           },
           {
-            "id": "604e6398a2d1c3c3",
+            "id": "38cee8c0f506b7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CRDT.md",
+                "file": "Base/Типы индексов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRDT"
+              "title": "Типы индексов"
             }
           },
           {
-            "id": "80ab7efedade4dd7",
+            "id": "f84ee453ec21632e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "file": "Base/B-tree индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Обнаружение конкурентных операций записи"
+              "title": "B-tree индексы"
             }
           },
           {
-            "id": "ea905ef543b733c7",
+            "id": "ae2a71d9b76735d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Устройство памяти в JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Репликация данных"
+              "title": "Устройство памяти в JVM"
+            }
+          },
+          {
+            "id": "6d8ca16247ba83b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Устройство памяти примитивных типов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Устройство памяти примитивных типов"
+            }
+          },
+          {
+            "id": "2a3804c16b78b0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Устройство памяти в JVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Устройство памяти в JVM"
+            }
+          },
+          {
+            "id": "b2b81cb55eddf910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шаблонное проектирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблонное проектирование"
+            }
+          },
+          {
+            "id": "af1b5253bb5840f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Порождающие паттерны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Порождающие паттерны"
+            }
+          },
+          {
+            "id": "e5dbe6bd05f16520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Шаблонное проектирование.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблонное проектирование"
+            }
+          },
+          {
+            "id": "97bb8de86a6defd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Поведенческие паттерны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поведенческие паттерны"
+            }
+          },
+          {
+            "id": "c51850d211b2f8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java Developer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Developer"
+            }
+          },
+          {
+            "id": "59847f258c40db8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java Developer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Developer"
+            }
+          },
+          {
+            "id": "909c96ca8fb40369",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "01ca8f30865cf92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Hibernate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hibernate"
+            }
+          },
+          {
+            "id": "db0f4ddc5f9960e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/YAGNI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YAGNI"
+            }
+          },
+          {
+            "id": "62af97a203cdfaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Дизайн паттерны и принципы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дизайн паттерны и принципы"
+            }
+          },
+          {
+            "id": "2276321948eb0e92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/YAGNI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YAGNI"
+            }
+          },
+          {
+            "id": "4cfe14245ad3a95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Garbage Colector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Garbage Colector"
+            }
+          },
+          {
+            "id": "2e77e80928be78ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/JVM,  Архитектура JVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JVM,  Архитектура JVM"
+            }
+          },
+          {
+            "id": "680d70324d110fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/KISS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KISS"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -123,7 +441,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flyweight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +466,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "d60ac8dd4d321c2c",
@@ -159,31 +477,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb4d31af219e5ab2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Base/Java Developer.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Java Developer"
-            }
-          },
-          {
-            "id": "52a9832484f10794",
+            "id": "f293df5b3873d1bd",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Заместитель.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,12 +505,31 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7069023997743947,
-                  "close": false
+                  "scale": 1.0000000000000009,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Заместитель"
+            }
+          },
+          {
+            "id": "fb4d31af219e5ab2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Обнаружение конкурентных операций записи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обнаружение конкурентных операций записи"
             }
           },
           {
@@ -220,12 +538,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Обнаружение конкурентных операций записи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Java Developer"
+              "title": "Исходящие ссылки из Обнаружение конкурентных операций записи"
             }
           },
           {
@@ -246,9 +564,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Base/Обнаружение конкурентных операций записи.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Обнаружение конкурентных операций записи"
             }
           },
           {
@@ -280,7 +600,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1643.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,44 +617,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e5813de6549347f",
+  "active": "59847f258c40db8a",
   "lastOpenFiles": [
-    "Base/Java Developer.md",
-    "Base/Архитектурные паттерны.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Профилирование.md",
-    "Base/Java Core.md",
     "Base/Аннотации.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/Реляционные базы данных.md",
-    "Base/No SQL базы данных.md",
-    "Base/Hibernate.md",
-    "Base/Дженерики.md",
-    "Base/Pool Integer.md",
     "Base/SQL.md",
-    "Base/Java thread.md",
-    "Base/CyclicBarrier.md",
-    "Base/KISS.md",
-    "Base/Livelock.md",
-    "Base/Pool String.md",
-    "Base/ReentrantLock.md",
-    "Base/ACID.md",
+    "Base/Java Core.md",
+    "Base/Interrupted.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
+    "Base/Посетитель.md",
     "Files/Pasted image 20241104191946.png",
-    "Files/Pasted image 20241104191602.png",
-    "Base/Структурные паттерны.md",
-    "Base/Строитель.md",
+    "Base/Шаблонный метод.md",
     "Base/Стратегия.md",
     "Base/Состояние.md",
+    "Files/Pasted image 20241104191602.png",
+    "Files/Pasted image 20241104190807.png",
+    "Files/Pasted image 20241104185547.png",
+    "Base/Наблюдатель.md",
+    "Files/Pasted image 20241104185122.png",
+    "Base/Посредник.md",
     "Base/Снимок.md",
-    "Base/Прототип.md",
-    "Files/Pasted image 20241029230932.png",
-    "Files/Pasted image 20241029230639.png",
-    "Files/Pasted image 20241029230220.png",
-    "Files/Pasted image 20241028192859.png",
-    "Files/Pasted image 20241028192745.png",
-    "Files/Pasted image 20241026163913.png",
-    "Files/Pasted image 20241026145325.png",
-    "Files/Pasted image 20241026142223.png",
+    "Files/Pasted image 20241104184455.png",
+    "Files/Pasted image 20241104183857.png",
+    "Base/Команда.md",
+    "Base/Итератор.md",
+    "Files/Pasted image 20241104183108.png",
+    "Files/Pasted image 20241104182250.png",
+    "Base/Цепочка обязанностей.md",
+    "Base/Порождающие паттерны.md",
+    "Files/Pasted image 20241104181521.png",
+    "Base/Структурные паттерны.md",
+    "Base/Заместитель.md",
+    "Base/Легковес.md",
+    "Base/Декоратор.md",
+    "Base/Фасад.md",
+    "Base/Компоновщик.md",
+    "Base/Мост.md",
     "Без названия.canvas",
     "Files",
     "Без названия 1.canvas",
