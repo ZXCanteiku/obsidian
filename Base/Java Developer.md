@@ -20,13 +20,7 @@ aliases:
 - [[No SQL базы данных]]
 - [[SQL]]
 - [[Hibernate]]
-- [[Смежные технологии ]]
-- [[Apache Kafka]]
-- [[Kubernetes (Istio), OpenShift, Docker]]
-- [[Jenkins]]
-- [[Платформы мониторинга и анализа]]
-- [[Hadoop]]
-- [[Elasticsearch и другие]]
+- [[Инфраструктурными технологии для разработки на Java]]
 
 
 ---
