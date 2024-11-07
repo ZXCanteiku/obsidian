@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Архитектурные паттерны"
             }
           },
           {
@@ -300,8 +300,8 @@
   "active": "3e5813de6549347f",
   "lastOpenFiles": [
     "Base/Java Developer.md",
-    "Base/Профилирование.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Профилирование.md",
     "Base/Java Core.md",
     "Base/Аннотации.md",
     "Base/Шаблонное проектирование.md",
