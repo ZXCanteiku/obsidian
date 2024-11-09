@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Pool Integer.md",
+                "file": "Base/Pool String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pool Integer"
+              "title": "Pool String"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Pool Integer.md",
+                "file": "Base/Pool String.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +213,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Pool Integer"
+              "title": "Граф Pool String"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Pool Integer.md",
+                "file": "Base/Pool String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Pool Integer"
+              "title": "Обратные ссылки для Pool String"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Pool Integer.md",
+                "file": "Base/Pool String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Pool Integer"
+              "title": "Исходящие ссылки из Pool String"
             }
           },
           {
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Pool Integer.md"
+                "file": "Base/Pool String.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Pool Integer"
+              "title": "Структура Pool String"
             }
           },
           {
@@ -322,6 +322,7 @@
   "active": "b3812b1c79fa3859",
   "lastOpenFiles": [
     "Base/Java Core.md",
+    "Base/Pool Integer.md",
     "Base/Garbage Colector.md",
     "Base/Garbage-First (G1).md",
     "Base/Concurrent Mark Sweep (CMS).md",
@@ -357,7 +358,6 @@
     "Base/StampedLock.md",
     "Base/Semaphore.md",
     "Base/SQL.md",
-    "Base/SOLID.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
