@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Pool String.md",
+                "file": "Base/Дженерики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pool String"
+              "title": "Дженерики"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Pool String.md",
+                "file": "Base/Дженерики.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +213,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Pool String"
+              "title": "Граф Дженерики"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Pool String.md",
+                "file": "Base/Дженерики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Pool String"
+              "title": "Обратные ссылки для Дженерики"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Pool String.md",
+                "file": "Base/Дженерики.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Pool String"
+              "title": "Исходящие ссылки из Дженерики"
             }
           },
           {
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Pool String.md"
+                "file": "Base/Дженерики.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Pool String"
+              "title": "Структура Дженерики"
             }
           },
           {
@@ -322,8 +322,9 @@
   "active": "b3812b1c79fa3859",
   "lastOpenFiles": [
     "Base/Java Core.md",
-    "Base/Pool Integer.md",
+    "Base/Pool String.md",
     "Base/Garbage Colector.md",
+    "Base/Pool Integer.md",
     "Base/Garbage-First (G1).md",
     "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Parallel.md",
@@ -357,7 +358,6 @@
     "Base/ThreadLocal.md",
     "Base/StampedLock.md",
     "Base/Semaphore.md",
-    "Base/SQL.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
