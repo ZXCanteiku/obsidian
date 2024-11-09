@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Аннотации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дженерики"
+              "title": "Аннотации"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Аннотации.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +213,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Дженерики"
+              "title": "Граф Аннотации"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Аннотации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Дженерики"
+              "title": "Обратные ссылки для Аннотации"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Аннотации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Дженерики"
+              "title": "Исходящие ссылки из Аннотации"
             }
           },
           {
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Дженерики.md"
+                "file": "Base/Аннотации.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Дженерики"
+              "title": "Структура Аннотации"
             }
           },
           {
@@ -322,6 +322,7 @@
   "active": "b3812b1c79fa3859",
   "lastOpenFiles": [
     "Base/Java Core.md",
+    "Base/Дженерики.md",
     "Base/Pool String.md",
     "Base/Garbage Colector.md",
     "Base/Pool Integer.md",
@@ -346,7 +347,6 @@
     "Files/Pasted image 20241104181521.png",
     "Base/Динамическое связывание.md",
     "Base/Дизайн паттерны и принципы.md",
-    "Base/Дженерики.md",
     "Base/Декоратор.md",
     "Base/Дамп потока.md",
     "Base/Грязное чтение.md",
