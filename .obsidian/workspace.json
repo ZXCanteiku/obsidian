@@ -88,15 +88,13 @@
             }
           },
           {
-            "id": "f162e8416d41cee3",
+            "id": "afcc21c1f6edba84",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -172,7 +170,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -200,7 +197,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Высоконагруженные приложения"
+              "title": "Граф"
             }
           },
           {
@@ -209,7 +206,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Высоконагруженные приложения"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -228,12 +224,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Высоконагруженные приложения"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -254,11 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Высоконагруженные приложения.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура Высоконагруженные приложения"
+              "title": "Структура"
             }
           },
           {
@@ -307,45 +300,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f162e8416d41cee3",
+  "active": "afcc21c1f6edba84",
   "lastOpenFiles": [
-    "Files/Pasted image 20241020165211.png",
-    "Files/Pasted image 20241020165204.png",
-    "Base/Секционирование.md",
     "Base/Маршрутизация запросов.md",
-    "Base/Перебалансировка секций.md",
-    "Base/Автоматическая или ручная перебалансировка.md",
-    "Daily/2024-10-20.md",
-    "Base/Секционирование пропорционально количеству узлов.md",
-    "Base/СУБД Cassandra.md",
-    "Base/Cassandra.md",
-    "Base/Секционирование данных ключ-значение.md",
-    "Base/Векторы версий.md",
-    "Base/Динамическое секционирование.md",
-    "Base/Фиксированное количество секций.md",
-    "Files/Pasted image 20241020162845.png",
-    "Base/Хеширование по модулю N.md",
-    "Base/Секционирование и вторичные индексы.md",
-    "Base/Секционирование по термам.md",
-    "Files/Pasted image 20241020160508.png",
-    "Files/Pasted image 20241020160433.png",
-    "Base/Секционирование по документам.md",
-    "Files/Pasted image 20241020155954.png",
-    "Base/Секционирование по диапазонам ключей.md",
-    "Base/Репликация данных.md",
     "conflict-files-obsidian-git.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Секционирование по хешу ключа.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Files/Pasted image 20241014185837.png",
-    "Files/Pasted image 20241014184305.png",
-    "Files/Pasted image 20241014184250.png",
-    "Base/Репликация без ведущего узла.md",
-    "Base/Обнаружение конкурентных операций записи.md",
-    "Base/Синхронная и асинхронная репликация.md",
-    "Files/Pasted image 20241010212603.png",
-    "Files/Pasted image 20241010212218.png",
     "Без названия.canvas",
+    "Files/Pasted image 20241104191946.png",
+    "Files/Pasted image 20241104191602.png",
+    "Files/Pasted image 20241104190807.png",
+    "Files/Pasted image 20241104185547.png",
+    "Files/Pasted image 20241104185122.png",
+    "Files/Pasted image 20241104184455.png",
+    "Files/Pasted image 20241104183857.png",
+    "Files/Pasted image 20241104183108.png",
+    "Files/Pasted image 20241104182250.png",
+    "Files/Pasted image 20241104181521.png",
+    "Base/Динамическое связывание.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/Дженерики.md",
+    "Base/Декоратор.md",
+    "Base/Дамп потока.md",
+    "Base/Грязное чтение.md",
+    "Base/Виды ссылок в java.md",
+    "Base/Аннотации.md",
+    "Base/Адаптер.md",
+    "Base/Абстракция.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/YAGNI.md",
+    "Base/ThreadLocal.md",
+    "Base/StampedLock.md",
+    "Base/Serial.md",
+    "Base/Semaphore.md",
+    "Base/SQL.md",
+    "Base/SOLID.md",
+    "Base/Riak 2.0.md",
+    "Base/ReentrantLock.md",
+    "Base/ReadWriteLock.md",
+    "Base/Race condition.md",
+    "Base/Pool String.md",
+    "Base/Pool Integer.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
