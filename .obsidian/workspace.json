@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Garbage-First (G1).md",
+                "file": "Base/Pool Integer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage-First (G1)"
+              "title": "Pool Integer"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Garbage-First (G1).md",
+                "file": "Base/Pool Integer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,7 +213,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Garbage-First (G1)"
+              "title": "Граф Pool Integer"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Garbage-First (G1).md",
+                "file": "Base/Pool Integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Garbage-First (G1)"
+              "title": "Обратные ссылки для Pool Integer"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Garbage-First (G1).md",
+                "file": "Base/Pool Integer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Garbage-First (G1)"
+              "title": "Исходящие ссылки из Pool Integer"
             }
           },
           {
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Garbage-First (G1).md"
+                "file": "Base/Pool Integer.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Garbage-First (G1)"
+              "title": "Структура Pool Integer"
             }
           },
           {
@@ -321,13 +321,14 @@
   },
   "active": "b3812b1c79fa3859",
   "lastOpenFiles": [
+    "Base/Java Core.md",
     "Base/Garbage Colector.md",
+    "Base/Garbage-First (G1).md",
     "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Parallel.md",
     "Base/Serial.md",
     "Base/Виды ссылок в java.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Java Core.md",
     "Base/Маршрутизация запросов.md",
     "conflict-files-obsidian-git.md",
     "Без названия.canvas",
@@ -357,7 +358,6 @@
     "Base/Semaphore.md",
     "Base/SQL.md",
     "Base/SOLID.md",
-    "Base/Riak 2.0.md",
     "Без названия 1.canvas",
     "Base/Работа",
     "Daily",
