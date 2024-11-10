@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Полиморфизм.md",
+                "file": "Base/Динамическое связывание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полиморфизм"
+              "title": "Динамическое связывание"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Полиморфизм.md",
+                "file": "Base/Динамическое связывание.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +137,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Полиморфизм"
+              "title": "Граф Динамическое связывание"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "a3f23d796c7c8256",
   "lastOpenFiles": [
+    "Base/Полиморфизм.md",
     "Base/ООП.md",
     "Base/Наследование.md",
     "Base/Инкапсуляция.md",
@@ -270,7 +271,6 @@
     "Base/Java Core.md",
     "Base/Аннотации.md",
     "Base/Дженерики.md",
-    "Base/Pool String.md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
