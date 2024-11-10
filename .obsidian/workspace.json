@@ -105,12 +105,14 @@
             "id": "919b2f2b77ede5fb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Base/ReentrantLock.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "ReentrantLock"
             }
           },
           {
@@ -197,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Concurrent.md",
+                "file": "Base/ReentrantLock.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Concurrent"
+              "title": "Граф ReentrantLock"
             }
           },
           {
@@ -333,6 +335,8 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Locks.md",
+    "Base/Concurrent.md",
     "Base/Java thread.md",
     "Base/Cпособы синхронизации в Java.md",
     "Base/Atomic.md",
@@ -340,7 +344,6 @@
     "Base/CyclicBarrier.md",
     "Base/Exchanger.md",
     "Base/Java Developer.md",
-    "Base/Locks.md",
     "Base/Phaser.md",
     "Base/ReadWriteLock.md",
     "Base/ReentrantLock.md",
@@ -358,7 +361,6 @@
     "Base/Parallel.md",
     "Base/Serial.md",
     "Base/Виды ссылок в java.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
