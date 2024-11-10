@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Профилирование.md",
+                "file": "Base/ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Профилирование"
+              "title": "ООП"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Профилирование.md",
+                "file": "Base/ООП.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -132,12 +132,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761026,
+                  "scale": 1.000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Профилирование"
+              "title": "Граф ООП"
             }
           },
           {
@@ -246,6 +246,7 @@
   "active": "a3f23d796c7c8256",
   "lastOpenFiles": [
     "Base/Java Developer.md",
+    "Base/Профилирование.md",
     "Base/Многопоточность.md",
     "Base/Java thread.md",
     "Base/Дамп потока.md",
@@ -270,7 +271,6 @@
     "Base/Garbage Colector.md",
     "Base/Pool Integer.md",
     "Base/Garbage-First (G1).md",
-    "Base/Concurrent Mark Sweep (CMS).md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
