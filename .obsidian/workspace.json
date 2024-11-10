@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Динамическое связывание.md",
+                "file": "Base/Дизайн паттерны и принципы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамическое связывание"
+              "title": "Дизайн паттерны и принципы"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Динамическое связывание.md",
+                "file": "Base/Дизайн паттерны и принципы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,7 +137,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Динамическое связывание"
+              "title": "Граф Дизайн паттерны и принципы"
             }
           },
           {
@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1091.5
+    "width": 923.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +245,11 @@
   },
   "active": "a3f23d796c7c8256",
   "lastOpenFiles": [
-    "Base/Полиморфизм.md",
     "Base/ООП.md",
+    "Base/Посылка сообщений.md",
+    "Base/Абстракция.md",
+    "Base/Полиморфизм.md",
+    "Base/Динамическое связывание.md",
     "Base/Наследование.md",
     "Base/Инкапсуляция.md",
     "Base/Java Developer.md",
@@ -268,9 +271,6 @@
     "Base/ReadWriteLock.md",
     "Base/ReentrantLock.md",
     "Base/ThreadLocal.md",
-    "Base/Java Core.md",
-    "Base/Аннотации.md",
-    "Base/Дженерики.md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
