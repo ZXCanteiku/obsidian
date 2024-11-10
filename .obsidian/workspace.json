@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Наблюдатель.md",
+                "file": "Base/Состояние.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Наблюдатель"
+              "title": "Состояние"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Наблюдатель.md",
+                "file": "Base/Состояние.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Наблюдатель"
+              "title": "Граф Состояние"
             }
           },
           {
@@ -231,6 +231,7 @@
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/Поведенческие паттерны.md",
+    "Base/Наблюдатель.md",
     "Base/Снимок.md",
     "Base/Посредник.md",
     "Base/Итератор.md",
@@ -255,7 +256,6 @@
     "Base/ООП.md",
     "Base/Дизайн паттерны и принципы.md",
     "Base/DRY.md",
-    "Base/YAGNI.md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
