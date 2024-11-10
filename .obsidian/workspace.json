@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Посетитель.md",
+                "file": "Base/ACID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Посетитель"
+              "title": "ACID"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Посетитель.md",
+                "file": "Base/ACID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Посетитель"
+              "title": "Граф ACID"
             }
           },
           {
@@ -230,7 +230,18 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Реляционные базы данных.md",
+    "Base/Java Developer.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Многопоточность.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Elasticsearch и другие.md",
+    "Base/Hibernate.md",
+    "Base/SQL.md",
+    "Base/No SQL базы данных.md",
+    "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
+    "Base/Посетитель.md",
     "Base/Шаблонный метод.md",
     "Base/Стратегия.md",
     "Base/Состояние.md",
@@ -240,22 +251,11 @@
     "Base/Итератор.md",
     "Base/Команда.md",
     "Base/Цепочка обязанностей.md",
-    "Base/Шаблонное проектирование.md",
     "Base/Структурные паттерны.md",
     "Base/Заместитель.md",
     "Base/Легковес.md",
     "Base/Фасад.md",
     "Base/Декоратор.md",
-    "Base/Компоновщик.md",
-    "Base/Мост.md",
-    "Base/Адаптер.md",
-    "Base/Порождающие паттерны.md",
-    "Base/Одиночка.md",
-    "Base/Прототип.md",
-    "Base/Строитель.md",
-    "Base/Java Developer.md",
-    "Base/Абстрактная фабрика.md",
-    "Base/Фабричный метод.md",
     "Без названия.canvas",
     "Files/Pasted image 20241104191946.png",
     "Files/Pasted image 20241104191602.png",
