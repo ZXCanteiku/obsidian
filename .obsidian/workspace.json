@@ -102,6 +102,18 @@
             }
           },
           {
+            "id": "919b2f2b77ede5fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "afcc21c1f6edba84",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -319,7 +331,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3812b1c79fa3859",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/Java thread.md",
     "Base/Cпособы синхронизации в Java.md",
