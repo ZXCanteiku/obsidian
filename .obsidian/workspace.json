@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Высоконагруженные приложения"
+              "title": "Транзакции"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Высоконагруженные приложения"
+              "title": "Граф Транзакции"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Транзакции.md",
     "Base/Высоконагруженные приложения.md",
+    "Base/Транзакции.md",
     "Base/Секционирование.md",
     "Base/Перебалансировка секций.md",
     "Base/Автоматическая или ручная перебалансировка.md",
