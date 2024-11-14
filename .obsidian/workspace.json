@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Индексы"
             }
+          },
+          {
+            "id": "d76fa40f7a3b6755",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Индексы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +134,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Индексы"
+              "title": "Граф"
             }
           },
           {
@@ -228,7 +240,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
     "Base/Реляционные базы данных.md",
     "Base/Уровни изоляций транзакции.md",
