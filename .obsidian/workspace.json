@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/ACID.md",
+                "file": "Base/Слабые уровни изоляции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACID"
+              "title": "Слабые уровни изоляции"
             }
           },
           {
@@ -257,17 +257,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Чтение зафиксированных данных.md",
+    "Base/Read committed.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/Транзакции.md",
     "Base/ACID.md",
     "conflict-files-obsidian-git.md",
-    "Base/Транзакции.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Чтение зафиксированных данных.md",
     "Base/Грязное чтение.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Уровни изоляций транзакции.md",
-    "Base/Read committed.md",
     "Files/Pasted image 20241113204734.png",
     "Files/Pasted image 20241113204731.png",
     "Files/Pasted image 20241113204725.png",

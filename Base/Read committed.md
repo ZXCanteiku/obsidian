@@ -24,7 +24,7 @@ aliases:
 ![[Pasted image 20241113204734.png]]
 
 ---
-Tags:
+Tags: #transactions #highLoad
 Author: [[]]
-Related: [[]]
+Related: [[Чтение зафиксированных данных]]
 URL: -- 
