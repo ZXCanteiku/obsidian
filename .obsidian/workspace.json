@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/ACID.md",
+                "file": "Base/Транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACID"
+              "title": "Транзакции"
+            }
+          },
+          {
+            "id": "e98d5e62616ec866",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -49,7 +61,8 @@
               "title": "Уровни изоляций транзакции"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +163,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Транзакции"
             }
           },
           {
@@ -256,13 +270,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "e98d5e62616ec866",
   "lastOpenFiles": [
-    "Base/ACID.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Транзакции.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Чтение зафиксированных данных.md",
+    "Base/Транзакции.md",
+    "Base/ACID.md",
+    "conflict-files-obsidian-git.md",
     "Base/Грязное чтение.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Уровни изоляций транзакции.md",
