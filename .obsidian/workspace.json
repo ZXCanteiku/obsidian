@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Предотвращение потери обновлений.md",
+                "file": "Base/Сравнение с обменом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предотвращение потери обновлений"
+              "title": "Сравнение с обменом"
             }
           },
           {
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Предотвращение потери обновлений.md",
+                "file": "Base/Сравнение с обменом.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Предотвращение потери обновлений"
+              "title": "Граф Сравнение с обменом"
             }
           },
           {
@@ -259,11 +259,16 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Base/Предотвращение потери обновлений.md",
+    "Base/Явные блокировки.md",
+    "Base/Атомарные операции записи.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/Асимметрия записи и фантомы.md",
+    "Base/Репликация без ведущего узла.md",
+    "Base/Сравнение с обменом.md",
+    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241114211340.png",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Слабые уровни изоляции.md",
     "Base/Чтение зафиксированных данных.md",
     "Base/MVCC.md",
     "Files/Pasted image 20241114210215.png",
@@ -290,10 +295,6 @@
     "Base/Типы индексов.md",
     "Base/Индексы.md",
     "Base/Реляционные базы данных.md",
-    "Base/Нормальные формы.md",
-    "Base/Фантомное чтение.md",
-    "Base/Java Developer.md",
-    "Base/Архитектурные паттерны.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
