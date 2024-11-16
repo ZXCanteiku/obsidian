@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+                "file": "Base/Транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сериализуемая изоляция снимков состояний (SSI)"
+              "title": "Транзакции"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+                "file": "Base/Транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Сериализуемая изоляция снимков состояний (SSI)"
+              "title": "Граф Транзакции"
             }
           },
           {
@@ -260,8 +260,8 @@
   "active": "99bccac510fdfef8",
   "lastOpenFiles": [
     "Base/Сериализуемость.md",
-    "Base/Неповторяющееся чтение.md",
     "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "Base/Неповторяющееся чтение.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Последовательное выполнение транзакций.md",
     "Base/Двухфазная блокировка (2PL).md",
