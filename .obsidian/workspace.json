@@ -293,12 +293,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Грязное чтение.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Грязное чтение"
+              "title": "Уровни изоляций транзакции"
+            }
+          },
+          {
+            "id": "b9e8ba103cf55613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -410,7 +422,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -617,10 +629,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59847f258c40db8a",
+  "active": "b9e8ba103cf55613",
   "lastOpenFiles": [
-    "Base/Уровни изоляций транзакции.md",
     "Base/Грязное чтение.md",
+    "Base/Уровни изоляций транзакции.md",
     "Base/Неповторяющееся чтение.md",
     "Base/Реляционные базы данных.md",
     "Base/Java Developer.md",
