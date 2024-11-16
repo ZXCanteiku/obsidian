@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сериализуемость.md",
+                "file": "Base/Последовательное выполнение транзакций.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сериализуемость"
+              "title": "Последовательное выполнение транзакций"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "Неповторяющееся чтение"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Слабые уровни изоляции.md",
+                "file": "Base/Последовательное выполнение транзакций.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,7 +151,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Слабые уровни изоляции"
+              "title": "Граф Последовательное выполнение транзакций"
             }
           },
           {
@@ -256,9 +257,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "99bccac510fdfef8",
   "lastOpenFiles": [
     "Base/Сериализуемость.md",
+    "Base/Последовательное выполнение транзакций.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Транзакции.md",
     "Base/Чтение зафиксированных данных.md",
@@ -293,7 +295,6 @@
     "Base/Секционирование.md",
     "Base/Перебалансировка секций.md",
     "Base/Автоматическая или ручная перебалансировка.md",
-    "Base/Типы индексов.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
