@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Асимметрия записи и фантомы"
             }
+          },
+          {
+            "id": "a03e1f9284653673",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +256,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "a03e1f9284653673",
   "lastOpenFiles": [
     "Files/Pasted image 20241116184016.png",
     "Base/Сериализуемость.md",
