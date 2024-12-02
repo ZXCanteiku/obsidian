@@ -609,7 +609,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -630,7 +631,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9e8ba103cf55613",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Типы блокировок.md",
     "Base/Пессимистическая блокировка.md",
