@@ -307,26 +307,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Оптимистическая блокировка.md",
+                "file": "Base/Многопоточность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оптимистическая блокировка"
-            }
-          },
-          {
-            "id": "31479516d395f593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Многопоточность"
             }
           },
           {
@@ -438,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -510,7 +496,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -538,7 +524,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф conflict-files-obsidian-git"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -645,8 +631,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "31479516d395f593",
+  "active": "b9e8ba103cf55613",
   "lastOpenFiles": [
+    "Base/Типы блокировок.md",
     "Base/Оптимистическая блокировка.md",
     "conflict-files-obsidian-git.md",
     "Files/Pasted image 20241116184016.png",
@@ -654,7 +641,6 @@
     "Base/Сериализуемая изоляция снимков состояний (SSI).md",
     "Base/Последовательное выполнение транзакций.md",
     "Base/Двухфазная блокировка (2PL).md",
-    "Base/Типы блокировок.md",
     "Base/Пессимистическая блокировка.md",
     "Base/Многопоточность.md",
     "Base/Java Developer.md",
