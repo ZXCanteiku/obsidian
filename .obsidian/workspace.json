@@ -307,12 +307,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Deadlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Deadlock"
+            }
+          },
+          {
+            "id": "fc824f7d6f5a0a2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -424,7 +436,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -496,7 +508,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Deadlock.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -524,7 +536,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф Deadlock"
             }
           },
           {
@@ -631,8 +643,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9e8ba103cf55613",
+  "active": "fc824f7d6f5a0a2f",
   "lastOpenFiles": [
+    "Base/Проблемы многопоточности.md",
+    "Base/Многопоточность.md",
+    "Base/Java Developer.md",
+    "Base/Java Core.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Типы блокировок.md",
     "Base/Оптимистическая блокировка.md",
     "conflict-files-obsidian-git.md",
@@ -642,9 +659,6 @@
     "Base/Последовательное выполнение транзакций.md",
     "Base/Двухфазная блокировка (2PL).md",
     "Base/Пессимистическая блокировка.md",
-    "Base/Многопоточность.md",
-    "Base/Java Developer.md",
-    "Base/Java Core.md",
     "Base/Java thread.md",
     "Base/ReadWriteLock.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
@@ -658,8 +672,6 @@
     "Base/Чтение зафиксированных данных.md",
     "Base/MVCC.md",
     "Base/Невоспроизводимое чтение.md",
-    "Base/Транзакции.md",
-    "Base/Высоконагруженные приложения.md",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
     "Files/Pasted image 20241114205612.png",
