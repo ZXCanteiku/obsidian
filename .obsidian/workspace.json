@@ -333,12 +333,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Hibernate and Jpa.md",
+                "file": "Base/ORM, JPA and Hibernate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hibernate and Jpa"
+              "title": "ORM, JPA and Hibernate"
             }
           },
           {
@@ -662,7 +662,7 @@
   "lastOpenFiles": [
     "Base/Java Developer.md",
     "Base/Java Core.md",
-    "Base/Hibernate and Jpa.md",
+    "Base/ORM, JPA and Hibernate.md",
     "Base/Реляционные базы данных.md",
     "Base/Garbage Colector.md",
     "Base/Parallel.md",
