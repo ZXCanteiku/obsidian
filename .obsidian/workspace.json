@@ -333,12 +333,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Hibernate.md",
+                "file": "Base/Hibernate and Jpa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hibernate"
+              "title": "Hibernate and Jpa"
             }
           },
           {
@@ -481,7 +481,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hibernate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -658,11 +658,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d83502b6c3e390",
+  "active": "12a4068686676fa9",
   "lastOpenFiles": [
     "Base/Java Developer.md",
     "Base/Java Core.md",
-    "Base/Hibernate.md",
+    "Base/Hibernate and Jpa.md",
     "Base/Реляционные базы данных.md",
     "Base/Garbage Colector.md",
     "Base/Parallel.md",
