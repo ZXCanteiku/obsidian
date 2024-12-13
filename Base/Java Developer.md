@@ -19,7 +19,7 @@ aliases:
 - [[Реляционные базы данных]]
 - [[No SQL базы данных]]
 - [[SQL]]
-- [[ORM, JPA and Hibernate]]
+- [[JDBC, ORM, JPA and Hibernate]]
 - [[Инфраструктурными технологии для разработки на Java]]
 
 
