@@ -481,7 +481,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flyweight",
+                "query": "tag:#Hibernate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -502,7 +502,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -657,11 +658,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12a4068686676fa9",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
     "Base/Java Developer.md",
-    "Base/Реляционные базы данных.md",
     "Base/Java Core.md",
+    "Base/Hibernate.md",
+    "Base/Реляционные базы данных.md",
     "Base/Garbage Colector.md",
     "Base/Parallel.md",
     "Base/Apache Kafka.md",
@@ -685,7 +687,6 @@
     "Base/Предотвращение потери обновлений.md",
     "Base/Сравнение с обменом.md",
     "Base/Явные блокировки.md",
-    "Base/Атомарные операции записи.md",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
     "Files/Pasted image 20241114205612.png",
