@@ -347,12 +347,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Entity.md",
+                "file": "Base/Виды генераций id.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entity"
+              "title": "Виды генераций id"
             }
           },
           {
@@ -674,11 +674,18 @@
   },
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
-    "Base/Отношения между сущностями.md",
     "Base/Entity.md",
+    "Base/Виды генераций id.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Lifecycle.md",
     "Base/Java Developer.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
+    "Base/Снимок.md",
+    "Base/Многопоточность.md",
+    "Base/Типы блокировок.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Отношения между сущностями.md",
+    "Base/Lifecycle.md",
     "Base/Java Core.md",
     "Base/Реляционные базы данных.md",
     "Base/Garbage Colector.md",
@@ -687,20 +694,13 @@
     "Base/Динамическое связывание.md",
     "conflict-files-obsidian-git.md",
     "Base/Проблемы многопоточности.md",
-    "Base/Многопоточность.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Типы блокировок.md",
     "Base/Оптимистическая блокировка.md",
     "Files/Pasted image 20241116184016.png",
     "Base/Сериализуемость.md",
     "Base/Сериализуемая изоляция снимков состояний (SSI).md",
     "Base/Последовательное выполнение транзакций.md",
     "Base/Двухфазная блокировка (2PL).md",
-    "Base/Пессимистическая блокировка.md",
-    "Base/Java thread.md",
-    "Base/ReadWriteLock.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Слабые уровни изоляции.md",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
     "Files/Pasted image 20241114205612.png",
