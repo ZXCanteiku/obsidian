@@ -347,12 +347,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Виды генераций id.md",
+                "file": "Base/Отношения между сущностями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды генераций id"
+              "title": "Отношения между сущностями"
             }
           },
           {
