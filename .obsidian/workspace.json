@@ -674,8 +674,9 @@
   },
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
-    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Отношения между сущностями.md",
     "Base/Entity.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Lifecycle.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
@@ -700,7 +701,6 @@
     "Base/ReadWriteLock.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Слабые уровни изоляции.md",
-    "Base/Предотвращение потери обновлений.md",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
     "Files/Pasted image 20241114205612.png",
