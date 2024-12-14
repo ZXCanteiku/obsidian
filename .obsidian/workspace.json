@@ -676,6 +676,7 @@
   "lastOpenFiles": [
     "Base/Entity.md",
     "Base/Виды генераций id.md",
+    "Base/Отношения между сущностями.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
@@ -684,7 +685,6 @@
     "Base/Многопоточность.md",
     "Base/Типы блокировок.md",
     "Base/Пессимистическая блокировка.md",
-    "Base/Отношения между сущностями.md",
     "Base/Lifecycle.md",
     "Base/Java Core.md",
     "Base/Реляционные базы данных.md",
