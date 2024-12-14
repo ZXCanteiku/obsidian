@@ -495,7 +495,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#_MappedSuperclass_",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
