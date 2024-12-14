@@ -675,10 +675,10 @@
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
     "Base/Entity.md",
-    "Base/Виды генераций id.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Java Developer.md",
     "Base/Отношения между сущностями.md",
+    "Base/Виды генераций id.md",
+    "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
     "Base/Снимок.md",
