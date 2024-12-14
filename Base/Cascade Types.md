@@ -3,7 +3,7 @@ aliases:
 	- "Cascade Types"
 
 ### JPA Cascade Type
-- _ALL_
+- _ALL_ - включает все типы  каскадирования
 - _PERSIST_
 - _MERGE_
 - _REMOVE_
