@@ -2,6 +2,9 @@
 aliases: 
 	- "Lifecycle"
 
+### Жизненный цикл сущности в jpa and Hibernate
+
+![[Pasted image 20241214190211.png]]
 ```java
 @Entity 
 public class Student { 
