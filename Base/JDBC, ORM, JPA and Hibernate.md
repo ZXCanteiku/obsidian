@@ -24,4 +24,4 @@ Hibernate одна из самых популярных открытых реа�
 Tags: #hibernate #jpa #orm #jdbc
 Author: [[]]
 Related: [[Java Developer]]
-URL: [[]]
+URL: https://www.baeldung.com/learn-jpa-hibernate
