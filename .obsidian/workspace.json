@@ -347,12 +347,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Маппинг полей.md",
+                "file": "Base/Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Маппинг полей"
+              "title": "Lifecycle"
             }
           },
           {
@@ -674,13 +674,14 @@
   },
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Запросы.md",
     "Base/Entity.md",
-    "Base/Виды генераций id.md",
     "Base/Маппинг полей.md",
+    "Base/Виды генераций id.md",
     "Base/Отношения между сущностями.md",
     "Base/Cascade Types.md",
     "Base/Отображение наследования.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
@@ -700,7 +701,6 @@
     "Base/JVM,  Архитектура JVM.md",
     "Base/Оптимистическая блокировка.md",
     "Files/Pasted image 20241116184016.png",
-    "Base/Сериализуемость.md",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
     "Files/Pasted image 20241114205612.png",
