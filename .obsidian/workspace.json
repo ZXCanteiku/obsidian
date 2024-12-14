@@ -347,12 +347,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Entity.md",
+                "file": "Base/Отношения между сущностями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entity"
+              "title": "Отношения между сущностями"
             }
           },
           {
@@ -674,10 +674,10 @@
   },
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
-    "Base/Отношения между сущностями.md",
     "Base/Entity.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Виды генераций id.md",
+    "Base/Отношения между сущностями.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
