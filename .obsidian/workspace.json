@@ -675,8 +675,9 @@
   "active": "9e68de94dad01ae7",
   "lastOpenFiles": [
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Запросы.md",
     "Base/Entity.md",
+    "Base/Lifecycle.md",
+    "Base/Запросы.md",
     "Base/Маппинг полей.md",
     "Base/Виды генераций id.md",
     "Base/Отношения между сущностями.md",
@@ -689,7 +690,6 @@
     "Base/Многопоточность.md",
     "Base/Типы блокировок.md",
     "Base/Пессимистическая блокировка.md",
-    "Base/Lifecycle.md",
     "Base/Java Core.md",
     "Base/Реляционные базы данных.md",
     "Base/Garbage Colector.md",
