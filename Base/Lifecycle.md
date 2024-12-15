@@ -6,6 +6,8 @@ aliases:
 
 ![[Pasted image 20241214190211.png]]
 
+
+
 - [[Entityt Manager, Session]]
 
 
