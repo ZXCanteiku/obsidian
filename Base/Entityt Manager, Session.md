@@ -38,7 +38,6 @@ public class CustomInterceptor extends EmptyInterceptor {
 }
 ```
 
-
 ---
 Tags: #entity
 Author: [[]]
