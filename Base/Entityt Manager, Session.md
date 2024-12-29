@@ -25,7 +25,19 @@ aliases:
 	- При вызове `flush()` Hibernate сравнивает текущее состояние сущности с сохраненным снимком.
 	- Если изменения найдены, Hibernate генерирует соответствующий SQL-запрос.
 
-- [[Кэширование]]
+### Custom Dirty Checking
+- **Настройка через аннотации:** Используйте `@DynamicUpdate`, чтобы Hibernate генерировал SQL только для измененных полей.
+- **Через интерсепторы:** Создайте кастомный интерсептор, который будет отслеживать изменения сущностей:
+
+```java 
+public class CustomInterceptor extends EmptyInterceptor {
+    @Override
+    public boolean onFlushDirty(Object entity, Serializable id, Object[] currentState, Object[] previousState, String[] propertyNames, Type[] types) {
+        System.out.println("Entity updated: " + entity);
+        return super.onFlushDirty(entity, id, currentState, previousState, propertyNames, types);
+    }
+}
+```
 
 
 ---
