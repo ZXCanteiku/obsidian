@@ -17,9 +17,8 @@ Hibernate одна из самых популярных открытых реа�
 - [[Lifecycle]]
 - [[Transaction]]
 - [[Кэширование]]
-- [[Пагинация]]
 - [[N+1]]
-- [[Keyset pagination]]
+- [[Keyset and offset pagination]]
 
 ---
 Tags: #hibernate #jpa #orm #jdbc

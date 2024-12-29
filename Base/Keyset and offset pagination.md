@@ -36,7 +36,7 @@ aliases:
 3. Сложнее реализовать, если фильтры или сложные сортировки.
 
 ---
-Tags: #keyset
+Tags: #keyset #offset
 Author: [[]]
 Related: [[JDBC, ORM, JPA and Hibernate]]
 URL: [[]]
