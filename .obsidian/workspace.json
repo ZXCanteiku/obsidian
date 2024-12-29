@@ -261,11 +261,11 @@
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
     "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Entity.md",
+    "Base/N+1.md",
     "Base/Lifecycle.md",
     "Base/Entityt Manager, Session.md",
-    "Base/N+1.md",
     "conflict-files-obsidian-git.md",
-    "Base/Entity.md",
     "Base/Запросы.md",
     "Base/Java Developer.md",
     "Base/Кэширование.md",
