@@ -39,7 +39,7 @@ public class CustomInterceptor extends EmptyInterceptor {
 ```
 
 ---
-Tags: #entity
+Tags: #entity_manager
 Author: [[]]
 Related: [[Lifecycle]]
 URL: [[]]
