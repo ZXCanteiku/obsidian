@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Entityt Manager, Session.md",
+                "file": "Base/N+1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entityt Manager, Session"
+              "title": "N+1"
             }
           }
         ],
@@ -260,9 +260,9 @@
   },
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
+    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Lifecycle.md",
     "Base/Entityt Manager, Session.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/N+1.md",
     "conflict-files-obsidian-git.md",
     "Base/Entity.md",
