@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Многопоточность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Многопоточность"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Core"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -273,17 +273,25 @@
   },
   "active": "99bccac510fdfef8",
   "lastOpenFiles": [
+    "Base/Модель памяти в Java.md",
+    "Base/Многопоточность.md",
+    "Base/Java Developer.md",
+    "Base/Профилирование.md",
+    "Base/Java Core.md",
+    "Base/Аннотации.md",
+    "Base/Транзакции.md",
+    "Base/Дженерики.md",
+    "Base/Pool String.md",
+    "Base/Pool Integer.md",
+    "Base/Garbage Colector.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
-    "Base/Java Core.md",
-    "Base/Garbage Colector.md",
     "Base/Виды ссылок в java.md",
     "Base/Garbage-First (G1).md",
     "Base/Concurrent Mark Sweep (CMS).md",
     "Base/Parallel.md",
     "Base/Serial.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Java Developer.md",
     "Base/ООП.md",
     "conflict-files-obsidian-git.md",
     "Base/Кэширование.md",
@@ -291,16 +299,8 @@
     "Base/N+1.md",
     "Base/Keyset and offset pagination.md",
     "Base/Entityt Manager, Session.md",
-    "Base/Транзакции.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Аннотации.md",
-    "Base/Дженерики.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Apache Kafka.md",
-    "Base/Профилирование.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
-    "Base/Отображение наследования.md",
     "Files/Pasted image 20241116184016.png",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
