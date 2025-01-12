@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Transaction.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transaction"
+              "title": "Высоконагруженные приложения"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java",
+                "query": "ВЫсоко",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Transaction.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Transaction"
+              "title": "Граф Высоконагруженные приложения"
             }
           },
           {
@@ -286,7 +286,16 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
+    "Base/ООП.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Elasticsearch и другие.md",
+    "Base/Apache Kafka.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Keyset and offset pagination.md",
+    "Base/N+1.md",
+    "Base/Кэширование.md",
+    "Base/Transaction.md",
     "Base/Lifecycle.md",
     "Base/Entityt Manager, Session.md",
     "Base/Запросы.md",
@@ -296,7 +305,6 @@
     "Base/Отображение наследования.md",
     "Base/Маппинг полей.md",
     "Base/Виды генераций id.md",
-    "Base/Java Developer.md",
     "Base/SQL.md",
     "Base/No SQL базы данных.md",
     "Base/Реляционные базы данных.md",
@@ -304,14 +312,6 @@
     "Base/Нормальные формы.md",
     "Base/Индексы.md",
     "Base/Типы индексов.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Транзакции.md",
-    "Base/Сериализуемость.md",
-    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
-    "Base/Двухфазная блокировка (2PL).md",
-    "Base/Последовательное выполнение транзакций.md",
-    "Base/Фантомное чтение.md",
-    "Base/Неповторяющееся чтение.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
