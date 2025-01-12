@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Виды генераций id.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляций транзакции"
+              "title": "Виды генераций id"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Виды генераций id.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Уровни изоляций транзакции"
+              "title": "Граф Виды генераций id"
             }
           },
           {
@@ -286,32 +286,32 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Транзакции.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Предотвращение потери обновлений.md",
-    "Base/Реляционные базы данных.md",
+    "Base/Entity.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
-    "Base/ООП.md",
+    "Base/SQL.md",
+    "Base/No SQL базы данных.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Распределённые транзакции.md",
+    "Base/Нормальные формы.md",
+    "Base/Индексы.md",
+    "Base/Типы индексов.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Транзакции.md",
     "Base/Сериализуемость.md",
-    "Base/Чтение зафиксированных данных.md",
-    "Base/Read committed.md",
-    "Base/MVCC.md",
+    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "Base/Двухфазная блокировка (2PL).md",
+    "Base/Последовательное выполнение транзакций.md",
     "Base/Фантомное чтение.md",
     "Base/Неповторяющееся чтение.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/Невоспроизводимое чтение.md",
+    "Base/Чтение зафиксированных данных.md",
+    "Base/Read committed.md",
     "Base/Грязное чтение.md",
-    "Base/ACID.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/Порождающие паттерны.md",
-    "Base/Фабричный метод.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/DRY.md",
-    "Base/YAGNI.md",
-    "Base/KISS.md",
-    "Base/SOLID.md",
+    "Base/MVCC.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/Предотвращение потери обновлений.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
