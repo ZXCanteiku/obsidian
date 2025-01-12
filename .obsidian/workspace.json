@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/Дизайн паттерны и принципы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java thread"
+              "title": "Дизайн паттерны и принципы"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/Дизайн паттерны и принципы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java thread"
+              "title": "Граф Дизайн паттерны и принципы"
             }
           },
           {
@@ -273,32 +273,32 @@
   },
   "active": "99bccac510fdfef8",
   "lastOpenFiles": [
+    "Base/SOLID.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/ООП.md",
+    "Base/Посылка сообщений.md",
+    "Base/Абстракция.md",
+    "Base/Полиморфизм.md",
+    "Base/Динамическое связывание.md",
+    "Base/Наследование.md",
+    "Base/Инкапсуляция.md",
+    "Base/Java Developer.md",
     "Base/Многопоточность.md",
+    "Base/Java thread.md",
+    "Base/Concurrent.md",
+    "Base/ThreadLocal.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Дамп потока.md",
+    "Base/Interrupted.md",
+    "Base/Atomic.md",
+    "Base/Locks.md",
+    "Base/Semaphore.md",
+    "Base/CyclicBarrier.md",
+    "Base/CountDownLatch.md",
+    "Base/ReadWriteLock.md",
+    "Base/ReentrantLock.md",
     "Base/Зелёные потоки.md",
     "Base/Модель памяти в Java.md",
-    "Base/Java Developer.md",
-    "Base/Профилирование.md",
-    "Base/Java Core.md",
-    "Base/Аннотации.md",
-    "Base/Транзакции.md",
-    "Base/Дженерики.md",
-    "Base/Pool String.md",
-    "Base/Pool Integer.md",
-    "Base/Garbage Colector.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Устройство памяти примитивных типов.md",
-    "Base/Виды ссылок в java.md",
-    "Base/Garbage-First (G1).md",
-    "Base/Concurrent Mark Sweep (CMS).md",
-    "Base/Parallel.md",
-    "Base/Serial.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/ООП.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Кэширование.md",
-    "Base/Transaction.md",
-    "Base/N+1.md",
-    "Base/Keyset and offset pagination.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
