@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Entityt Manager, Session.md",
+                "file": "Base/Lifecycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entityt Manager, Session"
+              "title": "Lifecycle"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Entityt Manager, Session.md",
+                "file": "Base/Lifecycle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Entityt Manager, Session"
+              "title": "Граф Lifecycle"
             }
           },
           {
@@ -286,13 +286,15 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Запросы.md",
     "Base/Entity.md",
+    "Base/Entityt Manager, Session.md",
     "Base/Отношения между сущностями.md",
     "Base/Cascade Types.md",
     "Base/Отображение наследования.md",
     "Base/Маппинг полей.md",
     "Base/Виды генераций id.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
     "Base/SQL.md",
     "Base/No SQL базы данных.md",
@@ -310,8 +312,6 @@
     "Base/Фантомное чтение.md",
     "Base/Неповторяющееся чтение.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Невоспроизводимое чтение.md",
-    "Base/Чтение зафиксированных данных.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
