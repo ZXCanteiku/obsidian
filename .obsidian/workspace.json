@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Виды генераций id.md",
+                "file": "Base/Отображение наследования.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Виды генераций id"
+              "title": "Отображение наследования"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Виды генераций id.md",
+                "file": "Base/Отображение наследования.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Виды генераций id"
+              "title": "Граф Отображение наследования"
             }
           },
           {
@@ -286,7 +286,10 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Отношения между сущностями.md",
     "Base/Entity.md",
+    "Base/Маппинг полей.md",
+    "Base/Виды генераций id.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Java Developer.md",
     "Base/SQL.md",
@@ -309,9 +312,6 @@
     "Base/Чтение зафиксированных данных.md",
     "Base/Read committed.md",
     "Base/Грязное чтение.md",
-    "Base/MVCC.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Предотвращение потери обновлений.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
