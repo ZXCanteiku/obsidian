@@ -263,7 +263,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -284,7 +285,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Java Developer.md",
     "Base/ООП.md",
