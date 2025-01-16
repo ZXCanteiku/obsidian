@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Второй уровень кэша.md",
+                "file": "Base/Запросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Второй уровень кэша"
+              "title": "Запросы"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Второй уровень кэша.md",
+                "file": "Base/Запросы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Второй уровень кэша"
+              "title": "Граф Запросы"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Второй уровень кэша.md",
+                "file": "Base/Запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Второй уровень кэша"
+              "title": "Обратные ссылки для Запросы"
             }
           },
           {
@@ -300,10 +300,11 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Кэширование.md",
-    "Base/Первый уровень кэша.md",
-    "Base/Второй уровень кэша.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Кэширование.md",
+    "Base/Второй уровень кэша.md",
+    "Base/Entity.md",
+    "Base/Первый уровень кэша.md",
     "Base/Transaction.md",
     "Base/Java Developer.md",
     "Base/Реляционные базы данных.md",
@@ -325,7 +326,6 @@
     "Base/Секционирование по хешу ключа.md",
     "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
     "Base/Секционирование по диапазонам ключей.md",
-    "Base/Репликация данных.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
