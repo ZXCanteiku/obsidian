@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Запросы.md",
+                "file": "Base/Кэширование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Запросы"
+              "title": "Кэширование"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Запросы.md",
+                "file": "Base/Кэширование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Запросы"
+              "title": "Граф Кэширование"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Запросы.md",
+                "file": "Base/Кэширование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Запросы"
+              "title": "Обратные ссылки для Кэширование"
             }
           },
           {
@@ -301,6 +301,7 @@
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Запросы.md",
     "Base/Кэширование.md",
     "Base/Второй уровень кэша.md",
     "Base/Entity.md",
@@ -325,7 +326,6 @@
     "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по хешу ключа.md",
     "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Base/Секционирование по диапазонам ключей.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
