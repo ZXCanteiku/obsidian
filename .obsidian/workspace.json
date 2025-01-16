@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "050cec5d5eeae3f0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
             "id": "eb9827acb4ff9e00",
             "type": "leaf",
             "state": {
@@ -301,8 +311,8 @@
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/Модель памяти в Java.md",
-    "Base/Многопоточность.md",
     "Base/hapens-before.md",
+    "Base/Многопоточность.md",
     "Base/Java Developer.md",
     "Base/Spring framework.md",
     "Base/Реляционные базы данных.md",

@@ -9,22 +9,17 @@ aliases:
 _Happens-before_ — это еще один способ, с помощью которого мы добьемся sequential consistency.
 #### [Happens-Before] Same thread actions
 Если действие `x` идет перед `y` в коде программы и эти действия происходят в одном и том же треде, то `x` _happens-before_ `y`
-
 #### [Happens-Before] Monitor lock
 Освобождение монитора _happens-before_ каждый последующий захват того же самого монитора.
-
 #### [Happens-Before] Volatile
 Запись в `volatile` переменную _happens-before_ каждое последующее чтение той же самой переменной.
-
 #### [Happens-Before] Final thread action
 Финальное действие в треде T1 _happens-before_ любое действие в треде T2, которое обнаруживает, что тред T1 завершен.
 Это приводит нас к таким happens-before:
 - Финальное действие в `T1` _happens-before_ завершение вызова `T1.join()` в `T2`
 - Финальное действие в `T1` _happens-before_ завершение вызова `T1.isAlive()` в `T2` (если вызов возвращает `false`)
-
 #### [Happens-before] Thread start action
 Действие запуска треда (`Thread.start()`) _happens-before_ первое действие в этом треде.
-
 #### [Happens-before] Thread interrupt action
 Если тред `T1` прерывает тред `T2`, то интеррапт _happens-before_ обнаружение интеррапта. Обнаружить интеррапт можно или по исключению `InterruptedException`, или с помощью вызова `Thread.interrupted`/`Thread.isInterrupted`.
 
