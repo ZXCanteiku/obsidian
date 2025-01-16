@@ -18,7 +18,6 @@ aliases:
 - [[Spring framework]]
 - [[Реляционные базы данных]]
 - [[No SQL базы данных]]
-- [[SQL]]
 - [[JDBC, ORM, JPA and Hibernate]]
 - [[Инфраструктурными технологии для разработки на Java]]
 
