@@ -197,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000033,
+                  "scale": 0.5087618855792604,
                   "close": true
                 }
               },
@@ -230,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Concurrent.md",
+                "file": "Base/hapens-before.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Concurrent"
+              "title": "Исходящие ссылки из hapens-before"
             }
           },
           {
@@ -287,7 +287,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -308,7 +309,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Модель памяти в Java.md",
     "Base/hapens-before.md",
