@@ -13,71 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Транзакции.md",
+                "file": "Base/Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транзакции"
+              "title": "Индексы"
             }
           },
           {
-            "id": "99bccac510fdfef8",
+            "id": "d76fa40f7a3b6755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Транзакции.md",
+                "file": "Base/Асимметрия записи и фантомы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транзакции"
+              "title": "Асимметрия записи и фантомы"
             }
           },
           {
-            "id": "ec313b84d14951eb",
+            "id": "a03e1f9284653673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сериализуемость.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сериализуемость"
-            }
-          },
-          {
-            "id": "600386b6d54a3c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Предотвращение потери обновлений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Предотвращение потери обновлений"
-            }
-          },
-          {
-            "id": "4a81abd05b467986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Неповторяющееся чтение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Неповторяющееся чтение"
+              "title": "Java Developer"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ВЫсоко",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +102,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Транзакции.md",
+                "file": "Base/Асимметрия записи и фантомы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,12 +145,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000033,
+                  "scale": 1.000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Транзакции"
+              "title": "Граф Асимметрия записи и фантомы"
             }
           },
           {
@@ -263,11 +235,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 1028.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,36 +257,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "a03e1f9284653673",
   "lastOpenFiles": [
-    "Base/Высоконагруженные приложения.md",
-    "Base/Секционирование.md",
-    "Base/Маршрутизация запросов.md",
-    "Base/Перебалансировка секций.md",
-    "Base/Секционирование пропорционально количеству узлов.md",
-    "Base/Автоматическая или ручная перебалансировка.md",
-    "Base/Динамическое секционирование.md",
-    "Base/Фиксированное количество секций.md",
-    "Base/Хеширование по модулю N.md",
-    "Base/Секционирование и вторичные индексы.md",
-    "Base/Секционирование по термам.md",
-    "Base/Секционирование по документам.md",
-    "Base/Секционирование данных ключ-значение.md",
-    "Base/Секционирование по хешу ключа.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
-    "Base/Секционирование по диапазонам ключей.md",
-    "Base/Репликация данных.md",
-    "Base/Репликация без ведущего узла.md",
-    "Base/Обнаружение конкурентных операций записи.md",
-    "Base/Предотвращение конфликтов.md",
-    "Base/Автоматическое разрешение конфликтов.md",
-    "Base/Обработка конфликтов записи.md",
-    "Base/Масштабируемый подходы для обнаружения и разрешения конфликтов.md",
-    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
-    "Base/Обнаружение связей тип Происходит до.md",
-    "Base/Отношение «произошло до» и параллелизм.md",
+    "Base/Transaction.md",
+    "Base/N+1.md",
+    "Base/Keyset and offset pagination.md",
+    "Base/Кэширование.md",
+    "Base/Entityt Manager, Session.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
+    "Base/Цепочка обязанностей.md",
+    "Base/Структурные паттерны.md",
+    "Base/Адаптер.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Прототип.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Посредник.md",
+    "Base/Наблюдатель.md",
+    "Base/Строитель.md",
+    "Base/Шаблонный метод.md",
+    "Base/Java Developer.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Lifecycle.md",
+    "Base/Entity.md",
+    "Base/Отношения между сущностями.md",
+    "Base/Отображение наследования.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
+    "Base/Маппинг полей.md",
+    "Base/Запросы.md",
     "Files/Pasted image 20241116184016.png",
     "Files/Pasted image 20241114211340.png",
     "Files/Pasted image 20241114210215.png",
