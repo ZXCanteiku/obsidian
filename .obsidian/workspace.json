@@ -13,95 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/hapens-before.md",
+                "file": "Base/Индексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hapens-before"
+              "title": "Индексы"
             }
           },
           {
-            "id": "050cec5d5eeae3f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "eb9827acb4ff9e00",
+            "id": "d76fa40f7a3b6755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Первый уровень кэша.md",
+                "file": "Base/Асимметрия записи и фантомы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первый уровень кэша"
+              "title": "Асимметрия записи и фантомы"
             }
           },
           {
-            "id": "99bccac510fdfef8",
+            "id": "a03e1f9284653673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Транзакции.md",
+                "file": "Base/Кэширование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Транзакции"
-            }
-          },
-          {
-            "id": "ec313b84d14951eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Сериализуемость.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сериализуемость"
-            }
-          },
-          {
-            "id": "600386b6d54a3c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Предотвращение потери обновлений.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Предотвращение потери обновлений"
-            }
-          },
-          {
-            "id": "4a81abd05b467986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Неповторяющееся чтение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Неповторяющееся чтение"
+              "title": "Кэширование"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/hapens-before.md",
+                "file": "Base/Асимметрия записи и фантомы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,12 +146,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792604,
+                  "scale": 1.000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф hapens-before"
+              "title": "Граф Асимметрия записи и фантомы"
             }
           },
           {
@@ -211,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/hapens-before.md",
+                "file": "Base/Concurrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для hapens-before"
+              "title": "Обратные ссылки для Concurrent"
             }
           },
           {
@@ -230,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/hapens-before.md",
+                "file": "Base/Concurrent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из hapens-before"
+              "title": "Исходящие ссылки из Concurrent"
             }
           },
           {
@@ -292,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1028.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,34 +258,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "a03e1f9284653673",
   "lastOpenFiles": [
-    "Base/Модель памяти в Java.md",
-    "Base/hapens-before.md",
-    "Base/Многопоточность.md",
-    "Base/Java Developer.md",
-    "Base/Spring framework.md",
-    "Base/Реляционные базы данных.md",
-    "Base/SQL.md",
-    "Base/No SQL базы данных.md",
     "Base/Реактивное программирование.md",
-    "Base/Профилирование.md",
-    "Base/Java Core.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Lifecycle.md",
-    "Base/Entity.md",
-    "Base/Кэширование.md",
-    "Base/Запросы.md",
-    "Base/Второй уровень кэша.md",
     "Base/Первый уровень кэша.md",
+    "Base/Второй уровень кэша.md",
+    "Base/hapens-before.md",
+    "Base/Spring framework.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Keyset and offset pagination.md",
+    "Base/N+1.md",
+    "Base/Кэширование.md",
     "Base/Transaction.md",
-    "Base/ACID.md",
-    "Base/Транзакции.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Секционирование.md",
-    "Base/Маршрутизация запросов.md",
-    "Base/Перебалансировка секций.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Lifecycle.md",
+    "Base/Запросы.md",
+    "Base/Entity.md",
+    "Base/Entityt Manager, Session.md",
+    "Base/Java Developer.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
+    "Base/Цепочка обязанностей.md",
+    "Base/Структурные паттерны.md",
+    "Base/Адаптер.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Прототип.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Посредник.md",
+    "Base/Наблюдатель.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
