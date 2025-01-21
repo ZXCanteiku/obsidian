@@ -23,7 +23,10 @@ aliases:
 6. **`ApplicationContext` проверяет флаг `SmartLifecycle#isRunning` и вызывает метод `SmartLifecycle#start`, если флаг имеет значение `false`**
 	- Метод `SmartLifecycle#start` вызывается автоматически на этапе обновления (refresh), поскольку флаг `SmartLifecycle#isAutoStartup` по умолчанию имеет значение true
 	- Метод `Lifecycle#start`не вызывается на этапе обновления. Он вызывается на этапе запуска (start). Начальная фаза запускается только с помощью `ApplicationContext#start`.
-	
+7. **`ApplicationContext` публикует `ContextRefreshedEvent`**
+8. **Методы обратного вызова, помеченные аннотацией `@EventListener` с типом параметра метода `ContextRefreshedEvent`, обрабатывают это событие. Также здесь может быть `ApplicationListener`**
+9. 
+10. 
 
 ---
 Tags: #spring #life_cycle
