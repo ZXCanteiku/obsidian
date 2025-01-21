@@ -15,7 +15,11 @@ aliases:
 5. Внедрение зависимостей на основе `setter`-ов
 	`Если вы используете комбинацию 2 подходов конфигурирования: на основе XML и на основе аннотаций, то следует знать, что внедрение зависимостей через аннотации выполняется перед внедрением зависимостей через XML. Таким образом, конфигурация XML переопределяет аннотации для свойств.`
 6. Отрабатывают методы стандартного набора `*Aware` интерфейсов
-
+7. `BeanPostProcessor#postProcessBeforeInitialization` обрабатывает bean-компонент.
+8. `InitDestroyAnnotationBeanPostProcessor#postProcessBeforeInitialization` вызывает методы обратного вызова, помеченные аннотацией `@PostConstruct`
+9. `BeanFactory` вызывает метод `InitializingBean#afterPropertiesSet`
+10. `BeanFactory` вызывает метод обратного вызова, зарегистрированный как `initMethod`
+11. `BeanPostProcessor#postProcessAfterInitialization` обрабатывает bean-компонент.
 ---
 Tags: #spring #life_cycle_bean
 Author: [[]]
