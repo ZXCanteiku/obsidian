@@ -53,8 +53,8 @@ aliases:
 ---
 Tags: #spring #life_cycle
 Author: [[]]
-Related: [[Java Developer]]
-URL: [Источник](https://refactoring.guru/ru/design-patterns/java)
+Related: [[Spring framework]]
+URL: 
 
 
 
