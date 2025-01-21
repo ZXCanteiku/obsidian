@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Spring framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Spring framework"
             }
           }
         ],
@@ -260,16 +260,16 @@
   },
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Spring framework.md",
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
     "Base/Дженерики.md",
     "Base/Аннотации.md",
-    "Base/Java Developer.md",
-    "Base/Spring framework.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Шаблонное проектирование.md",
     "Base/Реактивное программирование.md",
     "Base/Apache Kafka.md",
     "Base/Многопоточность.md",
