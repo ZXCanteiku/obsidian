@@ -47,7 +47,8 @@ Spring использует **внедрение зависимостей** ка
 
 [SmartLifecycle](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/SmartLifecycle.html) - это расширение Lifecycle интерфейса. Отличие в том, что он срабатывает во время обновления (refresh) и закрытия (close) контекста.
 
-[[Жизненный цикл контекста Spring]]
+- [[Жизненный цикл контекста Spring]]
+- [[Жизненный цикл bean-компонента]]
 
 
 ---
