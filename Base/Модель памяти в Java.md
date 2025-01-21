@@ -40,6 +40,7 @@ Java Memory Model — это **Sequential Consistency-Data Race Free (SC-DRF)**
 
 **[[hapens-before]]**
 **[[Cache Coherence]]**
+**[[Memory Barriers]]**
 
 
 ---
