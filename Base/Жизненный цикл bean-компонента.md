@@ -20,6 +20,13 @@ aliases:
 9. `BeanFactory` вызывает метод `InitializingBean#afterPropertiesSet`
 10. `BeanFactory` вызывает метод обратного вызова, зарегистрированный как `initMethod`
 11. `BeanPostProcessor#postProcessAfterInitialization` обрабатывает bean-компонент.
+#### Этап уничтожения bean-компонента
+Этап уничтожения срабатывает только для **singleton** bean-компонентов, так как только эти компоненты храниться в `BeanFactory`.
+1. `InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction` вызывает методы обратного вызова, отмеченные как`@PreDestroy`
+2. `BeanFactory` вызывает метод `InitializingBean#destroy`
+3. `BeanFactory` вызывает метод обратного вызова, зарегистрированный как `destroyMethod`
+	`По умолчанию bean-компоненты, определенные с конфигурацией Java, которые имеют public метод `close()` или `shutdown()`, автоматически становятся методами обратного вызова уничтожения.`
+
 ---
 Tags: #spring #life_cycle_bean
 Author: [[]]
