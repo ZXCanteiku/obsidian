@@ -10,18 +10,16 @@ aliases:
 4. Этап закрытия (close) - автоматический
 
 #### Этап обновления контекста
-1. `BeanFactory` создает `BeanFactoryPostProcessor`-ы используя конструктор без аргументов
+1. **`BeanFactory` создает `BeanFactoryPostProcessor`-ы используя конструктор без аргументов**
 	- `BeanFactory` может создать экземпляр `BeanFactoryPostProcessor` только с конструктором без аргументов. В противном случае вы получите сообщение об ошибке со следующим сообщением: `No default constructor found.`
 	- Обратные вызовы инициализации и уничтожения не работают как у обычных bean-компоненты если вы используете конфигурацию на основе аннотаций. Но они работают если использовать конфигурации на основе XML. Подробности в Жизненный цикл bean-компонента.
 	- Если вы пометили `BeanFactoryPostProcessor` как лениво инициализируемый, то `BeanFactory` проигнорирует это
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+2. **`ApplicationContext` вызывает метод `BeanFactoryPostProcessor#postProcessBeanFactory`**
+3. **`BeanFactory` creates `BeanPostProcessor`-ы**
+	- `` `ApplicationContext` позволяет внедрять зависимости в конструктор `BeanPostProcessor`, но такой компонент не будет обрабатываться `BeanPostProcessor` и вы получите следующее сообщение: `Bean someBean is not eligible for getting processed by all BeanPostProcessor interfaces (for example: not eligible for auto-proxying` ``
+	- `Обратные вызовы инициализации и уничтожения работают как обычные bean-компоненты.`
+	
+	
 ---
 Tags: #spring #life_cycle
 Author: [[]]
