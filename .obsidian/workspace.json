@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Memory Barriers.md",
+                "file": "Base/Модель памяти в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Barriers"
+              "title": "Модель памяти в Java"
             }
           }
         ],
@@ -260,9 +260,9 @@
   },
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
+    "Base/Memory Barriers.md",
     "Base/Модель памяти в Java.md",
     "Base/Cache Coherence.md",
-    "Base/Memory Barriers.md",
     "Files/Pasted image 20250121213823.png",
     "Base/hapens-before.md",
     "Base/Многопоточность.md",
