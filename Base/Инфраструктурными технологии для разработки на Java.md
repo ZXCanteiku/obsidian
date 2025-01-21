@@ -11,7 +11,7 @@ aliases:
 - [[Elasticsearch и другие]]
 
 ---
-Tags: #db
+Tags: #infrastructure
 Author: [[]]
 Related: [[Java Developer]]
 URL: [[]]
