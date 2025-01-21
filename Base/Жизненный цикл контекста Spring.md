@@ -18,8 +18,13 @@ aliases:
 3. **`BeanFactory` creates `BeanPostProcessor`-ы**
 	- `` `ApplicationContext` позволяет внедрять зависимости в конструктор `BeanPostProcessor`, но такой компонент не будет обрабатываться `BeanPostProcessor` и вы получите следующее сообщение: `Bean someBean is not eligible for getting processed by all BeanPostProcessor interfaces (for example: not eligible for auto-proxying` ``
 	- `Обратные вызовы инициализации и уничтожения работают как обычные bean-компоненты.`
+4. **`ApplicationContext` регистрирует `BeanPostProcessor`-ы**
+5.  **Инициализация singleton bean-компонентов. Подробности в Жизненный цикл bean-компонента.**
+6. **`ApplicationContext` проверяет флаг `SmartLifecycle#isRunning` и вызывает метод `SmartLifecycle#start`, если флаг имеет значение `false`**
+	- Метод `SmartLifecycle#start` вызывается автоматически на этапе обновления (refresh), поскольку флаг `SmartLifecycle#isAutoStartup` по умолчанию имеет значение true
+	- Метод `Lifecycle#start`не вызывается на этапе обновления. Он вызывается на этапе запуска (start). Начальная фаза запускается только с помощью `ApplicationContext#start`.
 	
-	
+
 ---
 Tags: #spring #life_cycle
 Author: [[]]
