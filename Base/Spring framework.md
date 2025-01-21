@@ -25,32 +25,21 @@ Spring использует **внедрение зависимостей** ка
 [BeanFactory](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContext.html) - это интерфейс который создает и предоставляет bean-компоненты на основе BeanDefinition-ов. Он является ядром `ApplicationContext`.
 
 [ApplicationContext](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationContext.html) - это центральный интерфейс который предоставляет следующий список возможностей:
-
 - возможности BeanFactory
-    
 - загрузка ресурсов
-    
 - публикация событий
-    
 - интернационализация
-    
 - автоматическая регистрация `BeanPostProcessor` и `BeanFactoryPostProcessor`
-    
 
 [BeanFactoryPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanFactoryPostProcessor.html) - это интерфейс, который позволяет настраивать определения bean-компонентов контекста приложения. Он создается и запускается перед BeanPostProcessor.
 
 [BeanPostProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/BeanPostProcessor.html) - это интерфейс для обеспечения интеграции кастомной логики создания экземпляров, разрешения зависимостей и т. д. Каждый компонент, созданный `BeanFactory`, проходит через каждый зарегистрированный `BeanPostProcessor`.
 
 [ApplicationContextEvent](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/event/ApplicationContextEvent.html) - основной класс для событий, возникающих в процессе жизненного цикла ApplicationContext. Его подклассы:
-
 - ContextRefreshedEvent - публикуется автоматически после поднятия контекста
-    
 - ContextStartedEvent - публикуется методом `ApplicationContext#start`
-    
 - ContextStoppedEvent - публикуется методом `ApplicationContext#stop`
-    
 - ContextClosedEvent - публикуется автоматически перед закрытием контекста
-    
 
 [ApplicationListener](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationListener.html) - интерфейс который позволяет обрабатывать [ApplicationEvent](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/ApplicationEvent.html) события. Можно использовать аннотацию [@EventListener](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/event/EventListener.html) вместо интерфейса.
 
