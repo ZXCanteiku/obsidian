@@ -261,6 +261,7 @@
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
     "Base/Spring framework.md",
+    "Base/Жизненный цикл bean-компонента.md",
     "Base/Жизненный цикл контекста Spring.md",
     "Base/Java Developer.md",
     "Base/Архитектурные паттерны.md",
@@ -286,7 +287,6 @@
     "Base/N+1.md",
     "Base/Transaction.md",
     "Base/Уровни изоляций транзакции.md",
-    "Base/Lifecycle.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
