@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Согласованность и консенсус.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Согласованность и консенсус"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Coherence",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Согласованность и консенсус.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,12 +174,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.401982897776107,
+                  "scale": 1.0000000000000047,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Согласованность и консенсус"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -287,8 +287,12 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Линеаризуемость.md",
+    "Base/Чтение зафиксированных данных.md",
+    "Base/Read committed.md",
+    "Base/Транзакции.md",
+    "Base/Высоконагруженные приложения.md",
     "Base/Согласованность и консенсус.md",
+    "Base/Линеаризуемость.md",
     "Base/Теория распределённых систем.md",
     "Base/Системы без глобального консенсуса.md",
     "Base/Выбор ведущего узла.md",
@@ -303,10 +307,8 @@
     "Base/Raft.md",
     "Base/Paxos.md",
     "Base/Цепная репликация.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Репликация без ведущего узла.md",
     "Files/Pasted image 20250122190441.png",
-    "Base/Транзакции.md",
     "Files/Pasted image 20250121232522.png",
     "Files/Pasted image 20250121213823.png",
     "Base/Реактивное программирование.md",
@@ -315,8 +317,6 @@
     "Base/Жизненный цикл контекста Spring.md",
     "Base/Жизненный цикл bean-компонента.md",
     "Base/Второй уровень кэша.md",
-    "Base/hapens-before.md",
-    "Base/Spring framework.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
