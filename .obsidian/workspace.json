@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Векторные часы.md",
+                "file": "Base/Лампорта часы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Векторные часы"
+              "title": "Лампорта часы"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Векторные часы.md",
+                "file": "Base/Лампорта часы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Векторные часы"
+              "title": "Граф Лампорта часы"
             }
           },
           {
@@ -288,6 +288,7 @@
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/Причинность.md",
+    "Base/Лампорта часы.md",
     "Base/Векторные часы.md",
     "Base/Согласованность и консенсус.md",
     "Base/Линеаризуемость.md",
@@ -315,7 +316,6 @@
     "Base/Секционирование.md",
     "Base/Маршрутизация запросов.md",
     "Base/Перебалансировка секций.md",
-    "Base/Секционирование пропорционально количеству узлов.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
