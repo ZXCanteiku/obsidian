@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Консенсусные протоколы.md",
+                "file": "Base/Raft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Консенсусные протоколы"
+              "title": "Raft"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Консенсусные протоколы.md",
+                "file": "Base/Raft.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Консенсусные протоколы"
+              "title": "Граф Raft"
             }
           },
           {
@@ -287,8 +287,9 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Paxos.md",
     "Base/Консенсусные протоколы.md",
+    "Base/Raft.md",
+    "Base/Paxos.md",
     "Base/Линеаризуемость.md",
     "Base/Согласованность и консенсус.md",
     "Base/Цепная репликация.md",
@@ -315,7 +316,6 @@
     "Base/Автоматическая или ручная перебалансировка.md",
     "Base/Динамическое секционирование.md",
     "Base/Фиксированное количество секций.md",
-    "Base/Хеширование по модулю N.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
