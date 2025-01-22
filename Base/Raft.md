@@ -28,7 +28,7 @@ aliases:
 - Большая популярность открытых библиотек/реализаций (go-raft, etcd-raft, HashiCorp Raft, Patroni и др.).
 
 ---
-Tags:
+Tags: #highLoad #develop #coherence  #consensus
 Author: [[]]
-Related: [[]]
+Related: [[Консенсусные протоколы]]
 URL: -- 
