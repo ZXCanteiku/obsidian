@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Консенсусные протоколы.md",
+                "file": "Base/Paxos.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Консенсусные протоколы"
+              "title": "Paxos"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Консенсусные протоколы.md",
+                "file": "Base/Paxos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Консенсусные протоколы"
+              "title": "Граф Paxos"
             }
           },
           {
@@ -285,11 +285,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7141d3ce232f8961",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Консенсусные протоколы.md",
+    "Base/Paxos.md",
     "Base/Линеаризуемость.md",
     "Base/Согласованность и консенсус.md",
-    "Base/Консенсусные протоколы.md",
     "Base/Цепная репликация.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Репликация без ведущего узла.md",
@@ -315,7 +316,6 @@
     "Base/Динамическое секционирование.md",
     "Base/Фиксированное количество секций.md",
     "Base/Хеширование по модулю N.md",
-    "Base/Секционирование и вторичные индексы.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
