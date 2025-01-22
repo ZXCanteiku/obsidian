@@ -15,7 +15,7 @@
               "state": {
                 "file": "Base/Согласованность и консенсус.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Согласованность и консенсус"
