@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Согласованность и консенсус.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Высоконагруженные приложения"
+              "title": "Согласованность и консенсус"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Высоконагруженные приложения.md",
+                "file": "Base/Согласованность и консенсус.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Высоконагруженные приложения"
+              "title": "Граф Согласованность и консенсус"
             }
           },
           {
@@ -286,6 +286,8 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Высоконагруженные приложения.md",
+    "Base/Согласованность и консенсус.md",
     "Base/Транзакции.md",
     "Files/Pasted image 20250121232522.png",
     "Files/Pasted image 20250121213823.png",
@@ -299,7 +301,6 @@
     "Base/Spring framework.md",
     "Base/Memory Barriers.md",
     "Base/Cache Coherence.md",
-    "Base/Высоконагруженные приложения.md",
     "Base/Секционирование.md",
     "Base/Маршрутизация запросов.md",
     "Base/Перебалансировка секций.md",
@@ -313,7 +314,6 @@
     "Base/Секционирование по документам.md",
     "Base/Секционирование данных ключ-значение.md",
     "Base/Секционирование по хешу ключа.md",
-    "Base/Асимметричные нагрузки и разгрузка горячих точек.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
