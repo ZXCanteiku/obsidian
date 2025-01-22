@@ -15,6 +15,7 @@
               "state": {
                 "file": "Base/Согласованность и консенсус.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
@@ -263,11 +264,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,7 +286,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Высоконагруженные приложения.md",
     "Base/Согласованность и консенсус.md",
