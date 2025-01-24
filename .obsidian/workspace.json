@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Типы индексов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Типы индексов"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Типы индексов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,12 +175,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000047,
+                  "scale": 0.7132754626224458,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф Типы индексов"
             }
           },
           {
@@ -288,16 +288,19 @@
   },
   "active": "ec313b84d14951eb",
   "lastOpenFiles": [
+    "Base/B-tree индексы.md",
+    "Base/Типы индексов.md",
+    "Base/Индексы.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Java Developer.md",
+    "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
     "Base/Livelock.md",
     "Base/Deadlock.md",
-    "Base/Многопоточность.md",
     "Base/Типы блокировок.md",
     "Base/Оптимистическая блокировка.md",
     "Base/Пессимистическая блокировка.md",
-    "Base/Java Developer.md",
-    "Base/Реляционные базы данных.md",
     "Base/Нормальные формы.md",
     "Base/Сериализуемость.md",
     "Base/Garbage Colector.md",
@@ -311,9 +314,6 @@
     "Base/Чтение зафиксированных данных.md",
     "Base/Неповторяющееся чтение.md",
     "Base/Фантомное чтение.md",
-    "Base/MVCC.md",
-    "Base/Невоспроизводимое чтение.md",
-    "Base/Транзакции.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
