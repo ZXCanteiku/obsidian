@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Semaphore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Semaphore"
             }
           }
         ],
@@ -273,6 +273,14 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
+    "Base/Locks.md",
+    "Base/CyclicBarrier.md",
+    "Base/CountDownLatch.md",
+    "Base/Concurrent.md",
+    "Base/Java thread.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Atomic.md",
+    "Base/Многопоточность.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Garbage Colector.md",
@@ -280,10 +288,6 @@
     "Base/Garbage-First (G1).md",
     "Base/Устройство памяти в JVM.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Многопоточность.md",
-    "Base/Java thread.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Locks.md",
     "Base/Phaser.md",
     "Base/Линеаризуемость.md",
     "Base/Консенсусные протоколы.md",
@@ -299,10 +303,6 @@
     "Base/Системы без глобального консенсуса.md",
     "Base/Причинность.md",
     "Base/Причинно-следственная репликация.md",
-    "Base/Оптимизация java.md",
-    "Base/Лампорта часы.md",
-    "Base/Кодирование числовых типов.md",
-    "Base/Когда требуется консенсус.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
