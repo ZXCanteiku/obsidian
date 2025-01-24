@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java thread"
+              "title": "JVM,  Архитектура JVM"
             }
           }
         ],
@@ -259,6 +259,10 @@
   },
   "active": "a03e1f9284653673",
   "lastOpenFiles": [
+    "Base/Java Core.md",
+    "Base/Java Developer.md",
+    "Base/Многопоточность.md",
+    "Base/Java thread.md",
     "Base/Cпособы синхронизации в Java.md",
     "Base/Locks.md",
     "Base/Phaser.md",
@@ -285,10 +289,6 @@
     "Base/Векторные часы.md",
     "Base/Zab.md",
     "Base/Raft.md",
-    "Base/Paxos.md",
-    "Base/Memory Barriers.md",
-    "Base/Cache Coherence.md",
-    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
