@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пессимистическая блокировка.md",
+                "file": "Base/Многопоточность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пессимистическая блокировка"
+              "title": "Многопоточность"
             }
           },
           {
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Пессимистическая блокировка.md",
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Пессимистическая блокировка"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -288,9 +288,14 @@
   },
   "active": "ec313b84d14951eb",
   "lastOpenFiles": [
-    "Base/Типы блокировок.md",
-    "Base/Пессимистическая блокировка.md",
+    "Base/Проблемы многопоточности.md",
+    "Base/Race condition.md",
+    "Base/Livelock.md",
+    "Base/Deadlock.md",
     "Base/Многопоточность.md",
+    "Base/Типы блокировок.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Пессимистическая блокировка.md",
     "Base/Java Developer.md",
     "Base/Реляционные базы данных.md",
     "Base/Нормальные формы.md",
@@ -309,11 +314,6 @@
     "Base/MVCC.md",
     "Base/Невоспроизводимое чтение.md",
     "Base/Транзакции.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Java Core.md",
-    "Base/Кодирование числовых типов.md",
-    "Base/Грязное чтение.md",
-    "Base/Read committed.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
