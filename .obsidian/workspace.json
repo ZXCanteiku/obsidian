@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Сериализуемость.md",
+                "file": "Base/Пессимистическая блокировка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сериализуемость"
+              "title": "Пессимистическая блокировка"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "отсутвует",
+                "query": "tag:#java_core",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Пессимистическая блокировка.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Уровни изоляций транзакции"
+              "title": "Граф Пессимистическая блокировка"
             }
           },
           {
@@ -286,34 +286,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99bccac510fdfef8",
+  "active": "ec313b84d14951eb",
   "lastOpenFiles": [
-    "Base/Неповторяющееся чтение.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Сериализуемость.md",
-    "Base/MVCC.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Транзакции.md",
-    "Base/Garbage Colector.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Java Core.md",
+    "Base/Типы блокировок.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Многопоточность.md",
     "Base/Java Developer.md",
     "Base/Реляционные базы данных.md",
     "Base/Нормальные формы.md",
-    "Base/Кодирование числовых типов.md",
-    "Base/Фантомное чтение.md",
-    "Base/Грязное чтение.md",
+    "Base/Сериализуемость.md",
+    "Base/Garbage Colector.md",
+    "Base/Garbage-First (G1).md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "Base/Двухфазная блокировка (2PL).md",
+    "Base/Последовательное выполнение транзакций.md",
+    "Base/Асимметрия записи и фантомы.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Чтение зафиксированных данных.md",
+    "Base/Неповторяющееся чтение.md",
+    "Base/Фантомное чтение.md",
+    "Base/MVCC.md",
+    "Base/Невоспроизводимое чтение.md",
+    "Base/Транзакции.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Java Core.md",
+    "Base/Кодирование числовых типов.md",
+    "Base/Грязное чтение.md",
     "Base/Read committed.md",
-    "Base/Высоконагруженные приложения.md",
-    "Base/Согласованность и консенсус.md",
-    "Base/Линеаризуемость.md",
-    "Base/Теория распределённых систем.md",
-    "Base/Системы без глобального консенсуса.md",
-    "Base/Выбор ведущего узла.md",
-    "Base/Когда требуется консенсус.md",
-    "Base/Причинность.md",
-    "Base/Причинно-следственная репликация.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
