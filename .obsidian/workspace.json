@@ -13,40 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Индексы.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Индексы"
+              "title": "Garbage Colector"
             }
           },
           {
-            "id": "d76fa40f7a3b6755",
+            "id": "99bccac510fdfef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асимметрия записи и фантомы"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
-            "id": "a03e1f9284653673",
+            "id": "ec313b84d14951eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java thread.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java thread"
+              "title": "JVM,  Архитектура JVM"
+            }
+          },
+          {
+            "id": "600386b6d54a3c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Предотвращение потери обновлений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Предотвращение потери обновлений"
+            }
+          },
+          {
+            "id": "4a81abd05b467986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Неповторяющееся чтение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Неповторяющееся чтение"
             }
           }
         ],
@@ -102,7 +131,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -145,12 +175,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 0.7132754626224458,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Асимметрия записи и фантомы"
+              "title": "Граф JVM,  Архитектура JVM"
             }
           },
           {
@@ -235,12 +265,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 1022.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,38 +286,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a03e1f9284653673",
+  "active": "ec313b84d14951eb",
   "lastOpenFiles": [
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Locks.md",
-    "Base/Phaser.md",
-    "Base/Линеаризуемость.md",
-    "Base/Консенсусные протоколы.md",
-    "Base/Выбор ведущего узла.md",
-    "Base/hapens-before.md",
+    "Base/Java Core.md",
+    "Base/Оптимизация java.md",
+    "Base/Типы индексов.md",
+    "Base/B-tree индексы.md",
+    "Base/Индексы.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Java Developer.md",
+    "Base/Многопоточность.md",
+    "Base/Проблемы многопоточности.md",
+    "Base/Race condition.md",
+    "Base/Livelock.md",
+    "Base/Deadlock.md",
+    "Base/Типы блокировок.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Нормальные формы.md",
+    "Base/Сериализуемость.md",
+    "Base/Garbage Colector.md",
+    "Base/Garbage-First (G1).md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "Base/Двухфазная блокировка (2PL).md",
+    "Base/Последовательное выполнение транзакций.md",
+    "Base/Асимметрия записи и фантомы.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/Чтение зафиксированных данных.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
     "Files/Pasted image 20250121213823.png",
-    "Base/Цепная репликация.md",
-    "Base/Теория распределённых систем.md",
-    "Base/Согласованность и консенсус.md",
-    "Base/Системы без глобального консенсуса.md",
-    "Base/Причинность.md",
-    "Base/Причинно-следственная репликация.md",
-    "Base/Оптимизация java.md",
-    "Base/Лампорта часы.md",
-    "Base/Кодирование числовых типов.md",
-    "Base/Когда требуется консенсус.md",
-    "Base/Жизненный цикл контекста Spring.md",
-    "Base/Жизненный цикл bean-компонента.md",
-    "Base/Векторные часы.md",
-    "Base/Zab.md",
-    "Base/Raft.md",
-    "Base/Paxos.md",
-    "Base/Memory Barriers.md",
-    "Base/Cache Coherence.md",
-    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
     "Files/Pasted image 20241116184016.png",
