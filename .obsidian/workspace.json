@@ -23,6 +23,20 @@
             }
           },
           {
+            "id": "f42c4c206a900579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "99bccac510fdfef8",
             "type": "leaf",
             "state": {
@@ -79,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф JVM,  Архитектура JVM"
+              "title": "Граф conflict-files-obsidian-git"
             }
           },
           {
@@ -265,7 +279,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -286,8 +301,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec313b84d14951eb",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
+    "Base/Garbage Colector.md",
+    "conflict-files-obsidian-git.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
     "Base/Типы индексов.md",
@@ -305,15 +323,12 @@
     "Base/Пессимистическая блокировка.md",
     "Base/Нормальные формы.md",
     "Base/Сериализуемость.md",
-    "Base/Garbage Colector.md",
     "Base/Garbage-First (G1).md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Сериализуемая изоляция снимков состояний (SSI).md",
     "Base/Двухфазная блокировка (2PL).md",
     "Base/Последовательное выполнение транзакций.md",
     "Base/Асимметрия записи и фантомы.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Чтение зафиксированных данных.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
