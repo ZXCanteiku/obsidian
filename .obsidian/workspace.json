@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Предотвращение потери обновлений.md",
+                "file": "Base/Типы блокировок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Предотвращение потери обновлений"
+              "title": "Типы блокировок"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Типы блокировок.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Уровни изоляций транзакции"
+              "title": "Граф Типы блокировок"
             }
           },
           {
@@ -265,8 +265,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -287,34 +286,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99bccac510fdfef8",
+  "active": "600386b6d54a3c88",
   "lastOpenFiles": [
-    "Base/Garbage Colector.md",
-    "Base/Уровни изоляций транзакции.md",
-    "conflict-files-obsidian-git.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Типы блокировок.md",
+    "Base/Многопоточность.md",
+    "Base/Java Developer.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Предотвращение потери обновлений.md",
     "Base/JVM,  Архитектура JVM.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Garbage Colector.md",
+    "conflict-files-obsidian-git.md",
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
     "Base/Типы индексов.md",
     "Base/B-tree индексы.md",
     "Base/Индексы.md",
     "Base/Реляционные базы данных.md",
-    "Base/Java Developer.md",
-    "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
     "Base/Livelock.md",
     "Base/Deadlock.md",
-    "Base/Типы блокировок.md",
-    "Base/Оптимистическая блокировка.md",
     "Base/Пессимистическая блокировка.md",
     "Base/Нормальные формы.md",
     "Base/Сериализуемость.md",
     "Base/Garbage-First (G1).md",
-    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
-    "Base/Двухфазная блокировка (2PL).md",
-    "Base/Последовательное выполнение транзакций.md",
-    "Base/Асимметрия записи и фантомы.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
