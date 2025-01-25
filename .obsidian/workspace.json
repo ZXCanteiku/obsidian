@@ -37,6 +37,20 @@
             }
           },
           {
+            "id": "c9a1a2555e7fb2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Причинность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Причинность"
+            }
+          },
+          {
             "id": "ec313b84d14951eb",
             "type": "leaf",
             "state": {
@@ -79,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +166,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,12 +188,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224458,
+                  "scale": 0.18462326225858222,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф"
             }
           },
           {
@@ -265,7 +278,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -286,10 +300,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "600386b6d54a3c88",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
-    "Base/Модель памяти в Java.md",
+    "Base/Причинность.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Согласованность и консенсус.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Транзакции.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/MVCC.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
     "Base/Типы блокировок.md",
     "Base/Оптимистическая блокировка.md",
     "Base/Java Developer.md",
@@ -297,23 +322,12 @@
     "Base/Порождающие паттерны.md",
     "Base/Абстрактная фабрика.md",
     "Base/Предотвращение потери обновлений.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Уровни изоляций транзакции.md",
     "Base/Garbage Colector.md",
-    "conflict-files-obsidian-git.md",
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
     "Base/Типы индексов.md",
     "Base/B-tree индексы.md",
     "Base/Индексы.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Race condition.md",
-    "Base/Livelock.md",
-    "Base/Deadlock.md",
-    "Base/Пессимистическая блокировка.md",
-    "Base/Нормальные формы.md",
-    "Base/Сериализуемость.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
