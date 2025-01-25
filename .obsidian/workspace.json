@@ -166,6 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Причинность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Причинность"
             }
           },
           {
@@ -300,9 +301,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "c9a1a2555e7fb2db",
   "lastOpenFiles": [
+    "Base/Причинно-следственная репликация.md",
     "Base/Причинность.md",
+    "Base/Лампорта часы.md",
     "conflict-files-obsidian-git.md",
     "Base/Согласованность и консенсус.md",
     "Base/Высоконагруженные приложения.md",
@@ -326,8 +329,6 @@
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
     "Base/Типы индексов.md",
-    "Base/B-tree индексы.md",
-    "Base/Индексы.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
