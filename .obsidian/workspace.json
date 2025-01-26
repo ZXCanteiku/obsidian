@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляций транзакции"
+              "title": "Изоляция снимков состояния и воспроизводимое чтение"
             }
           },
           {
@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Оптимистическая блокировка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель памяти в Java"
+              "title": "Оптимистическая блокировка"
             }
           },
           {
@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,14 +301,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "600386b6d54a3c88",
+  "active": "99bccac510fdfef8",
   "lastOpenFiles": [
-    "Base/hapens-before.md",
-    "Base/Модель памяти в Java.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/MVCC.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Типы блокировок.md",
     "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/hapens-before.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java thread.md",
     "Base/Atomic.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Причинность.md",
     "Base/Причинно-следственная репликация.md",
     "Base/Лампорта часы.md",
@@ -317,12 +322,7 @@
     "Base/Высоконагруженные приложения.md",
     "Base/Транзакции.md",
     "Base/Слабые уровни изоляции.md",
-    "Base/Уровни изоляций транзакции.md",
     "Base/Реляционные базы данных.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/MVCC.md",
-    "Base/Типы блокировок.md",
-    "Base/Оптимистическая блокировка.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
