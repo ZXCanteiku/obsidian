@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Кодирование числовых типов.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кодирование числовых типов"
+              "title": "Java Core"
             }
           }
         ],
@@ -274,9 +274,10 @@
   },
   "active": "8e4e7c7491658886",
   "lastOpenFiles": [
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
-    "Base/Оптимизация java.md",
     "Base/Кодирование числовых типов.md",
+    "Base/Оптимизация java.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Pool Integer.md",
     "Base/Java Developer.md",
@@ -302,7 +303,6 @@
     "Files/Pasted image 20250121232522.png",
     "Base/Жизненный цикл контекста Spring.md",
     "Base/Реляционные базы данных.md",
-    "Base/Архитектурные паттерны.md",
     "Files/Pasted image 20250121213823.png",
     "Files/Pasted image 20241214190211.png",
     "Files/Pasted image 20241214190137.png",
