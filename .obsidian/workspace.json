@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Parallel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JVM,  Архитектура JVM"
+              "title": "Parallel"
             }
           },
           {
@@ -303,9 +303,11 @@
   },
   "active": "ec313b84d14951eb",
   "lastOpenFiles": [
+    "Base/Garbage Colector.md",
+    "Base/Concurrent Mark Sweep (CMS).md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
     "Base/Java Developer.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Репликация без ведущего узла.md",
     "Base/Репликация данных.md",
     "Base/Высоконагруженные приложения.md",
@@ -315,7 +317,6 @@
     "Base/Порождающие паттерны.md",
     "Base/Абстрактная фабрика.md",
     "Base/Неповторяющееся чтение.md",
-    "Base/Garbage Colector.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Причинность.md",
     "conflict-files-obsidian-git.md",
@@ -328,7 +329,6 @@
     "Base/hapens-before.md",
     "Base/Java thread.md",
     "Base/Atomic.md",
-    "Base/Причинно-следственная репликация.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
