@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -301,8 +301,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a81abd05b467986",
+  "active": "ec313b84d14951eb",
   "lastOpenFiles": [
+    "Base/Репликация без ведущего узла.md",
     "Base/Репликация данных.md",
     "Base/Высоконагруженные приложения.md",
     "Base/Секционирование.md",
@@ -328,7 +329,6 @@
     "Base/Причинно-следственная репликация.md",
     "Base/Лампорта часы.md",
     "Base/Согласованность и консенсус.md",
-    "Base/Транзакции.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
