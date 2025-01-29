@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Конфликты при записи (Write Skew).md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Конфликты при записи (Write Skew)"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -314,10 +314,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5276368ff248ebbe",
+  "active": "99bccac510fdfef8",
   "lastOpenFiles": [
-    "Base/Уровни изоляций транзакции.md",
     "Base/Конфликты при записи (Write Skew).md",
+    "Base/Уровни изоляций транзакции.md",
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Сериализуемость.md",
     "Base/Грязное чтение.md",
