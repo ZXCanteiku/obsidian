@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQRS"
+              "title": "Архитектурные паттерны"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф CQRS"
+              "title": "Граф Архитектурные паттерны"
             }
           },
           {
@@ -315,11 +315,11 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/CQRS.md",
     "Base/Архитектурные паттерны.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/Garbage Colector.md",
-    "Base/CQRS.md",
     "Base/ООП.md",
     "Base/Дизайн паттерны и принципы.md",
     "Base/Уровни изоляций транзакции.md",
