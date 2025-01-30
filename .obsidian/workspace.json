@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Garbage Colector.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Colector"
+              "title": "Архитектурные паттерны"
             }
           },
           {
@@ -106,8 +106,7 @@
               "title": "Репликация без ведущего узла"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Уровни изоляций транзакции"
+              "title": "Граф Архитектурные паттерны"
             }
           },
           {
@@ -314,16 +313,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99bccac510fdfef8",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Конфликты при записи (Write Skew).md",
+    "Base/Java Developer.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/ООП.md",
+    "Base/Дизайн паттерны и принципы.md",
+    "Base/Java Core.md",
+    "Base/Garbage Colector.md",
     "Base/Уровни изоляций транзакции.md",
+    "Base/Конфликты при записи (Write Skew).md",
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Сериализуемость.md",
     "Base/Грязное чтение.md",
-    "Base/Garbage Colector.md",
-    "Base/Java Core.md",
-    "Base/Java Developer.md",
     "Base/Кодирование числовых типов.md",
     "Base/Оптимизация java.md",
     "Base/Аннотации.md",
@@ -339,9 +341,6 @@
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/Parallel.md",
-    "Base/Concurrent Mark Sweep (CMS).md",
-    "Base/Репликация без ведущего узла.md",
-    "Base/Репликация данных.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
