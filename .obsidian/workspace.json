@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Устройство памяти в JVM.md",
+                "file": "Base/Дженерики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Устройство памяти в JVM"
+              "title": "Дженерики"
             }
           }
         ],
@@ -275,8 +275,9 @@
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
     "Base/Java Core.md",
-    "Base/Устройство памяти в JVM.md",
     "Base/Java Developer.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Устройство памяти в JVM.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
     "Base/Команда.md",
@@ -286,7 +287,6 @@
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
     "Base/Java thread.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Конфликты при записи (Write Skew).md",
     "Base/Архитектурные паттерны.md",
