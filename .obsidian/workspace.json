@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дженерики"
+              "title": "Garbage Colector"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "к",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,6 +276,9 @@
   "lastOpenFiles": [
     "Base/Java Core.md",
     "Base/Java Developer.md",
+    "Base/Spring framework.md",
+    "Base/Жизненный цикл bean-компонента.md",
+    "Base/Дженерики.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Шаблонное проектирование.md",
@@ -290,7 +293,6 @@
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Конфликты при записи (Write Skew).md",
     "Base/Архитектурные паттерны.md",
-    "Base/Spring framework.md",
     "Base/Реляционные базы данных.md",
     "Base/No SQL базы данных.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
@@ -298,8 +300,6 @@
     "Base/Concurrent.md",
     "Base/Locks.md",
     "Base/Semaphore.md",
-    "Base/CyclicBarrier.md",
-    "Base/CountDownLatch.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
