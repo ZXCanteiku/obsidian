@@ -13,36 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Индексы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индексы"
-            }
-          },
-          {
-            "id": "d76fa40f7a3b6755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Асимметрия записи и фантомы"
-            }
-          },
-          {
-            "id": "a03e1f9284653673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Base/Garbage Colector.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,21 +23,91 @@
             }
           },
           {
-            "id": "d9775bd18a781632",
+            "id": "99bccac510fdfef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Профилирование.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Профилирование"
+              "title": "Уровни изоляций транзакции"
+            }
+          },
+          {
+            "id": "5276368ff248ebbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Конфликты при записи (Write Skew).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Конфликты при записи (Write Skew)"
+            }
+          },
+          {
+            "id": "c9a1a2555e7fb2db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Причинность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Причинность"
+            }
+          },
+          {
+            "id": "ec313b84d14951eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Cache Coherence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cache Coherence"
+            }
+          },
+          {
+            "id": "600386b6d54a3c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Оптимистическая блокировка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оптимистическая блокировка"
+            }
+          },
+          {
+            "id": "4a81abd05b467986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация без ведущего узла.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Репликация без ведущего узла"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "к",
+                "query": "hi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,12 +203,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 1.0000000000000069,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Асимметрия записи и фантомы"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -250,12 +293,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 1022.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,34 +314,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9775bd18a781632",
+  "active": "99bccac510fdfef8",
   "lastOpenFiles": [
-    "Base/Java Developer.md",
-    "Base/Java Core.md",
-    "Base/Garbage Colector.md",
-    "Base/Spring framework.md",
-    "Base/Жизненный цикл bean-компонента.md",
-    "Base/Дженерики.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/Поведенческие паттерны.md",
-    "Base/Команда.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Динамическое связывание.md",
-    "Base/Многопоточность.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Race condition.md",
-    "Base/Java thread.md",
-    "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Конфликты при записи (Write Skew).md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Реляционные базы данных.md",
-    "Base/No SQL базы данных.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Concurrent.md",
-    "Base/Locks.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Сериализационные аномалии (Serialization Anomalies).md",
+    "Base/Сериализуемость.md",
+    "Base/Грязное чтение.md",
+    "Base/Garbage Colector.md",
+    "Base/Java Core.md",
+    "Base/Java Developer.md",
+    "Base/Кодирование числовых типов.md",
+    "Base/Оптимизация java.md",
+    "Base/Аннотации.md",
+    "Base/Дженерики.md",
+    "Base/Транзакции.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Cache Coherence.md",
+    "Base/Модель памяти в Java.md",
+    "Base/hapens-before.md",
+    "Base/Многопоточность.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/Parallel.md",
+    "Base/Concurrent Mark Sweep (CMS).md",
+    "Base/Репликация без ведущего узла.md",
+    "Base/Репликация данных.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
