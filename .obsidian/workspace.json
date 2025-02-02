@@ -115,7 +115,8 @@
               "title": "Репликация без ведущего узла"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Жизненный цикл bean-компонента.md",
+                "file": "Base/Cache Coherence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Жизненный цикл bean-компонента"
+              "title": "Граф Cache Coherence"
             }
           },
           {
@@ -301,7 +302,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -322,8 +324,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "ec313b84d14951eb",
   "lastOpenFiles": [
+    "Base/Жизненный цикл bean-компонента.md",
+    "conflict-files-obsidian-git.md",
     "Base/Spring framework.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
@@ -348,8 +352,6 @@
     "Base/Транзакции.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Слабые уровни изоляции.md",
-    "Base/Модель памяти в Java.md",
-    "Base/hapens-before.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
