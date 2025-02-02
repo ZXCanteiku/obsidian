@@ -15,11 +15,32 @@
               "state": {
                 "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Архитектурные паттерны"
+            }
+          },
+          {
+            "id": "52f2f172fc16a10e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           },
           {
@@ -106,7 +127,8 @@
               "title": "Репликация без ведущего узла"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Архитектурные паттерны.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Архитектурные паттерны"
+              "title": "Граф"
             }
           },
           {
@@ -313,7 +334,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "52f2f172fc16a10e",
   "lastOpenFiles": [
     "Base/CQRS.md",
     "Base/Архитектурные паттерны.md",
