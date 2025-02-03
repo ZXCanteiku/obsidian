@@ -125,7 +125,8 @@
               "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -333,11 +334,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "99bccac510fdfef8",
   "lastOpenFiles": [
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Kafka Streams.md",
     "Base/RabbitMQ.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Kafka Streams.md",
     "Base/Apache Kafka.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
@@ -348,7 +351,6 @@
     "Base/Оптимистическая блокировка.md",
     "Base/Cache Coherence.md",
     "Base/Причинность.md",
-    "Base/Уровни изоляций транзакции.md",
     "conflict-files-obsidian-git.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Архитектурные паттерны.md",
@@ -360,7 +362,6 @@
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Сериализуемость.md",
     "Base/Грязное чтение.md",
-    "Base/Кодирование числовых типов.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
