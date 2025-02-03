@@ -4,6 +4,7 @@ aliases:
 	- "Инфраструктурными технологии для разработки на Java"
 
 - [[Apache Kafka]]
+- [[Kafka Streams]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
 - [[Jenkins]]
 - [[Платформы мониторинга и анализа]]
