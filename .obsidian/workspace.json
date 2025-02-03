@@ -334,10 +334,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99bccac510fdfef8",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "conflict-files-obsidian-git.md",
     "Base/Уровни изоляций транзакции.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Kafka Streams.md",
     "Base/RabbitMQ.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
@@ -351,7 +352,6 @@
     "Base/Оптимистическая блокировка.md",
     "Base/Cache Coherence.md",
     "Base/Причинность.md",
-    "conflict-files-obsidian-git.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Архитектурные паттерны.md",
     "Base/Конфликты при записи (Write Skew).md",
