@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "6d3dfa9c9f818b9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "5276368ff248ebbe",
             "type": "leaf",
             "state": {
@@ -114,9 +126,19 @@
               "icon": "lucide-file",
               "title": "Репликация без ведущего узла"
             }
+          },
+          {
+            "id": "69db9828b6081fcb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Cache Coherence.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Cache Coherence"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -324,24 +346,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec313b84d14951eb",
+  "active": "6d3dfa9c9f818b9e",
   "lastOpenFiles": [
+    "Base/Cache Coherence.md",
+    "Base/Уровни изоляций транзакции.md",
     "Base/Жизненный цикл bean-компонента.md",
+    "Base/Репликация без ведущего узла.md",
     "conflict-files-obsidian-git.md",
     "Base/Spring framework.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Архитектурные паттерны.md",
-    "Base/Репликация без ведущего узла.md",
     "Base/Конфликты при записи (Write Skew).md",
-    "Base/Cache Coherence.md",
     "Base/Причинность.md",
     "Base/CQRS.md",
     "Base/Garbage Colector.md",
     "Base/ООП.md",
     "Base/Дизайн паттерны и принципы.md",
-    "Base/Уровни изоляций транзакции.md",
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Сериализуемость.md",
     "Base/Грязное чтение.md",
