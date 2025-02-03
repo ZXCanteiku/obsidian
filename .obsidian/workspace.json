@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Apache Kafka.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Kafka"
+              "title": "Garbage Colector"
             }
           },
           {
@@ -37,26 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляций транзакции"
-            }
-          },
-          {
-            "id": "5276368ff248ebbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Конфликты при записи (Write Skew).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Конфликты при записи (Write Skew)"
+              "title": "Изоляция снимков состояния и воспроизводимое чтение"
             }
           },
           {
@@ -79,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Cache Coherence.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache Coherence"
+              "title": "JVM,  Архитектура JVM"
             }
           },
           {
@@ -114,18 +91,9 @@
               "icon": "lucide-file",
               "title": "Репликация без ведущего узла"
             }
-          },
-          {
-            "id": "69db9828b6081fcb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Причинность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,12 +189,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000069,
+                  "scale": 0.18462326225858222,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Уровни изоляций транзакции"
+              "title": "Граф Причинность"
             }
           },
           {
@@ -333,34 +301,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "4a81abd05b467986",
   "lastOpenFiles": [
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Apache Kafka.md",
-    "Base/Java Developer.md",
-    "Base/Spring framework.md",
-    "Base/Жизненный цикл bean-компонента.md",
-    "Base/Репликация без ведущего узла.md",
-    "Base/Оптимистическая блокировка.md",
-    "Base/Cache Coherence.md",
-    "Base/Причинность.md",
-    "Base/Уровни изоляций транзакции.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Java Core.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Архитектурные паттерны.md",
+    "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Конфликты при записи (Write Skew).md",
     "Base/CQRS.md",
+    "Base/Репликация данных.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Секционирование.md",
+    "Base/Перебалансировка секций.md",
+    "Base/Автоматическая или ручная перебалансировка.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Неповторяющееся чтение.md",
     "Base/Garbage Colector.md",
-    "Base/ООП.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/Сериализационные аномалии (Serialization Anomalies).md",
-    "Base/Сериализуемость.md",
-    "Base/Грязное чтение.md",
-    "Base/Кодирование числовых типов.md",
-    "Base/Оптимизация java.md",
-    "Base/Аннотации.md",
-    "Base/Дженерики.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
+    "Base/Причинность.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/MVCC.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Типы блокировок.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/hapens-before.md",
+    "Base/Java thread.md",
+    "Base/Atomic.md",
+    "Base/Причинно-следственная репликация.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
