@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Жизненный цикл bean-компонента.md",
+                "file": "Base/Apache Kafka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Жизненный цикл bean-компонента"
+              "title": "Apache Kafka"
             }
           },
           {
@@ -43,18 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "Уровни изоляций транзакции"
-            }
-          },
-          {
-            "id": "6d3dfa9c9f818b9e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -137,8 +125,7 @@
               "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,20 +333,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d3dfa9c9f818b9e",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Cache Coherence.md",
-    "Base/Уровни изоляций транзакции.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Java Developer.md",
+    "Base/Spring framework.md",
     "Base/Жизненный цикл bean-компонента.md",
     "Base/Репликация без ведущего узла.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Cache Coherence.md",
+    "Base/Причинность.md",
+    "Base/Уровни изоляций транзакции.md",
     "conflict-files-obsidian-git.md",
-    "Base/Spring framework.md",
-    "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Архитектурные паттерны.md",
     "Base/Конфликты при записи (Write Skew).md",
-    "Base/Причинность.md",
     "Base/CQRS.md",
     "Base/Garbage Colector.md",
     "Base/ООП.md",
@@ -372,8 +361,6 @@
     "Base/Аннотации.md",
     "Base/Дженерики.md",
     "Base/Транзакции.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/Слабые уровни изоляции.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
