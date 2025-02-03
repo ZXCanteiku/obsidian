@@ -100,6 +100,33 @@ channel.exchangeDeclare("myExchange", "direct");
 channel.queueBind("myQueue", "myExchange", "key1");
 ```
 ### 3. Подводные камни RabbitMQ
+#### 3.1. Потеря сообщений
+- Если сообщение не **подтверждено (`ack`)**, оно может быть утеряно.
+- Решение:
+	- Включить **подтверждения доставки**:
+	``` java
+	channel.basicAck(deliveryTag, false);
+	```
+	- Использовать **персистентные очереди**:
+	``` java
+	channel.queueDeclare("queue", true, false, false, null);
+	```
+#### 3.2. Перегрузка сервера
+- RabbitMQ загружается в оперативную память и может "падать" при нехватке ресурсов.
+- Решение:
+    - Настроить **ограничение памяти** (`vm_memory_high_watermark`)
+    - Включить **Flow Control** (RabbitMQ замедлит продюсеров):
+        ``` java
+        vm_memory_high_watermark = 0.5
+		```
+#### 3.3. Долгие соединения и утечки памяти
+ - Если потребитель работает **без таймаута**, RabbitMQ может застрять.
+ - Решение:
+	 - Использовать `heartbeat`
+	``` java
+	ConnectionFactory factory = new ConnectionFactory();
+	factory.setRequestedHeartbeat(60);
+	```
 
 
 ---
