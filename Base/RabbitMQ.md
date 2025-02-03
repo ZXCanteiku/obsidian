@@ -128,6 +128,15 @@ channel.queueBind("myQueue", "myExchange", "key1");
 	factory.setRequestedHeartbeat(60);
 	```
 
+#### 3.4. Проблемы с HA (High Availability)
+- По умолчанию, RabbitMQ **не дублирует** очереди между узлами.
+- Решение:
+    - Использовать **кластеризацию**
+	``` java
+	rabbitmqctl join_cluster rabbit@node2
+	```
+	- Настроить **очереди в режиме `ha-mode=all`** (зеркалирование). 
+
 
 ---
 Tags: #infrastructure #rabbitMq
