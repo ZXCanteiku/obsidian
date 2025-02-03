@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Kafka Streams.md",
+                "file": "Base/RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kafka Streams"
+              "title": "RabbitMQ"
             }
           }
         ],
@@ -303,14 +303,15 @@
   "active": "4a81abd05b467986",
   "lastOpenFiles": [
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Kafka Streams.md",
+    "Base/RabbitMQ.md",
     "Base/Apache Kafka.md",
-    "Base/Elasticsearch и другие.md",
     "Base/Java Developer.md",
+    "Base/Elasticsearch и другие.md",
     "conflict-files-obsidian-git.md",
     "Base/Java Core.md",
     "Base/Pool Integer.md",
     "Base/Репликация без ведущего узла.md",
-    "Base/Kafka Streams.md",
     "Base/Сериализационные аномалии (Serialization Anomalies).md",
     "Base/Конфликты при записи (Write Skew).md",
     "Base/CQRS.md",
@@ -327,7 +328,6 @@
     "Base/Причинность.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Уровни изоляций транзакции.md",
-    "Base/MVCC.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
