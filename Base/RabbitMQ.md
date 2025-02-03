@@ -82,6 +82,27 @@ rabbitmqctl set_permissions -p / myuser ".*" ".*" ".*"  # Дать полный 
 ``` java
 channel.queueDeclare("myQueue", true, false, false, null);
 ```
+#### 2.2. Обменник (Exchange)
+
+- Определяет, **как** сообщения будут маршрутизироваться в очереди.
+- Типы:
+    - **direct** (по ключу маршрутизации)
+    - **fanout** (отправка всем подписчикам)
+    - **topic** (по шаблону `logs.#`)
+    - **headers** (по заголовкам)
+
+``` java
+channel.exchangeDeclare("myExchange", "direct");
+```
+
+#### 2.3. Ключ маршрутизации (Routing Key)
+- Используется в **direct** и **topic** обменниках.
+- Позволяет направлять сообщения в нужные очереди.
+``` java
+channel.queueBind("myQueue", "myExchange", "key1");
+```
+
+
 ---
 Tags: #infrastructure #rabbitMq
 Author: [[]]
