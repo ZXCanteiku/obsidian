@@ -72,6 +72,16 @@ rabbitmqctl set_permissions -p / myuser ".*" ".*" ".*"  # Дать полный 
 ```
 
 
+### 2. Очереди, обменники и ключи маршрутизации
+
+В RabbitMQ есть три основных компонента:
+
+#### 2.1. Очередь (Queue)
+- Буфер для хранения сообщений до их обработки.
+- Может быть **персистентной** (сохраняется на диск) или **временной**.
+``` java
+channel.queueDeclare("myQueue", true, false, false, null);
+```
 ---
 Tags: #infrastructure #rabbitMq
 Author: [[]]
