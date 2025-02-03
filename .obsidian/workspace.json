@@ -336,6 +336,7 @@
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Apache Kafka.md",
     "Base/Java Developer.md",
     "Base/Spring framework.md",
     "Base/Жизненный цикл bean-компонента.md",
@@ -360,7 +361,6 @@
     "Base/Оптимизация java.md",
     "Base/Аннотации.md",
     "Base/Дженерики.md",
-    "Base/Транзакции.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
