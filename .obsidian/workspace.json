@@ -303,6 +303,8 @@
   "active": "4a81abd05b467986",
   "lastOpenFiles": [
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Elasticsearch и другие.md",
+    "Base/Apache Kafka.md",
     "Base/Java Developer.md",
     "conflict-files-obsidian-git.md",
     "Base/Java Core.md",
@@ -326,8 +328,6 @@
     "Base/JVM,  Архитектура JVM.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/MVCC.md",
-    "Base/Оптимистическая блокировка.md",
-    "Base/Типы блокировок.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
