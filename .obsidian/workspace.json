@@ -88,6 +88,18 @@
             }
           },
           {
+            "id": "5aae3d4bdebf3126",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "600386b6d54a3c88",
             "type": "leaf",
             "state": {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Atomic.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Atomic"
+              "title": "Граф"
             }
           },
           {
@@ -333,7 +344,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec313b84d14951eb",
+  "active": "5aae3d4bdebf3126",
   "lastOpenFiles": [
     "Base/Java thread.md",
     "Base/Многопоточность.md",
