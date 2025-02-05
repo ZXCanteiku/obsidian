@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQRS"
+              "title": "Архитектурные паттерны"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф CQRS"
+              "title": "Граф Архитектурные паттерны"
             }
           },
           {
@@ -336,6 +336,7 @@
   },
   "active": "ec313b84d14951eb",
   "lastOpenFiles": [
+    "Base/CQRS.md",
     "Base/Архитектурные паттерны.md",
     "Base/Java Developer.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
@@ -360,7 +361,6 @@
     "Base/Причинность.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Конфликты при записи (Write Skew).md",
-    "Base/CQRS.md",
     "Base/Garbage Colector.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
