@@ -323,7 +323,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -346,11 +347,11 @@
   },
   "active": "5aae3d4bdebf3126",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Base/Java thread.md",
     "Base/Многопоточность.md",
     "Base/Модель памяти в Java.md",
     "Base/Cache Coherence.md",
-    "conflict-files-obsidian-git.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
