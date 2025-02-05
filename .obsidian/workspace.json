@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Архитектурные паттерны.md",
+                "file": "Base/Идемпотентность запроса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Архитектурные паттерны"
+              "title": "Идемпотентность запроса"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Архитектурные паттерны.md",
+                "file": "Base/Идемпотентность запроса.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Архитектурные паттерны"
+              "title": "Граф Идемпотентность запроса"
             }
           },
           {
@@ -336,8 +336,9 @@
   },
   "active": "ec313b84d14951eb",
   "lastOpenFiles": [
-    "Base/CQRS.md",
     "Base/Архитектурные паттерны.md",
+    "Base/CQRS.md",
+    "Base/Идемпотентность запроса.md",
     "Base/Java Developer.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/RabbitMQ.md",
@@ -361,7 +362,6 @@
     "Base/Причинность.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Конфликты при записи (Write Skew).md",
-    "Base/Garbage Colector.md",
     "Files/Pasted image 20250122203426.png",
     "Files/Pasted image 20250122190441.png",
     "Files/Pasted image 20250121232522.png",
