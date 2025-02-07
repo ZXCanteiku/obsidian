@@ -8,11 +8,10 @@ aliases:
 - [[Apache Kafka]]
 - [[Kafka Streams]]
 - [[RabbitMQ]]
+- [[Платформы мониторинга]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
 - [[Jenkins]]
-- [[Платформы мониторинга]]
 - [[Hadoop]]
-- [[ELK Stack]]
 
 ---
 Tags: #infrastructure
