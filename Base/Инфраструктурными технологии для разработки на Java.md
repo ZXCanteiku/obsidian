@@ -10,9 +10,9 @@ aliases:
 - [[RabbitMQ]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
 - [[Jenkins]]
-- [[Платформы мониторинга и анализа]]
+- [[Платформы мониторинга]]
 - [[Hadoop]]
-- [[Elasticsearch и другие]]
+- [[ELK Stack]]
 
 ---
 Tags: #infrastructure
