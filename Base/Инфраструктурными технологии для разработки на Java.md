@@ -2,11 +2,10 @@
 
 aliases: 
 	- "Инфраструктурными технологии для разработки на Java"
-
-- [[Apache Kafka]]
 - [[GRPC]]
 - [[GraphQL]]
 - [[Clickhouse]]
+- [[Apache Kafka]]
 - [[Kafka Streams]]
 - [[RabbitMQ]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
