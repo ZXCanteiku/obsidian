@@ -63,7 +63,8 @@
               "title": "Профилирование"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,12 +272,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/Индексы.md",
     "Base/Асимметрия записи и фантомы.md",
     "Base/Garbage Colector.md",
     "Base/Профилирование.md",
-    "Base/Индексы.md",
     "conflict-files-obsidian-git.md",
     "Base/Платформы мониторинга.md",
     "Base/GraphQL.md",
