@@ -2,15 +2,16 @@
 
 aliases: 
 	- "Инфраструктурными технологии для разработки на Java"
-
+- [[GRPC]]
+- [[GraphQL]]
+- [[Clickhouse]]
 - [[Apache Kafka]]
 - [[Kafka Streams]]
 - [[RabbitMQ]]
+- [[Платформы мониторинга]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
 - [[Jenkins]]
-- [[Платформы мониторинга и анализа]]
 - [[Hadoop]]
-- [[Elasticsearch и другие]]
 
 ---
 Tags: #infrastructure
