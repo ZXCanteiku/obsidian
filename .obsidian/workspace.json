@@ -13,58 +13,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Индексы.md",
+                "file": "Base/Kafka Streams.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Индексы"
+              "title": "Kafka Streams"
             }
           },
           {
-            "id": "d76fa40f7a3b6755",
+            "id": "99bccac510fdfef8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асимметрия записи и фантомы"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
-            "id": "a03e1f9284653673",
+            "id": "5276368ff248ebbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Garbage Colector.md",
+                "file": "Base/Конфликты при записи (Write Skew).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Colector"
+              "title": "Конфликты при записи (Write Skew)"
             }
           },
           {
-            "id": "d9775bd18a781632",
+            "id": "c9a1a2555e7fb2db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Профилирование.md",
+                "file": "Base/Причинность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Профилирование"
+              "title": "Причинность"
+            }
+          },
+          {
+            "id": "ec313b84d14951eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java thread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java thread"
+            }
+          },
+          {
+            "id": "600386b6d54a3c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Оптимистическая блокировка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оптимистическая блокировка"
+            }
+          },
+          {
+            "id": "4a81abd05b467986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Репликация без ведущего узла.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Репликация без ведущего узла"
+            }
+          },
+          {
+            "id": "69db9828b6081fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Дженерики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дженерики"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -83,8 +149,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -96,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +182,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Асимметрия записи и фантомы.md",
+                "file": "Base/Дженерики.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,12 +226,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 1.0000000000000069,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Асимметрия записи и фантомы"
+              "title": "Граф Дженерики"
             }
           },
           {
@@ -250,12 +316,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 1022.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,43 +337,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d76fa40f7a3b6755",
+  "active": "69db9828b6081fcb",
   "lastOpenFiles": [
-    "Base/Индексы.md",
-    "Base/Асимметрия записи и фантомы.md",
-    "Base/Garbage Colector.md",
-    "Base/Профилирование.md",
-    "conflict-files-obsidian-git.md",
+    "Base/Java Core.md",
+    "Base/Java Developer.md",
+    "Base/ООП.md",
+    "Base/Полиморфизм.md",
+    "Base/Динамическое связывание.md",
+    "Base/Аннотации.md",
+    "Base/Java thread.md",
+    "Files/Pasted image 20250205220225.png",
+    "Files/Pasted image 20250205220033.png",
     "Base/Платформы мониторинга.md",
     "Base/GraphQL.md",
     "Base/GRPC.md",
     "Base/ELK Stack.md",
     "Base/Clickhouse.md",
-    "Files/Pasted image 20250205220225.png",
-    "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
+    "Base/Распределенная трассировка.md",
+    "Base/Распространённые решения.md",
     "Files/Pasted image 20250205211517.png",
     "Files/Pasted image 20250205211339.png",
     "Files/Pasted image 20250205210910.png",
     "Files/Pasted image 20250205210849.png",
     "Files/Pasted image 20250205210155.png",
     "Files/Pasted image 20250205210114.png",
-    "Base/Распространённые решения.md",
-    "Base/Распределенная трассировка.md",
     "Base/Идемпотентность запроса.md",
-    "Base/RabbitMQ.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Atomic.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Cache Coherence.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/Kafka Streams.md",
-    "Base/CQRS.md",
-    "Base/Java Developer.md",
-    "Base/Java Core.md",
-    "Base/Spring framework.md",
-    "Base/Жизненный цикл bean-компонента.md",
-    "Base/Дженерики.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/Поведенческие паттерны.md",
+    "Base/RabbitMQ.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
