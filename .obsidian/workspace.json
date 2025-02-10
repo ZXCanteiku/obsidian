@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Профилирование"
             }
+          },
+          {
+            "id": "b00a53db8774a582",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -95,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "к",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +129,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,7 +284,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9775bd18a781632",
+  "active": "b00a53db8774a582",
   "lastOpenFiles": [
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
