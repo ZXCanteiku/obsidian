@@ -119,14 +119,18 @@
             "id": "69db9828b6081fcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base/Java Developer.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Java Developer"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Java Developer"
             }
           },
           {
@@ -311,8 +316,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -333,8 +337,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "69db9828b6081fcb",
   "lastOpenFiles": [
+    "Base/Java Core.md",
+    "Base/Аннотации.md",
+    "Base/Java thread.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Base/Платформы мониторинга.md",
@@ -352,7 +359,6 @@
     "Files/Pasted image 20250205210155.png",
     "Files/Pasted image 20250205210114.png",
     "Base/Идемпотентность запроса.md",
-    "Base/Java thread.md",
     "conflict-files-obsidian-git.md",
     "Base/Atomic.md",
     "Base/Многопоточность.md",
@@ -366,11 +372,9 @@
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Apache Kafka.md",
     "Base/Java Developer.md",
-    "Base/Java Core.md",
     "Base/Pool Integer.md",
     "Base/Spring framework.md",
     "Files/Pasted image 20250122203426.png",
-    "Files/Pasted image 20250122190441.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
