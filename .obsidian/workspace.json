@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JVM,  Архитектура JVM"
+              "title": "Garbage Colector"
             }
           },
           {
@@ -274,6 +274,7 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
     "Base/Java Developer.md",
     "Base/Дженерики.md",
@@ -299,7 +300,6 @@
     "Base/Профилирование.md",
     "conflict-files-obsidian-git.md",
     "Base/Платформы мониторинга.md",
-    "Base/GraphQL.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
