@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Устройство памяти примитивных типов.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Устройство памяти примитивных типов"
+              "title": "Java Core"
             }
           },
           {
@@ -274,9 +274,14 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Base/Устройство памяти в JVM.md",
+    "Base/Pool String.md",
     "Base/Java Core.md",
+    "Base/Pool Integer.md",
     "Base/Garbage Colector.md",
+    "Base/Concurrent Mark Sweep (CMS).md",
+    "Base/Garbage-First (G1).md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
     "Base/Виды ссылок в java.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Java Developer.md",
@@ -295,11 +300,6 @@
     "Base/Аннотации.md",
     "Base/SOLID.md",
     "Base/Слабые уровни изоляции.md",
-    "Base/Транзакции.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Асимметрия записи и фантомы.md",
-    "Base/Индексы.md",
-    "Base/Профилирование.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
