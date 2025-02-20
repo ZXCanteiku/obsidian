@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Дженерики.md",
+                "file": "Base/Профилирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дженерики"
+              "title": "Профилирование"
             }
           },
           {
@@ -274,7 +274,12 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
     "Base/Java Core.md",
+    "Base/Кодирование числовых типов.md",
+    "Base/Оптимизация java.md",
+    "Base/Аннотации.md",
+    "Base/Дженерики.md",
     "Base/Pool String.md",
     "Base/Pool Integer.md",
     "Base/Garbage Colector.md",
@@ -284,8 +289,6 @@
     "Base/Устройство памяти примитивных типов.md",
     "Base/Виды ссылок в java.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Java Developer.md",
-    "Base/Дженерики.md",
     "Base/Распространённые решения.md",
     "Base/Идемпотентность запроса.md",
     "Base/Распределенная трассировка.md",
@@ -297,9 +300,6 @@
     "Base/Абстрактная фабрика.md",
     "Base/Абстракция.md",
     "Base/Автоматическая или ручная перебалансировка.md",
-    "Base/Аннотации.md",
-    "Base/SOLID.md",
-    "Base/Слабые уровни изоляции.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
