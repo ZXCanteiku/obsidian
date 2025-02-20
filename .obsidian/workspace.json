@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Дженерики.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Дженерики"
             }
           },
           {
@@ -274,8 +274,8 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Base/Pool String.md",
     "Base/Java Core.md",
+    "Base/Pool String.md",
     "Base/Pool Integer.md",
     "Base/Garbage Colector.md",
     "Base/Concurrent Mark Sweep (CMS).md",
