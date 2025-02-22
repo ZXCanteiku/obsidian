@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,8 +284,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/Индексы.md",
+    "Base/Асимметрия записи и фантомы.md",
     "conflict-files-obsidian-git.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Сериализуемость.md",
@@ -319,8 +321,6 @@
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
     "Base/Kafka Streams.md",
     "Base/Java Core.md",
-    "Base/Garbage Colector.md",
-    "Base/Spring framework.md",
     "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
