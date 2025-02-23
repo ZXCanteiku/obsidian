@@ -27,24 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
-            }
-          },
-          {
-            "id": "5eb09cd98f8bde99",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
@@ -67,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляций транзакции"
-            }
-          },
-          {
-            "id": "cca2081193850467",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Java Developer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +117,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -198,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Concurrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Java Developer"
+              "title": "Обратные ссылки для Concurrent"
             }
           },
           {
@@ -217,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Concurrent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Java Developer"
+              "title": "Исходящие ссылки из Concurrent"
             }
           },
           {
@@ -275,11 +252,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 1059.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,34 +273,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5eb09cd98f8bde99",
+  "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/Java Core.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Слабые уровни изоляции.md",
+    "Base/Транзакции.md",
+    "Base/Сериализуемость.md",
+    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "conflict-files-obsidian-git.md",
+    "Base/MVCC.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
     "Base/Абстрактная фабрика.md",
-    "Base/Pool String.md",
-    "Base/Pool Integer.md",
-    "Base/Дженерики.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Garbage Colector.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Асимметрия записи и фантомы.md",
-    "Base/Грязное чтение.md",
-    "Base/Предотвращение потери обновлений.md",
-    "Base/Чтение зафиксированных данных.md",
-    "conflict-files-obsidian-git.md",
+    "Base/Профилирование.md",
     "Base/Индексы.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Сериализуемость.md",
-    "Base/MVCC.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Асимметрия записи и фантомы.md",
+    "Base/Garbage Colector.md",
+    "Base/Платформы мониторинга.md",
+    "Base/GraphQL.md",
+    "Base/GRPC.md",
     "Base/ELK Stack.md",
+    "Base/Clickhouse.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
@@ -333,6 +304,12 @@
     "Files/Pasted image 20250205210849.png",
     "Files/Pasted image 20250205210155.png",
     "Files/Pasted image 20250205210114.png",
+    "Base/Распространённые решения.md",
+    "Base/Распределенная трассировка.md",
+    "Base/Идемпотентность запроса.md",
+    "Base/RabbitMQ.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Kafka Streams.md",
     "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
