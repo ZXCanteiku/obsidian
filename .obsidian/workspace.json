@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Жизненный цикл bean-компонента.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQRS"
+              "title": "Жизненный цикл bean-компонента"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Жизненный цикл bean-компонента.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф CQRS"
+              "title": "Граф Жизненный цикл bean-компонента"
             }
           },
           {
@@ -274,8 +274,11 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/Архитектурные паттерны.md",
+    "Base/Spring framework.md",
+    "Base/Жизненный цикл контекста Spring.md",
     "Base/Java Developer.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/CQRS.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
     "Base/Структурные паттерны.md",
@@ -297,9 +300,6 @@
     "Base/Потоки демоны.md",
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
-    "Base/Livelock.md",
-    "Base/Deadlock.md",
-    "Base/Типы блокировок.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
