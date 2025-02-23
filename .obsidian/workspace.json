@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Garbage Colector.md",
+                "file": "Base/Pool Integer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Colector"
+              "title": "Pool Integer"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Garbage Colector.md",
+                "file": "Base/Pool Integer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Garbage Colector"
+              "title": "Граф Pool Integer"
             }
           },
           {
@@ -274,11 +274,13 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/Concurrent Mark Sweep (CMS).md",
-    "Base/Garbage Colector.md",
-    "Base/Garbage-First (G1).md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
+    "Base/Garbage Colector.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Concurrent Mark Sweep (CMS).md",
+    "Base/Garbage-First (G1).md",
     "Base/Java Developer.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Слабые уровни изоляции.md",
@@ -307,8 +309,6 @@
     "Files/Pasted image 20250205210849.png",
     "Files/Pasted image 20250205210155.png",
     "Files/Pasted image 20250205210114.png",
-    "Base/Распространённые решения.md",
-    "Base/Распределенная трассировка.md",
     "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
