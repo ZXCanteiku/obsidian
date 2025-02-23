@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/N+1.md",
+                "file": "Base/GRPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N+1"
+              "title": "GRPC"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/N+1.md",
+                "file": "Base/GRPC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф N+1"
+              "title": "Граф GRPC"
             }
           },
           {
@@ -274,9 +274,20 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Java Developer.md",
+    "Base/Распространённые решения.md",
+    "Base/Распределенная трассировка.md",
+    "Base/Идемпотентность запроса.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Clickhouse.md",
+    "Base/GraphQL.md",
+    "Base/GRPC.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Кэширование.md",
     "Base/Второй уровень кэша.md",
+    "Base/Keyset and offset pagination.md",
+    "Base/N+1.md",
     "Base/Первый уровень кэша.md",
     "Base/Transaction.md",
     "Base/Lifecycle.md",
@@ -285,21 +296,10 @@
     "Base/Виды генераций id.md",
     "Base/Маппинг полей.md",
     "Base/Отношения между сущностями.md",
-    "Base/Java Developer.md",
     "Base/No SQL базы данных.md",
     "Base/Реляционные базы данных.md",
     "Base/Spring framework.md",
     "Base/Жизненный цикл bean-компонента.md",
-    "Base/Жизненный цикл контекста Spring.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/CQRS.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/Поведенческие паттерны.md",
-    "Base/Структурные паттерны.md",
-    "Base/Порождающие паттерны.md",
-    "Base/ООП.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/SOLID.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
