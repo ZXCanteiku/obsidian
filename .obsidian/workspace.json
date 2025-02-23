@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Первый уровень кэша.md",
+                "file": "Base/Второй уровень кэша.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Первый уровень кэша"
+              "title": "Второй уровень кэша"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Первый уровень кэша.md",
+                "file": "Base/Второй уровень кэша.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Первый уровень кэша"
+              "title": "Граф Второй уровень кэша"
             }
           },
           {
@@ -275,6 +275,7 @@
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
     "Base/Кэширование.md",
+    "Base/Первый уровень кэша.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Transaction.md",
     "Base/Lifecycle.md",
@@ -299,7 +300,6 @@
     "Base/Дизайн паттерны и принципы.md",
     "Base/SOLID.md",
     "Base/DRY.md",
-    "Base/YAGNI.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
