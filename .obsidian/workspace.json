@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Полиморфизм.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель памяти в Java"
+              "title": "Полиморфизм"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Полиморфизм.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Модель памяти в Java"
+              "title": "Граф Полиморфизм"
             }
           },
           {
@@ -274,32 +274,32 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/Memory Barriers.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Cache Coherence.md",
-    "Base/hapens-before.md",
-    "Base/Многопоточность.md",
+    "Base/ООП.md",
+    "Base/Инкапсуляция.md",
     "Base/Java Developer.md",
-    "Base/Профилирование.md",
-    "Base/Java Core.md",
-    "Base/Pool String.md",
-    "Base/Оптимизация java.md",
-    "Base/Аннотации.md",
-    "Base/Дженерики.md",
-    "Base/Pool Integer.md",
-    "Base/Garbage Colector.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Устройство памяти примитивных типов.md",
-    "Base/JVM,  Архитектура JVM.md",
-    "Base/Concurrent Mark Sweep (CMS).md",
-    "Base/Garbage-First (G1).md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Транзакции.md",
-    "Base/Сериализуемость.md",
-    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
-    "conflict-files-obsidian-git.md",
-    "Base/MVCC.md",
+    "Base/Реактивное программирование.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Потоки демоны.md",
+    "Base/Проблемы многопоточности.md",
+    "Base/Race condition.md",
+    "Base/Livelock.md",
+    "Base/Deadlock.md",
+    "Base/Типы блокировок.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Java thread.md",
+    "Base/ThreadLocal.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Дамп потока.md",
+    "Base/Interrupted.md",
+    "Base/Atomic.md",
+    "Base/Concurrent.md",
+    "Base/Locks.md",
+    "Base/StampedLock.md",
+    "Base/Phaser.md",
+    "Base/Exchanger.md",
+    "Base/Semaphore.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
