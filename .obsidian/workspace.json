@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "JVM,  Архитектура JVM"
             }
           }
         ],
@@ -275,6 +275,8 @@
   },
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
+    "Base/Java Core.md",
+    "Base/Java Developer.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Транзакции.md",
@@ -282,7 +284,6 @@
     "Base/Сериализуемая изоляция снимков состояний (SSI).md",
     "conflict-files-obsidian-git.md",
     "Base/MVCC.md",
-    "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
     "Base/Абстрактная фабрика.md",
@@ -309,7 +310,6 @@
     "Base/Идемпотентность запроса.md",
     "Base/RabbitMQ.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
-    "Base/Kafka Streams.md",
     "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
