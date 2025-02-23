@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/GRPC.md",
+                "file": "Base/Clickhouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GRPC"
+              "title": "Clickhouse"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/GRPC.md",
+                "file": "Base/Clickhouse.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +166,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф GRPC"
+              "title": "Граф Clickhouse"
             }
           },
           {
@@ -275,14 +275,17 @@
   "active": "d9775bd18a781632",
   "lastOpenFiles": [
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Платформы мониторинга.md",
+    "Base/RabbitMQ.md",
+    "Base/Apache Kafka.md",
+    "Base/Clickhouse.md",
+    "Base/GraphQL.md",
+    "Base/GRPC.md",
     "Base/Java Developer.md",
     "Base/Распространённые решения.md",
     "Base/Распределенная трассировка.md",
     "Base/Идемпотентность запроса.md",
-    "Base/Kubernetes (Istio), OpenShift, Docker.md",
-    "Base/Clickhouse.md",
-    "Base/GraphQL.md",
-    "Base/GRPC.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/Кэширование.md",
     "Base/Второй уровень кэша.md",
@@ -297,9 +300,6 @@
     "Base/Маппинг полей.md",
     "Base/Отношения между сущностями.md",
     "Base/No SQL базы данных.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Spring framework.md",
-    "Base/Жизненный цикл bean-компонента.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
