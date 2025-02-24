@@ -67,12 +67,14 @@
             "id": "3fa7b9ef1b831d17",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Base/Распространённые решения.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Распространённые решения"
             }
           }
         ],
@@ -129,8 +131,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Распространённые решения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,12 +174,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761049,
+                  "scale": 0.5957670864181627,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Распространённые решения"
             }
           },
           {
@@ -283,8 +285,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57d83502b6c3e390",
+  "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
+    "Base/Java Core.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Абстрактная фабрика.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Kafka Streams.md",
     "Base/Apache Kafka.md",
@@ -294,7 +300,6 @@
     "Base/RabbitMQ.md",
     "Base/GraphQL.md",
     "Base/GRPC.md",
-    "Base/Java Developer.md",
     "Base/Распространённые решения.md",
     "Base/Распределенная трассировка.md",
     "Base/Идемпотентность запроса.md",
@@ -308,9 +313,6 @@
     "Base/Lifecycle.md",
     "Base/Entity.md",
     "Base/Entityt Manager, Session.md",
-    "Base/Виды генераций id.md",
-    "Base/Маппинг полей.md",
-    "Base/Отношения между сущностями.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
