@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "RabbitMQ"
             }
+          },
+          {
+            "id": "3fa7b9ef1b831d17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +150,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/RabbitMQ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -166,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф RabbitMQ"
+              "title": "Граф"
             }
           },
           {
@@ -272,7 +283,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9775bd18a781632",
+  "active": "57d83502b6c3e390",
   "lastOpenFiles": [
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Kafka Streams.md",
