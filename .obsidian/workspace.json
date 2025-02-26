@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пессимистическая блокировка.md",
+                "file": "Base/Deadlock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пессимистическая блокировка"
+              "title": "Deadlock"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Пессимистическая блокировка.md",
+                "file": "Base/Deadlock.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Пессимистическая блокировка"
+              "title": "Граф Deadlock"
             }
           },
           {
@@ -287,9 +287,11 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Типы блокировок.md",
-    "Base/Оптимистическая блокировка.md",
+    "Base/Проблемы многопоточности.md",
     "Base/Многопоточность.md",
+    "Base/Типы блокировок.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Оптимистическая блокировка.md",
     "Base/Зелёные потоки.md",
     "Base/Java Developer.md",
     "Base/ООП.md",
@@ -311,8 +313,6 @@
     "Base/Apache Kafka.md",
     "Base/Clickhouse.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
-    "Base/Платформы мониторинга.md",
-    "Base/RabbitMQ.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
