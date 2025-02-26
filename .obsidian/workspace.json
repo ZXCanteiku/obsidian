@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Зелёные потоки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Зелёные потоки"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Зелёные потоки.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф Зелёные потоки"
             }
           },
           {
@@ -287,10 +287,11 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
+    "Base/Многопоточность.md",
+    "Base/Зелёные потоки.md",
     "Base/Java Developer.md",
     "Base/ООП.md",
     "Base/Реактивное программирование.md",
-    "Base/Многопоточность.md",
     "Base/Модель памяти в Java.md",
     "Base/hapens-before.md",
     "Base/Java Core.md",
@@ -312,7 +313,6 @@
     "Base/RabbitMQ.md",
     "Base/GraphQL.md",
     "Base/GRPC.md",
-    "Base/Распределенная трассировка.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
