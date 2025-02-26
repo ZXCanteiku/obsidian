@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Архитектурные паттерны"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Архитектурные паттерны.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Архитектурные паттерны"
             }
           },
           {
@@ -287,8 +287,11 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Spring framework.md",
+    "Base/CQRS.md",
+    "Base/Архитектурные паттерны.md",
     "Base/Java Developer.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Spring framework.md",
     "Base/Многопоточность.md",
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
@@ -310,9 +313,6 @@
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Распространённые решения.md",
-    "Base/Абстрактная фабрика.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
