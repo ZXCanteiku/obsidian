@@ -12,4 +12,4 @@ aliases:
 Tags: #race_сondition
 Author: [[]]
 Related: [[Проблемы многопоточности]]
-URL: [[]
+URL: [[]]
