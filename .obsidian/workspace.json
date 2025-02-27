@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JVM,  Архитектура JVM"
+              "title": "Java Core"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф JVM,  Архитектура JVM"
+              "title": "Граф Java Core"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для JVM,  Архитектура JVM"
+              "title": "Обратные ссылки для Java Core"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из JVM,  Архитектура JVM"
+              "title": "Исходящие ссылки из Java Core"
             }
           },
           {
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура JVM,  Архитектура JVM"
+              "title": "Структура Java Core"
             }
           },
           {
@@ -291,6 +291,7 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Core.md",
     "Base/Java Developer.md",
     "Base/ООП.md",
@@ -306,7 +307,6 @@
     "Base/Pool String.md",
     "Base/Pool Integer.md",
     "Base/Дженерики.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Garbage Colector.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Модель памяти в Java.md",
