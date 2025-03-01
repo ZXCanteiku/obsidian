@@ -318,6 +318,7 @@
   },
   "active": "dfa0f939a230504f",
   "lastOpenFiles": [
+    "Files/Pasted image 20250301202111.png",
     "Base/Rate limit.md",
     "Base/Leaky Bucket (дырявое ведро).md",
     "Base/Token Bucket (маркерная корзина).md",
@@ -346,7 +347,6 @@
     "Base/Interrupted.md",
     "Base/Atomic.md",
     "Base/Зелёные потоки.md",
-    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
