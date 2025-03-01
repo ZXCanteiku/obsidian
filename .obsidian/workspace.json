@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Leaky Bucket (дырявое ведро).md",
+                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leaky Bucket (дырявое ведро)"
+              "title": "Fixed Window Counter (счётчик фиксированных интервалов)"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Leaky Bucket (дырявое ведро).md",
+                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Leaky Bucket (дырявое ведро)"
+              "title": "Граф Fixed Window Counter (счётчик фиксированных интервалов)"
             }
           },
           {
@@ -318,9 +318,10 @@
   },
   "active": "dfa0f939a230504f",
   "lastOpenFiles": [
-    "Files/Pasted image 20250301202111.png",
     "Base/Rate limit.md",
+    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "Base/Leaky Bucket (дырявое ведро).md",
+    "Files/Pasted image 20250301202111.png",
     "Base/Token Bucket (маркерная корзина).md",
     "Files/Pasted image 20250301201550.png",
     "Files/Pasted image 20250301201541.png",
@@ -353,7 +354,6 @@
     "Files/Pasted image 20250205211517.png",
     "Files/Pasted image 20250205211339.png",
     "Files/Pasted image 20250205210910.png",
-    "Files/Pasted image 20250205210849.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
