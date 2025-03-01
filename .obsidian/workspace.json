@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JVM,  Архитектура JVM"
+              "title": "Java Developer"
+            }
+          },
+          {
+            "id": "d73db3daf0f55ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Зелёные потоки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зелёные потоки"
             }
           },
           {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Зелёные потоки.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Core"
+              "title": "Граф Зелёные потоки"
             }
           },
           {
@@ -267,8 +281,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,12 +302,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d76fa40f7a3b6755",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
-    "Base/Java Core.md",
-    "conflict-files-obsidian-git.md",
-    "Base/JVM,  Архитектура JVM.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Memory Barriers.md",
+    "Base/hapens-before.md",
+    "Base/Cache Coherence.md",
     "Base/Java Developer.md",
+    "Base/Java Core.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "conflict-files-obsidian-git.md",
     "Base/ООП.md",
     "Base/Инкапсуляция.md",
     "Base/Архитектурные паттерны.md",
@@ -309,14 +327,9 @@
     "Base/Дженерики.md",
     "Base/Garbage Colector.md",
     "Base/Устройство памяти в JVM.md",
-    "Base/Модель памяти в Java.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Асимметрия записи и фантомы.md",
     "Base/Грязное чтение.md",
-    "Base/Предотвращение потери обновлений.md",
-    "Base/Чтение зафиксированных данных.md",
-    "Base/Индексы.md",
-    "Base/Уровни изоляций транзакции.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
