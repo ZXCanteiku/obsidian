@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Token Bucket (маркерная корзина).md",
+                "file": "Base/Leaky Bucket (дырявое ведро).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Token Bucket (маркерная корзина)"
+              "title": "Leaky Bucket (дырявое ведро)"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Token Bucket (маркерная корзина).md",
+                "file": "Base/Leaky Bucket (дырявое ведро).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Token Bucket (маркерная корзина)"
+              "title": "Граф Leaky Bucket (дырявое ведро)"
             }
           },
           {
@@ -319,7 +319,11 @@
   "active": "dfa0f939a230504f",
   "lastOpenFiles": [
     "Base/Rate limit.md",
+    "Base/Leaky Bucket (дырявое ведро).md",
     "Base/Token Bucket (маркерная корзина).md",
+    "Files/Pasted image 20250301201550.png",
+    "Files/Pasted image 20250301201541.png",
+    "Files/Pasted image 20250301201531.png",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
     "Base/Semaphore.md",
@@ -343,7 +347,6 @@
     "Base/Atomic.md",
     "Base/Зелёные потоки.md",
     "Base/Модель памяти в Java.md",
-    "Base/Memory Barriers.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
@@ -351,9 +354,6 @@
     "Files/Pasted image 20250205211339.png",
     "Files/Pasted image 20250205210910.png",
     "Files/Pasted image 20250205210849.png",
-    "Files/Pasted image 20250205210155.png",
-    "Files/Pasted image 20250205210114.png",
-    "Files/Pasted image 20250122203426.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
