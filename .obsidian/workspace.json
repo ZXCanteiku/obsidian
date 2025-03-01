@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
+                "file": "Sliding Window Log/Counter (скользящие интервалы).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fixed Window Counter (счётчик фиксированных интервалов)"
+              "title": "Counter (скользящие интервалы)"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
+                "file": "Sliding Window Log/Counter (скользящие интервалы).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Fixed Window Counter (счётчик фиксированных интервалов)"
+              "title": "Граф Counter (скользящие интервалы)"
             }
           },
           {
@@ -321,6 +321,10 @@
     "Base/Rate limit.md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "Base/Leaky Bucket (дырявое ведро).md",
+    "Sliding Window Log/Counter (скользящие интервалы).md",
+    "Sliding Window Log",
+    "Files/Pasted image 20250301202628.png",
+    "Files/Pasted image 20250301202559.png",
     "Files/Pasted image 20250301202111.png",
     "Base/Token Bucket (маркерная корзина).md",
     "Files/Pasted image 20250301201550.png",
@@ -347,13 +351,10 @@
     "Base/Дамп потока.md",
     "Base/Interrupted.md",
     "Base/Atomic.md",
-    "Base/Зелёные потоки.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
     "Files/Pasted image 20250205211517.png",
-    "Files/Pasted image 20250205211339.png",
-    "Files/Pasted image 20250205210910.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
