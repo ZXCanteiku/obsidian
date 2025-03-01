@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Token Bucket (маркерная корзина).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate limit"
+              "title": "Token Bucket (маркерная корзина)"
             }
           },
           {
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Token Bucket (маркерная корзина).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Rate limit"
+              "title": "Граф Token Bucket (маркерная корзина)"
             }
           },
           {
@@ -319,6 +319,7 @@
   "active": "dfa0f939a230504f",
   "lastOpenFiles": [
     "Base/Rate limit.md",
+    "Base/Token Bucket (маркерная корзина).md",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
     "Base/Semaphore.md",
@@ -343,7 +344,6 @@
     "Base/Зелёные потоки.md",
     "Base/Модель памяти в Java.md",
     "Base/Memory Barriers.md",
-    "Base/hapens-before.md",
     "Files/Pasted image 20250205220225.png",
     "Files/Pasted image 20250205220033.png",
     "Files/Pasted image 20250205215651.png",
