@@ -27,40 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Распространённые решения"
-            }
-          },
-          {
-            "id": "dfa0f939a230504f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Rate limit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rate limit"
-            }
-          },
-          {
-            "id": "d73db3daf0f55ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Semaphore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semaphore"
+              "title": "JVM,  Архитектура JVM"
             }
           },
           {
@@ -104,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Java Core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Rate limit"
+              "title": "Граф Java Core"
             }
           },
           {
@@ -295,7 +267,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -316,44 +289,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfa0f939a230504f",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Files/Ratelimit.pdf",
-    "Base/Rate limit.md",
-    "Files/Pasted image 20250301203500.png",
-    "Base/Счетчик скользящих интервалов.md",
-    "Files/Pasted image 20250301203424.png",
-    "Base/Журнал скользящих интервалов.md",
-    "Files/Pasted image 20250301203141.png",
     "Sliding Window Log/Counter (скользящие интервалы).md",
-    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
-    "Base/Leaky Bucket (дырявое ведро).md",
     "Sliding Window Log",
+    "Files/Ratelimit.pdf",
+    "Files/Pasted image 20250301203500.png",
+    "Files/Pasted image 20250301203424.png",
+    "Files/Pasted image 20250301203141.png",
     "Files/Pasted image 20250301202628.png",
     "Files/Pasted image 20250301202559.png",
     "Files/Pasted image 20250301202111.png",
-    "Base/Token Bucket (маркерная корзина).md",
     "Files/Pasted image 20250301201550.png",
     "Files/Pasted image 20250301201541.png",
     "Files/Pasted image 20250301201531.png",
-    "Base/Распространённые решения.md",
+    "Base/Счетчик скользящих интервалов.md",
+    "Base/Журнал скользящих интервалов.md",
+    "Base/Token Bucket (маркерная корзина).md",
+    "Base/Rate limit.md",
+    "Base/Leaky Bucket (дырявое ведро).md",
+    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
+    "Base/Java Core.md",
+    "conflict-files-obsidian-git.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Developer.md",
-    "Base/Semaphore.md",
-    "Base/Locks.md",
-    "Base/CyclicBarrier.md",
-    "Base/CountDownLatch.md",
-    "Base/Concurrent.md",
-    "Base/Java thread.md",
-    "Base/Многопоточность.md",
-    "Base/Типы блокировок.md",
-    "Base/Потоки демоны.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Race condition.md",
-    "Base/Livelock.md",
-    "Base/Deadlock.md",
-    "Base/Пессимистическая блокировка.md",
-    "Base/ThreadLocal.md",
-    "Base/Cпособы синхронизации в Java.md",
+    "Base/ООП.md",
+    "Base/Инкапсуляция.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Распространённые решения.md",
+    "Base/Spring framework.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Pool String.md",
+    "Base/Pool Integer.md",
+    "Base/Дженерики.md",
+    "Base/Garbage Colector.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20250205220225.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
