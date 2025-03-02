@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/Кэширование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Распространённые решения"
+              "title": "Кэширование"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/Кэширование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Распространённые решения"
+              "title": "Граф Кэширование"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/Кэширование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Распространённые решения"
+              "title": "Исходящие ссылки из Кэширование"
             }
           },
           {
@@ -287,9 +287,10 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
+    "Base/Распространённые решения.md",
+    "Base/Кэширование.md",
     "Base/Кэширование Hibernate.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/Распространённые решения.md",
     "Base/Rate limit.md",
     "Base/Журнал скользящих интервалов.md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
@@ -323,7 +324,6 @@
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
     "Base/Livelock.md",
-    "Base/Deadlock.md",
     "Files/Pasted image 20250205220225.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
