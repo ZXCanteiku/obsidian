@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Журнал скользящих интервалов.md",
+                "file": "Base/Счетчик скользящих интервалов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Журнал скользящих интервалов"
+              "title": "Счетчик скользящих интервалов"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Журнал скользящих интервалов.md",
+                "file": "Base/Счетчик скользящих интервалов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Журнал скользящих интервалов"
+              "title": "Граф Счетчик скользящих интервалов"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Журнал скользящих интервалов.md",
+                "file": "Base/Счетчик скользящих интервалов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Журнал скользящих интервалов"
+              "title": "Исходящие ссылки из Счетчик скользящих интервалов"
             }
           },
           {
@@ -285,9 +285,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7141d3ce232f8961",
+  "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
     "Base/Rate limit.md",
+    "Base/Журнал скользящих интервалов.md",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
     "Base/Многопоточность.md",
@@ -306,7 +307,6 @@
     "Files/Pasted image 20250301201541.png",
     "Files/Pasted image 20250301201531.png",
     "Base/Счетчик скользящих интервалов.md",
-    "Base/Журнал скользящих интервалов.md",
     "Base/Token Bucket (маркерная корзина).md",
     "Base/Leaky Bucket (дырявое ведро).md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
