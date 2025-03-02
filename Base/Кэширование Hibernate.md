@@ -1,4 +1,4 @@
-## Кэширование
+## Кэширование Hibernate
 aliases: 
 	- "Кэширование"
 
@@ -9,7 +9,7 @@ aliases:
 
 
 ---
-Tags: #cashe
+Tags: #cashe_hibernate
 Author: [[]]
 Related: [[JDBC, ORM, JPA and Hibernate]]
 URL: [[]]

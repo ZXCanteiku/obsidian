@@ -15,7 +15,7 @@ Hibernate одна из самых популярных открытых реа�
 - [[Entity]]
 - [[Lifecycle]]
 - [[Transaction]]
-- [[Кэширование]]
+- [[Кэширование Hibernate]]
 - [[N+1]]
 - [[Keyset and offset pagination]]
 
