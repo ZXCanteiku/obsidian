@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Rate limit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
+              "title": "Rate limit"
             }
           },
           {
@@ -289,8 +289,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
+    "Base/Token Bucket (маркерная корзина).md",
+    "Base/Rate limit.md",
+    "Base/Распространённые решения.md",
+    "Base/Java Developer.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Sliding Window Log/Counter (скользящие интервалы).md",
     "Sliding Window Log",
@@ -306,18 +313,11 @@
     "Files/Pasted image 20250301201531.png",
     "Base/Счетчик скользящих интервалов.md",
     "Base/Журнал скользящих интервалов.md",
-    "Base/Token Bucket (маркерная корзина).md",
-    "Base/Rate limit.md",
     "Base/Leaky Bucket (дырявое ведро).md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
-    "Base/Java Core.md",
     "conflict-files-obsidian-git.md",
-    "Base/Java Developer.md",
     "Base/ООП.md",
     "Base/Инкапсуляция.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Распространённые решения.md",
     "Base/Spring framework.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
