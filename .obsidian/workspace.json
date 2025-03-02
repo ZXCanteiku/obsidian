@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate limit"
+              "title": "Fixed Window Counter (счётчик фиксированных интервалов)"
             }
           },
           {
@@ -291,8 +291,11 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Base/Token Bucket (маркерная корзина).md",
     "Base/Rate limit.md",
+    "Base/Leaky Bucket (дырявое ведро).md",
+    "Base/Token Bucket (маркерная корзина).md",
+    "Files/Ratelimit.pdf",
+    "Base/Индексы.md",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
     "Base/Архитектурные паттерны.md",
@@ -301,7 +304,6 @@
     "Base/JVM,  Архитектура JVM.md",
     "Sliding Window Log/Counter (скользящие интервалы).md",
     "Sliding Window Log",
-    "Files/Ratelimit.pdf",
     "Files/Pasted image 20250301203500.png",
     "Files/Pasted image 20250301203424.png",
     "Files/Pasted image 20250301203141.png",
@@ -313,7 +315,6 @@
     "Files/Pasted image 20250301201531.png",
     "Base/Счетчик скользящих интервалов.md",
     "Base/Журнал скользящих интервалов.md",
-    "Base/Leaky Bucket (дырявое ведро).md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "conflict-files-obsidian-git.md",
     "Base/ООП.md",
@@ -326,8 +327,6 @@
     "Base/Pool Integer.md",
     "Base/Дженерики.md",
     "Base/Garbage Colector.md",
-    "Base/Устройство памяти в JVM.md",
-    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20250205220225.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
