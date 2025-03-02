@@ -287,6 +287,7 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
+    "Files/enhanced_image.png",
     "Base/Распространённые решения.md",
     "Base/Кэширование.md",
     "Base/Кэширование Hibernate.md",
@@ -323,7 +324,6 @@
     "Base/Spring framework.md",
     "Base/Проблемы многопоточности.md",
     "Base/Race condition.md",
-    "Base/Livelock.md",
     "Files/Pasted image 20250205220225.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
