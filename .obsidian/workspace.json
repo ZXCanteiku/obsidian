@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Кэширование.md",
+                "file": "Base/Алгоритмы управления кэшем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кэширование"
+              "title": "Алгоритмы управления кэшем"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Кэширование.md",
+                "file": "Base/Алгоритмы управления кэшем.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Кэширование"
+              "title": "Граф Алгоритмы управления кэшем"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Кэширование.md",
+                "file": "Base/Алгоритмы управления кэшем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Кэширование"
+              "title": "Исходящие ссылки из Алгоритмы управления кэшем"
             }
           },
           {
@@ -288,8 +288,8 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Виды стратегий кэширования.md",
     "Base/Кэширование.md",
+    "Base/Виды стратегий кэширования.md",
     "Base/Алгоритмы управления кэшем.md",
     "conflict-files-obsidian-git.md",
     "Base/Распространённые решения.md",
