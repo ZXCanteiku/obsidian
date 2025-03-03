@@ -264,7 +264,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -288,9 +289,9 @@
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
     "Base/Кэширование.md",
+    "Base/Алгоритмы управления кэшем.md",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
-    "Base/Алгоритмы управления кэшем.md",
     "Files/enhanced_image.png",
     "Base/Кэширование Hibernate.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
