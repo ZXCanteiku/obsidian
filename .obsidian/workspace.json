@@ -295,7 +295,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -316,7 +317,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfa0f939a230504f",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Files/Ratelimit.pdf",
     "Base/Rate limit.md",
