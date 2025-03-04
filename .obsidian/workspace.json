@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQRS"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
@@ -55,28 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Уровни изоляций транзакции.md",
+                "file": "Base/RabbitMQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни изоляций транзакции"
+              "title": "RabbitMQ"
             }
           },
           {
-            "id": "cca2081193850467",
+            "id": "3fa7b9ef1b831d17",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Инфраструктурными технологии для разработки на Java"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,12 +174,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 1.0689553682845074,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Core"
+              "title": "Граф Инфраструктурными технологии для разработки на Java"
             }
           },
           {
@@ -186,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Concurrent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Java Core"
+              "title": "Обратные ссылки для Concurrent"
             }
           },
           {
@@ -205,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Java Core"
+              "title": "Исходящие ссылки из Инфраструктурными технологии для разработки на Java"
             }
           },
           {
@@ -220,9 +222,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Теги"
@@ -234,13 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Java Core.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Base/Concurrent.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Java Core"
+              "title": "Структура Concurrent"
             }
           },
           {
@@ -272,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,36 +286,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d76fa40f7a3b6755",
+  "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Архитектурные паттерны.md",
-    "Base/Java Developer.md",
+    "Base/Платформы мониторинга.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/ELK Stack.md",
+    "Base/Java Developer.md",
     "Base/Распространённые решения.md",
+    "Base/Идемпотентность запроса.md",
+    "Base/Apache Kafka.md",
     "Base/Кэширование.md",
-    "Base/Алгоритмы управления кэшем.md",
-    "conflict-files-obsidian-git.md",
     "Base/Виды стратегий кэширования.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Слабые уровни изоляции.md",
-    "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/MVCC.md",
-    "Base/Фантомное чтение.md",
-    "Base/ACID.md",
+    "Base/Алгоритмы управления кэшем.md",
     "Base/Rate limit.md",
-    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "Base/Журнал скользящих интервалов.md",
-    "Files/enhanced_image.png",
-    "Base/Кэширование Hibernate.md",
-    "Base/Leaky Bucket (дырявое ведро).md",
+    "Base/Счетчик скользящих интервалов.md",
     "Base/Token Bucket (маркерная корзина).md",
-    "Files/Ratelimit.pdf",
-    "Base/Индексы.md",
+    "Base/Leaky Bucket (дырявое ведро).md",
+    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
+    "Base/Многопоточность.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
+    "conflict-files-obsidian-git.md",
+    "Files/enhanced_image.png",
+    "Base/Кэширование Hibernate.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/Модель памяти в Java.md",
     "Sliding Window Log/Counter (скользящие интервалы).md",
     "Sliding Window Log",
+    "Files/Ratelimit.pdf",
     "Files/Pasted image 20250301203500.png",
     "Files/Pasted image 20250301203424.png",
     "Files/Pasted image 20250301203141.png",
@@ -328,7 +324,8 @@
     "Files/Pasted image 20250301201550.png",
     "Files/Pasted image 20250301201541.png",
     "Files/Pasted image 20250301201531.png",
-    "Base/Счетчик скользящих интервалов.md",
+    "Base/Garbage Colector.md",
+    "Base/Устройство памяти в JVM.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
