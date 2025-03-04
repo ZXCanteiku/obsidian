@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Распространённые решения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Распространённые решения"
             }
           },
           {
@@ -289,9 +289,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
     "Base/Java Developer.md",
+    "Base/Распространённые решения.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
     "conflict-files-obsidian-git.md",
     "Base/Виды стратегий кэширования.md",
     "Base/Реляционные базы данных.md",
@@ -301,7 +303,6 @@
     "Base/MVCC.md",
     "Base/Фантомное чтение.md",
     "Base/ACID.md",
-    "Base/Распространённые решения.md",
     "Base/Rate limit.md",
     "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "Base/Журнал скользящих интервалов.md",
@@ -313,7 +314,6 @@
     "Files/Ratelimit.pdf",
     "Base/Индексы.md",
     "Base/Архитектурные паттерны.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Sliding Window Log/Counter (скользящие интервалы).md",
