@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/CQRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Распространённые решения"
+              "title": "CQRS"
             }
           },
           {
@@ -291,11 +291,12 @@
   },
   "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Base/Кэширование.md",
-    "Base/Алгоритмы управления кэшем.md",
-    "Base/Распространённые решения.md",
+    "Base/Архитектурные паттерны.md",
     "Base/Java Developer.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Распространённые решения.md",
+    "Base/Кэширование.md",
+    "Base/Алгоритмы управления кэшем.md",
     "conflict-files-obsidian-git.md",
     "Base/Виды стратегий кэширования.md",
     "Base/Реляционные базы данных.md",
@@ -314,7 +315,6 @@
     "Base/Token Bucket (маркерная корзина).md",
     "Files/Ratelimit.pdf",
     "Base/Индексы.md",
-    "Base/Архитектурные паттерны.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Sliding Window Log/Counter (скользящие интервалы).md",
