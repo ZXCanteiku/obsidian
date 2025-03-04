@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Идемпотентность запроса.md",
+                "file": "Base/Платформы мониторинга.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Идемпотентность запроса"
+              "title": "Платформы мониторинга"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Идемпотентность запроса.md",
+                "file": "Base/Платформы мониторинга.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Идемпотентность запроса"
+              "title": "Граф Платформы мониторинга"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Идемпотентность запроса.md",
+                "file": "Base/Платформы мониторинга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Идемпотентность запроса"
+              "title": "Исходящие ссылки из Платформы мониторинга"
             }
           },
           {
@@ -288,9 +288,12 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Распространённые решения.md",
-    "Base/Java Developer.md",
+    "Base/ELK Stack.md",
+    "Base/Платформы мониторинга.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Java Developer.md",
+    "Base/Распространённые решения.md",
+    "Base/Идемпотентность запроса.md",
     "Base/Apache Kafka.md",
     "Base/Кэширование.md",
     "Base/Виды стратегий кэширования.md",
@@ -323,9 +326,6 @@
     "Files/Pasted image 20250301201531.png",
     "Base/Garbage Colector.md",
     "Base/Устройство памяти в JVM.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/CQRS.md",
-    "Base/Spring framework.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
