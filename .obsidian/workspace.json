@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Java Developer"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Инфраструктурными технологии для разработки на Java"
+              "title": "Граф Java Developer"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Java Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Инфраструктурными технологии для разработки на Java"
+              "title": "Исходящие ссылки из Java Developer"
             }
           },
           {
@@ -288,8 +288,8 @@
   },
   "active": "3fa7b9ef1b831d17",
   "lastOpenFiles": [
-    "Base/Платформы мониторинга.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Платформы мониторинга.md",
     "Base/ELK Stack.md",
     "Base/Java Developer.md",
     "Base/Распространённые решения.md",
