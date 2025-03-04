@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Распространённые решения.md",
+                "file": "Base/Кэширование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Распространённые решения"
+              "title": "Кэширование"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Кэширование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Rate limit"
+              "title": "Граф Кэширование"
             }
           },
           {
@@ -303,18 +303,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfa0f939a230504f",
+  "active": "d76fa40f7a3b6755",
   "lastOpenFiles": [
-    "Base/Журнал скользящих интервалов.md",
+    "Base/Распространённые решения.md",
     "Base/Rate limit.md",
+    "Base/Индексы.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Журнал скользящих интервалов.md",
     "Base/Semaphore.md",
     "Base/Garbage Colector.md",
     "conflict-files-obsidian-git.md",
-    "Base/Уровни изоляций транзакции.md",
     "Base/Виды стратегий кэширования.md",
     "Base/Фантомное чтение.md",
     "Base/Счетчик скользящих интервалов.md",
-    "Base/Распространённые решения.md",
     "Files/enhanced_image.png",
     "Base/Кэширование Hibernate.md",
     "Base/Алгоритмы управления кэшем.md",
@@ -342,7 +343,6 @@
     "Base/Многопоточность.md",
     "Base/Типы блокировок.md",
     "Base/Потоки демоны.md",
-    "Base/Проблемы многопоточности.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
