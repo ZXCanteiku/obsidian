@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Semaphore.md",
+                "file": "Base/Модель памяти в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore"
+              "title": "Модель памяти в Java"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Token Bucket (маркерная корзина).md",
+                "file": "Base/Модель памяти в Java.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Token Bucket (маркерная корзина)"
+              "title": "Граф Модель памяти в Java"
             }
           },
           {
@@ -281,8 +281,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,8 +302,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d76fa40f7a3b6755",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
+    "Base/Многопоточность.md",
+    "Base/Java thread.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Locks.md",
+    "Base/Semaphore.md",
+    "Base/Token Bucket (маркерная корзина).md",
     "Base/Rate limit.md",
     "Base/Распространённые решения.md",
     "Base/Кэширование.md",
@@ -315,7 +320,6 @@
     "Base/Индексы.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Журнал скользящих интервалов.md",
-    "Base/Semaphore.md",
     "Base/Garbage Colector.md",
     "Base/Фантомное чтение.md",
     "Base/Счетчик скользящих интервалов.md",
@@ -332,17 +336,12 @@
     "Files/Pasted image 20250301202628.png",
     "Files/Pasted image 20250301202559.png",
     "Files/Pasted image 20250301202111.png",
-    "Base/Token Bucket (маркерная корзина).md",
     "Files/Pasted image 20250301201550.png",
     "Files/Pasted image 20250301201541.png",
     "Files/Pasted image 20250301201531.png",
     "Base/Java Developer.md",
-    "Base/Locks.md",
     "Base/CyclicBarrier.md",
     "Base/CountDownLatch.md",
-    "Base/Concurrent.md",
-    "Base/Java thread.md",
-    "Base/Многопоточность.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
