@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Реактивное программирование.md",
+                "file": "Base/Асинхронная модель.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реактивное программирование"
+              "title": "Асинхронная модель"
             }
           },
           {
@@ -290,9 +290,11 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Синхронная модель.md",
     "Base/Реактивное программирование.md",
+    "Base/Синхронная модель.md",
+    "Base/Асинхронная модель.md",
     "Base/Java Developer.md",
+    "Files/Pasted image 20250307205057.png",
     "conflict-files-obsidian-git.md",
     "Files/Pasted image 20250307202151.png",
     "Files/Pasted image 20250307202148.png",
@@ -320,14 +322,12 @@
     "Base/MVCC.md",
     "Base/Фантомное чтение.md",
     "Base/ACID.md",
-    "Base/Rate limit.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
     "Files/Pasted image 20250301203500.png",
     "Files/Pasted image 20250301203424.png",
     "Files/Pasted image 20250301203141.png",
-    "Files/Pasted image 20250301202628.png",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Base/Работа",
