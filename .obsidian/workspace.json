@@ -304,6 +304,7 @@
   },
   "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
+    "Files/Pasted image 20250307200901.png",
     "Base/Apache Kafka.md",
     "Base/Гарантии доставки kafka.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
@@ -330,7 +331,6 @@
     "Base/Журнал скользящих интервалов.md",
     "Base/Garbage Colector.md",
     "Base/Фантомное чтение.md",
-    "Base/Счетчик скользящих интервалов.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Files/Pasted image 20250301203500.png",
