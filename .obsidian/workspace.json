@@ -290,6 +290,7 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Files/Pasted image 20250307205624.png",
     "Base/Реактивное программирование.md",
     "Base/Синхронная модель.md",
     "Base/Асинхронная модель.md",
@@ -321,7 +322,6 @@
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
     "Base/MVCC.md",
     "Base/Фантомное чтение.md",
-    "Base/ACID.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
