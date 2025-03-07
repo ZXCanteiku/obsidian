@@ -26,5 +26,5 @@ aliases:
 ---
 Tags: #infrastructure #kafka
 Author: [[]]
-Related: [[Инфраструктурными технологии для разработки на Java]]
+Related: [[Apache Kafka]]
 URL: -- 
