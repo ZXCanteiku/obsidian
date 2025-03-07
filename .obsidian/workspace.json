@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -317,39 +317,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
+    "Base/Зелёные потоки.md",
+    "Base/Многопоточность.md",
+    "Base/Java thread.md",
+    "Base/Потоки демоны.md",
+    "Base/Проблемы многопоточности.md",
+    "Base/Race condition.md",
+    "Base/Livelock.md",
+    "Base/Deadlock.md",
+    "Base/Типы блокировок.md",
+    "Base/Пессимистическая блокировка.md",
+    "Base/Оптимистическая блокировка.md",
+    "Base/Atomic.md",
+    "Base/ThreadLocal.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Дамп потока.md",
+    "Base/Interrupted.md",
+    "Base/Concurrent.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Memory Barriers.md",
+    "Base/Cache Coherence.md",
+    "Base/hapens-before.md",
+    "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
     "Base/Абстрактная фабрика.md",
-    "Base/Многопоточность.md",
-    "Base/Модель памяти в Java.md",
     "Base/Rate limit.md",
-    "Base/Java thread.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Locks.md",
-    "Base/Semaphore.md",
-    "Base/Token Bucket (маркерная корзина).md",
-    "Base/Распространённые решения.md",
-    "Base/Кэширование.md",
-    "Base/Виды стратегий кэширования.md",
-    "Base/Алгоритмы управления кэшем.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Circuit Breake.md",
-    "Base/Индексы.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Журнал скользящих интервалов.md",
-    "Base/Garbage Colector.md",
-    "Base/Фантомное чтение.md",
-    "Base/Счетчик скользящих интервалов.md",
     "Files/enhanced_image.png",
-    "Base/Кэширование Hibernate.md",
     "Files/Ratelimit.pdf",
     "Files/Pasted image 20250301203500.png",
     "Files/Pasted image 20250301203424.png",
     "Files/Pasted image 20250301203141.png",
-    "Sliding Window Log/Counter (скользящие интервалы).md",
-    "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
     "Sliding Window Log",
     "Files/Pasted image 20250301202628.png",
     "Files/Pasted image 20250301202559.png",
