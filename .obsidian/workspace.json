@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "48a4f16dd5806826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d76fa40f7a3b6755",
             "type": "leaf",
             "state": {
@@ -75,7 +89,8 @@
               "title": "Release Notes 1.8.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,8 +303,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "919b2f2b77ede5fb",
+  "active": "48a4f16dd5806826",
   "lastOpenFiles": [
+    "Base/Модель памяти в Java.md",
+    "conflict-files-obsidian-git.md",
     "Base/Многопоточность.md",
     "Base/Java Developer.md",
     "Base/Реактивное программирование.md",
@@ -300,7 +317,6 @@
     "Files/Pasted image 20250307205624.png",
     "Base/Синхронная модель.md",
     "Files/Pasted image 20250307205057.png",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20250307202151.png",
     "Files/Pasted image 20250307202148.png",
     "Files/Pasted image 20250307201745.png",
@@ -323,7 +339,6 @@
     "Base/Уровни изоляций транзакции.md",
     "Base/Слабые уровни изоляции.md",
     "Base/Изоляция снимков состояния и воспроизводимое чтение.md",
-    "Base/MVCC.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
