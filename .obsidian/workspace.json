@@ -64,20 +64,6 @@
             }
           },
           {
-            "id": "e6665c9729facb85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "d9775bd18a781632",
             "type": "leaf",
             "state": {
@@ -118,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,7 +178,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф conflict-files-obsidian-git"
+              "title": "Граф"
             }
           },
           {
@@ -332,10 +317,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "06bd01e80963f1ae",
   "lastOpenFiles": [
-    "Base/Многопоточность.md",
     "conflict-files-obsidian-git.md",
+    "Base/Многопоточность.md",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
     "Files/Pasted image 20250307205057.png",
