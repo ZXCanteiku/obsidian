@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Реактивное программирование.md",
+                "file": "Base/Наблюдатель.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реактивное программирование"
+              "title": "Наблюдатель"
             }
           },
           {
@@ -319,6 +319,7 @@
   },
   "active": "cca2081193850467",
   "lastOpenFiles": [
+    "Base/Реактивное программирование.md",
     "Base/Java Developer.md",
     "Files/Pasted image 20250307212209.png",
     "conflict-files-obsidian-git.md",
@@ -353,7 +354,6 @@
     "Base/Модель памяти в Java.md",
     "Base/Memory Barriers.md",
     "Base/Cache Coherence.md",
-    "Base/hapens-before.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
