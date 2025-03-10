@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Модель памяти в Java"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -303,15 +303,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d73db3daf0f55ff2",
+  "active": "d9775bd18a781632",
   "lastOpenFiles": [
+    "Base/Java Core.md",
+    "Base/Модель памяти в Java.md",
     "Base/Многопоточность.md",
     "Base/Java thread.md",
-    "Base/Модель памяти в Java.md",
     "Base/hapens-before.md",
     "Base/Memory Barriers.md",
     "Base/Cache Coherence.md",
-    "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Garbage Colector.md",
     "Base/Java Developer.md",
