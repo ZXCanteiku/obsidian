@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Многопоточность.md",
+                "file": "Base/Модель памяти в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Модель памяти в Java"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Java Core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Java Core"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Модель памяти в Java.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,12 +187,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 0.7132754626224438,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Модель памяти в Java"
             }
           },
           {
@@ -303,10 +303,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
-    "Base/Распространённые решения.md",
+    "Base/Многопоточность.md",
+    "Base/Java thread.md",
+    "Base/Модель памяти в Java.md",
+    "Base/hapens-before.md",
+    "Base/Memory Barriers.md",
+    "Base/Cache Coherence.md",
+    "Base/Java Core.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Garbage Colector.md",
     "Base/Java Developer.md",
+    "Base/Распространённые решения.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/No SQL базы данных.md",
@@ -323,7 +332,6 @@
     "Base/Наблюдатель.md",
     "Files/Pasted image 20250307212209.png",
     "conflict-files-obsidian-git.md",
-    "Base/Многопоточность.md",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
     "Files/Pasted image 20250307205057.png",
@@ -332,14 +340,6 @@
     "Files/Pasted image 20250307201745.png",
     "Files/Pasted image 20250307200901.png",
     "Files/Pasted image 20250307195637.png",
-    "Base/Гарантии доставки kafka.md",
-    "Base/Зелёные потоки.md",
-    "Base/Java thread.md",
-    "Base/Потоки демоны.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Race condition.md",
-    "Base/Livelock.md",
-    "Base/Deadlock.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
