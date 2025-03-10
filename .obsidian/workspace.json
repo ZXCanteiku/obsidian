@@ -281,7 +281,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -302,7 +303,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d73db3daf0f55ff2",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
