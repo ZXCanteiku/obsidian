@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Реактивное программирование.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реактивное программирование"
+              "title": "JVM,  Архитектура JVM"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Реактивное программирование.md",
+                "file": "Base/JVM,  Архитектура JVM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Реактивное программирование"
+              "title": "Граф JVM,  Архитектура JVM"
             }
           },
           {
@@ -303,17 +303,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
+    "Base/Java Core.md",
+    "Base/Java Developer.md",
+    "Base/Реактивное программирование.md",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
     "Files/Pasted image 20250307205057.png",
     "Base/Синхронная модель.md",
     "Base/Асинхронная модель.md",
-    "Base/Java Developer.md",
     "Base/Многопоточность.md",
-    "Base/Реактивное программирование.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Apache Kafka.md",
     "Base/Гарантии доставки kafka.md",
@@ -341,7 +342,6 @@
     "Base/Журнал скользящих интервалов.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
-    "Files/Pasted image 20250301203500.png",
     "Sliding Window Log",
     "Без названия.canvas",
     "Без названия 1.canvas",
