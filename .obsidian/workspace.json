@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Fixed Window Counter (счётчик фиксированных интервалов).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель памяти в Java"
+              "title": "Fixed Window Counter (счётчик фиксированных интервалов)"
             }
           },
           {
@@ -290,10 +290,14 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Многопоточность.md",
+    "Base/Rate limit.md",
+    "Base/Leaky Bucket (дырявое ведро).md",
+    "Base/Token Bucket (маркерная корзина).md",
+    "Base/Распространённые решения.md",
     "Base/Java Developer.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "conflict-files-obsidian-git.md",
     "Base/Java Core.md",
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
@@ -321,10 +325,6 @@
     "Base/Реляционные базы данных.md",
     "Base/Индексы.md",
     "Base/Архитектурные паттерны.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Распространённые решения.md",
-    "Base/Кэширование.md",
-    "Base/Алгоритмы управления кэшем.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
