@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Индексы.md",
+                "file": "Base/Модель памяти в Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Индексы"
+              "title": "Модель памяти в Java"
             }
           },
           {
@@ -27,40 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Token Bucket (маркерная корзина).md",
+                "file": "Base/CQRS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Token Bucket (маркерная корзина)"
+              "title": "CQRS"
             }
           },
           {
-            "id": "dfa0f939a230504f",
+            "id": "a03e1f9284653673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Rate limit.md",
+                "file": "Base/Garbage Colector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rate limit"
-            }
-          },
-          {
-            "id": "d73db3daf0f55ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JVM,  Архитектура JVM"
+              "title": "Garbage Colector"
             }
           },
           {
@@ -89,8 +75,7 @@
               "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/JVM,  Архитектура JVM.md",
+                "file": "Base/Java Core.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -191,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф JVM,  Архитектура JVM"
+              "title": "Граф Java Core"
             }
           },
           {
@@ -286,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,43 +288,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d73db3daf0f55ff2",
+  "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "Base/Java Core.md",
+    "Base/Многопоточность.md",
     "Base/Java Developer.md",
+    "Base/Java Core.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/Устройство памяти примитивных типов.md",
+    "Base/Garbage Colector.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Дженерики.md",
+    "Base/Pool Integer.md",
     "Base/Реактивное программирование.md",
+    "Base/Асинхронная модель.md",
     "Files/Pasted image 20250307212209.png",
+    "Base/Синхронная модель.md",
+    "Base/Модель памяти в Java.md",
+    "conflict-files-obsidian-git.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
     "Files/Pasted image 20250307205057.png",
-    "Base/Синхронная модель.md",
-    "Base/Асинхронная модель.md",
-    "Base/Многопоточность.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Apache Kafka.md",
-    "Base/Гарантии доставки kafka.md",
     "Files/Pasted image 20250307202151.png",
     "Files/Pasted image 20250307202148.png",
     "Files/Pasted image 20250307201745.png",
     "Files/Pasted image 20250307200901.png",
-    "Base/Kafka Streams.md",
     "Files/Pasted image 20250307195637.png",
-    "Base/Модель памяти в Java.md",
-    "Base/Java thread.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Locks.md",
-    "Base/Semaphore.md",
-    "Base/Token Bucket (маркерная корзина).md",
-    "Base/Rate limit.md",
+    "Base/Гарантии доставки kafka.md",
+    "Base/Circuit Breake.md",
+    "Base/CQRS.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Индексы.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Распространённые решения.md",
     "Base/Кэширование.md",
-    "Base/Виды стратегий кэширования.md",
     "Base/Алгоритмы управления кэшем.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Circuit Breake.md",
-    "Base/Индексы.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Журнал скользящих интервалов.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
