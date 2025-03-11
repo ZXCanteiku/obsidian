@@ -1,13 +1,13 @@
-# Асинхронная модель
+# Project react
 
 aliases: 
-	- "Асинхронная модель"
+	- "Project react"
 
 ---
 
 
 ---
-Tags: #async_model
+Tags: #project_react
 Author: [[]]
 Related: [[Реактивное программирование]]
 URL: [[]]
