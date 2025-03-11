@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Репликация данных"
+              "title": "Высоконагруженные приложения"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Репликация данных.md",
+                "file": "Base/Высоконагруженные приложения.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Репликация данных"
+              "title": "Граф Высоконагруженные приложения"
             }
           },
           {
@@ -306,6 +306,7 @@
   },
   "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
+    "Base/Репликация данных.md",
     "Base/Репликация с несколькими ведущими узлами.md",
     "Base/Обработка конфликтов записи.md",
     "Base/Автоматическое разрешение конфликтов.md",
@@ -340,7 +341,6 @@
     "Base/Кэширование.md",
     "Base/Виды стратегий кэширования.md",
     "Base/Алгоритмы управления кэшем.md",
-    "conflict-files-obsidian-git.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
