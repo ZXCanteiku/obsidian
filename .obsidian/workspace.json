@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "d76fa40f7a3b6755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Token Bucket (маркерная корзина).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Token Bucket (маркерная корзина)"
+            }
+          },
+          {
             "id": "dfa0f939a230504f",
             "type": "leaf",
             "state": {
@@ -41,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модель памяти в Java.md",
+                "file": "Base/Реактивное программирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модель памяти в Java"
+              "title": "Реактивное программирование"
             }
           },
           {
@@ -67,18 +81,16 @@
             "id": "cca2081193850467",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Base/Java Developer.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.7"
               },
-              "icon": "lucide-file",
-              "title": "Java Developer"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Реактивное программирование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,12 +187,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224438,
+                  "scale": 1.000000000000002,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Реактивное программирование"
             }
           },
           {
@@ -275,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 810.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,43 +304,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "d73db3daf0f55ff2",
   "lastOpenFiles": [
-    "Base/Многопоточность.md",
     "Base/Java Developer.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Потоки демоны.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Deadlock.md",
-    "Base/Race condition.md",
-    "Base/Livelock.md",
-    "Base/Типы блокировок.md",
-    "Base/Пессимистическая блокировка.md",
-    "Base/Оптимистическая блокировка.md",
-    "Base/Java thread.md",
-    "Base/ThreadLocal.md",
-    "Base/Cпособы синхронизации в Java.md",
-    "Base/Дамп потока.md",
-    "Base/Interrupted.md",
-    "Base/Atomic.md",
-    "Base/Concurrent.md",
-    "Base/Зелёные потоки.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Memory Barriers.md",
-    "Base/Cache Coherence.md",
-    "Base/hapens-before.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Порождающие паттерны.md",
+    "Base/Абстрактная фабрика.md",
+    "Base/Высоконагруженные приложения.md",
+    "Base/Репликация данных.md",
+    "Base/Синхронная и асинхронная репликация.md",
+    "Base/Репликация с несколькими ведущими узлами.md",
+    "Base/Обработка конфликтов записи.md",
+    "Base/Асинхронное и синхронное обнаружение конфликтов.md",
+    "Base/Автоматическое разрешение конфликтов.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Java Core.md",
     "Base/Реактивное программирование.md",
-    "Base/Асинхронная модель.md",
-    "Base/Синхронная модель.md",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
     "Files/Pasted image 20250307205057.png",
+    "Base/Синхронная модель.md",
+    "Base/Асинхронная модель.md",
+    "Base/Многопоточность.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Apache Kafka.md",
+    "Base/Гарантии доставки kafka.md",
     "Files/Pasted image 20250307202151.png",
     "Files/Pasted image 20250307202148.png",
     "Files/Pasted image 20250307201745.png",
     "Files/Pasted image 20250307200901.png",
+    "Base/Kafka Streams.md",
     "Files/Pasted image 20250307195637.png",
+    "Base/Модель памяти в Java.md",
+    "Base/Java thread.md",
+    "Base/Cпособы синхронизации в Java.md",
+    "Base/Locks.md",
+    "Base/Semaphore.md",
     "Files/enhanced_image.png",
     "Files/Ratelimit.pdf",
     "Sliding Window Log",
