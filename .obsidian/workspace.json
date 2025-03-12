@@ -152,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Многопоточность"
+              "title": "Граф"
             }
           },
           {
@@ -270,7 +269,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -291,8 +291,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
+    "Base/Многопоточность.md",
+    "conflict-files-obsidian-git.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
@@ -301,7 +303,6 @@
     "Base/Алгоритмы управления кэшем.md",
     "Base/Виды стратегий кэширования.md",
     "Base/Rate limit.md",
-    "conflict-files-obsidian-git.md",
     "Files/Pasted image 20250311212529.png",
     "Base/backpressure.md",
     "Base/Project react.md",
@@ -319,7 +320,6 @@
     "Base/Прототип.md",
     "Base/Строитель.md",
     "Base/Абстрактная фабрика.md",
-    "Base/Фабричный метод.md",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
