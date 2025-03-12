@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Реактивное программирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Developer"
+              "title": "Реактивное программирование"
             }
           },
           {
@@ -290,13 +290,14 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Асинхронная модель.md",
+    "Base/Реактивное программирование.md",
+    "Base/Java Developer.md",
     "Base/Многопоточность.md",
     "conflict-files-obsidian-git.md",
     "Files/Pasted image 20250311212529.png",
     "Base/backpressure.md",
     "Base/Project react.md",
-    "Base/Java Developer.md",
-    "Base/Реактивное программирование.md",
     "Base/ООП.md",
     "Base/Архитектурные паттерны.md",
     "Base/Шаблонное проектирование.md",
