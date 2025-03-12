@@ -152,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Base/Многопоточность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +180,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф Многопоточность"
             }
           },
           {
@@ -269,8 +270,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,10 +291,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "7141d3ce232f8961",
   "lastOpenFiles": [
-    "Base/Многопоточность.md",
     "conflict-files-obsidian-git.md",
+    "Base/Многопоточность.md",
     "Base/Java Developer.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
