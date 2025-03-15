@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Архитектура Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Архитектура Kubernetes"
             }
           },
           {
@@ -322,10 +322,11 @@
   },
   "active": "b82daf1698dd10a6",
   "lastOpenFiles": [
-    "Base/Собес java 17.03.2025.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
-    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Многопоточность.md",
     "Base/Архитектура Kubernetes.md",
+    "Base/Собес java 17.03.2025.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Архитектура Istio.md",
     "Base/Платформы мониторинга.md",
     "Base/Java Developer.md",
@@ -345,7 +346,6 @@
     "Base/Устройство памяти в JVM.md",
     "Base/Устройство памяти примитивных типов.md",
     "Base/JVM,  Архитектура JVM.md",
-    "Base/Многопоточность.md",
     "Base/Зелёные потоки.md",
     "Base/Потоки демоны.md",
     "Files/Pasted image 20250311212529.png",
