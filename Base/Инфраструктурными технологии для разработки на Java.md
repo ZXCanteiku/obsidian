@@ -10,6 +10,7 @@ aliases:
 - [[RabbitMQ]]
 - [[Платформы мониторинга]]
 - [[Kubernetes (Istio), OpenShift, Docker]]
+- 
 - [[Jenkins]]
 - [[Hadoop]]
 
