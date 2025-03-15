@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Kubernetes (Istio), OpenShift, Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Kubernetes (Istio), OpenShift, Docker"
             }
           }
         ],
@@ -308,8 +308,11 @@
   },
   "active": "f147b5d297098416",
   "lastOpenFiles": [
+    "Base/Архитектура Istio.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Архитектура Kubernetes.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Платформы мониторинга.md",
     "Base/Java Developer.md",
     "conflict-files-obsidian-git.md",
     "Base/Spring framework.md",
@@ -331,9 +334,6 @@
     "Base/Зелёные потоки.md",
     "Base/Потоки демоны.md",
     "Base/Проблемы многопоточности.md",
-    "Base/Типы блокировок.md",
-    "Base/Java thread.md",
-    "Base/Cпособы синхронизации в Java.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
