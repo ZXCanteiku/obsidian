@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Асинхронная модель"
             }
+          },
+          {
+            "id": "54b2319cc520aac4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -305,7 +317,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78300052937f3763",
+  "active": "54b2319cc520aac4",
   "lastOpenFiles": [
     "Base/Асинхронная модель.md",
     "conflict-files-obsidian-git.md",
