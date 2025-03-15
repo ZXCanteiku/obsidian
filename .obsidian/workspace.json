@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Виды ссылок в java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Виды ссылок в java"
             }
           },
           {
@@ -290,14 +290,16 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
+    "Base/Garbage Colector.md",
+    "Base/JVM,  Архитектура JVM.md",
+    "Base/Java Core.md",
     "Base/Java Developer.md",
-    "Base/Spring framework.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Spring framework.md",
     "Base/Платформы мониторинга.md",
     "Base/Многопоточность.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
     "Base/Профилирование.md",
-    "Base/Java Core.md",
     "Base/Шаблонное проектирование.md",
     "Base/Структурные паттерны.md",
     "conflict-files-obsidian-git.md",
@@ -312,9 +314,7 @@
     "Base/Распространённые решения.md",
     "Base/Идемпотентность запроса.md",
     "Base/Распределённые транзакции.md",
-    "Base/JVM,  Архитектура JVM.md",
     "Base/Устройство памяти в JVM.md",
-    "Base/Garbage Colector.md",
     "Base/Заместитель.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
