@@ -21,7 +21,6 @@ aliases:
 - [[JDBC, ORM, JPA and Hibernate]]
 - [[Инфраструктурными технологии для разработки на Java]]
 - [[Распространённые решения]]
-- [[Метрики]]
 
 ---
 Tags: #java #develop  #main_java
