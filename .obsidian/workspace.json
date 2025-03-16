@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектура Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CQRS"
+              "title": "Архитектура Kubernetes"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/CQRS.md",
+                "file": "Base/Архитектура Kubernetes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф CQRS"
+              "title": "Граф Архитектура Kubernetes"
             }
           },
           {
@@ -307,32 +307,32 @@
   },
   "active": "cca2081193850467",
   "lastOpenFiles": [
-    "Base/Архитектурные паттерны.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Платформы мониторинга.md",
+    "Base/RabbitMQ.md",
+    "Base/Kafka Streams.md",
+    "Base/Apache Kafka.md",
+    "Base/Clickhouse.md",
+    "Base/GraphQL.md",
+    "Base/GRPC.md",
     "Base/Java Developer.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/No SQL базы данных.md",
+    "Base/Реляционные базы данных.md",
+    "Base/SQL.md",
+    "Base/Распределённые транзакции.md",
+    "Base/Нормальные формы.md",
+    "Base/Индексы.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/ACID.md",
+    "Base/Spring framework.md",
+    "Base/Жизненный цикл bean-компонента.md",
+    "Base/Жизненный цикл контекста Spring.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/CQRS.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
-    "Base/Наблюдатель.md",
-    "Base/Структурные паттерны.md",
-    "Base/Порождающие паттерны.md",
-    "Base/ООП.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/SOLID.md",
-    "Base/DRY.md",
-    "Base/YAGNI.md",
-    "Base/KISS.md",
-    "Base/Посылка сообщений.md",
-    "Base/Полиморфизм.md",
-    "Base/Динамическое связывание.md",
-    "Base/Наследование.md",
-    "Base/Инкапсуляция.md",
-    "Base/Реактивное программирование.md",
-    "Base/Project react.md",
-    "Base/Асинхронная модель.md",
-    "Base/Синхронная модель.md",
-    "Base/backpressure.md",
-    "Base/Многопоточность.md",
-    "Base/Потоки демоны.md",
-    "Base/Проблемы многопоточности.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
