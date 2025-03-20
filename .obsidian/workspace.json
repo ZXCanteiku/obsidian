@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Инфраструктурными технологии для разработки на Java.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инфраструктурными технологии для разработки на Java"
+              "title": "Java Developer"
             }
           },
           {
@@ -290,8 +290,8 @@
   },
   "active": "919b2f2b77ede5fb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "conflict-files-obsidian-git.md",
     "Base/Платформы мониторинга.md",
     "Base/Java Developer.md",
     "Base/Шаблонное проектирование.md",
