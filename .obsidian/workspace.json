@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Идемпотентность запроса.md",
+                "file": "Base/Собес java 17.03.2025.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Идемпотентность запроса"
+              "title": "Граф Собес java 17.03.2025"
             }
           },
           {
@@ -306,8 +306,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "b82daf1698dd10a6",
   "lastOpenFiles": [
+    "Base/Идемпотентность запроса.md",
     "Base/Распространённые решения.md",
     "Base/Java Developer.md",
     "conflict-files-obsidian-git.md",
@@ -319,7 +320,6 @@
     "Base/Алгоритмы управления кэшем.md",
     "Base/Rate limit.md",
     "Base/Распределенная трассировка.md",
-    "Base/Идемпотентность запроса.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Kubernetes (Istio), OpenShift, Docker.md",
     "Base/Архитектура Istio.md",
