@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Шаблонное проектирование.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблонное проектирование"
+              "title": "Java Developer"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Шаблонное проектирование.md",
+                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Шаблонное проектирование"
+              "title": "Граф Java Developer"
             }
           },
           {
@@ -307,8 +307,8 @@
   },
   "active": "cca2081193850467",
   "lastOpenFiles": [
-    "Base/Поведенческие паттерны.md",
     "Base/Шаблонное проектирование.md",
+    "Base/Поведенческие паттерны.md",
     "Base/Порождающие паттерны.md",
     "Base/Java Developer.md",
     "Base/ООП.md",
