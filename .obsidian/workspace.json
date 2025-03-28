@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +194,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф Уровни изоляций транзакции"
             }
           },
           {
@@ -305,10 +305,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cca2081193850467",
+  "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/ООП.md",
     "Base/Java Developer.md",
+    "Base/ООП.md",
     "Base/Шаблонное проектирование.md",
     "Base/Поведенческие паттерны.md",
     "Base/Порождающие паттерны.md",
