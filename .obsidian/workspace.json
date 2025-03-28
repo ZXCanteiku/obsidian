@@ -95,12 +95,14 @@
             "id": "54b2319cc520aac4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Base/Чтение зафиксированных данных.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Чтение зафиксированных данных"
             }
           }
         ],
@@ -136,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +159,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,6 +320,9 @@
   },
   "active": "54b2319cc520aac4",
   "lastOpenFiles": [
+    "Base/Сериализуемость.md",
+    "Base/Сериализуемая изоляция снимков состояний (SSI).md",
+    "Base/Гарантии доставки kafka.md",
     "Base/Асинхронная модель.md",
     "conflict-files-obsidian-git.md",
     "Base/Реактивное программирование.md",
@@ -342,10 +346,7 @@
     "Base/Распространённые решения.md",
     "Base/Кэширование.md",
     "Base/Алгоритмы управления кэшем.md",
-    "Base/Виды стратегий кэширования.md",
-    "Base/Rate limit.md",
     "Files/Pasted image 20250311212529.png",
-    "Base/backpressure.md",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
     "Files/Pasted image 20250307205624.png",
