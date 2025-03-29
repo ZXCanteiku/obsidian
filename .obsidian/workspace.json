@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Apache Kafka.md",
+                "file": "Base/Распространённые решения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apache Kafka"
+              "title": "Распространённые решения"
             }
           },
           {
@@ -307,13 +307,23 @@
   },
   "active": "cca2081193850467",
   "lastOpenFiles": [
-    "Base/Гарантии доставки kafka.md",
-    "Base/Apache Kafka.md",
+    "Base/Распределенная трассировка.md",
+    "Base/Распространённые решения.md",
+    "Base/Идемпотентность запроса.md",
+    "Base/Java Developer.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/Kubernetes (Istio), OpenShift, Docker.md",
+    "Base/Архитектура Istio.md",
+    "Base/Архитектура Kubernetes.md",
+    "Base/Собес java 17.03.2025.md",
+    "Base/Платформы мониторинга.md",
+    "Base/RabbitMQ.md",
+    "Base/Kafka Streams.md",
+    "Base/Apache Kafka.md",
+    "Base/Гарантии доставки kafka.md",
     "Base/Clickhouse.md",
     "Base/GraphQL.md",
     "Base/GRPC.md",
-    "Base/Java Developer.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
     "Base/No SQL базы данных.md",
     "Base/Реляционные базы данных.md",
@@ -323,16 +333,6 @@
     "Base/CQRS.md",
     "Base/Шаблонное проектирование.md",
     "Base/Порождающие паттерны.md",
-    "Base/Поведенческие паттерны.md",
-    "Base/Структурные паттерны.md",
-    "Base/ООП.md",
-    "Base/Дизайн паттерны и принципы.md",
-    "Base/SOLID.md",
-    "Base/Полиморфизм.md",
-    "Base/Реактивное программирование.md",
-    "Base/Project react.md",
-    "Base/Асинхронная модель.md",
-    "Base/Синхронная модель.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
