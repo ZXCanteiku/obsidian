@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Java Developer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Java Developer"
+              "title": "Граф"
             }
           },
           {
@@ -308,32 +307,32 @@
   },
   "active": "cca2081193850467",
   "lastOpenFiles": [
-    "Base/Распространённые решения.md",
+    "Base/Java Core.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Java Developer.md",
     "Base/JDBC, ORM, JPA and Hibernate.md",
-    "conflict-files-obsidian-git.md",
-    "Base/Кэширование Hibernate.md",
-    "Base/Transaction.md",
-    "Base/Lifecycle.md",
     "Base/Entity.md",
-    "Base/Keyset and offset pagination.md",
-    "Base/N+1.md",
-    "Base/Реактивное программирование.md",
+    "Base/Отношения между сущностями.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Дженерики.md",
+    "Base/Профилирование.md",
     "Base/Многопоточность.md",
-    "Base/Кэширование.md",
-    "Base/Виды стратегий кэширования.md",
-    "Base/Уровни изоляций транзакции.md",
-    "Base/Собес java 17.03.2025.md",
     "Base/Java thread.md",
     "Base/Atomic.md",
+    "conflict-files-obsidian-git.md",
     "Base/Зелёные потоки.md",
     "Base/Модель памяти в Java.md",
     "Base/Типы блокировок.md",
+    "Base/Распространённые решения.md",
     "Base/Rate limit.md",
-    "Base/Архитектурные паттерны.md",
+    "Base/Уровни изоляций транзакции.md",
+    "Base/Собес java 17.03.2025.md",
     "Base/Архитектура Istio.md",
     "Base/Архитектура Kubernetes.md",
+    "Base/Кэширование.md",
+    "Base/Виды стратегий кэширования.md",
     "Base/Алгоритмы управления кэшем.md",
+    "Base/Журнал скользящих интервалов.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
