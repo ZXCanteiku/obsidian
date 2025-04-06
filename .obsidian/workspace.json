@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Ошибки в тесте"
             }
+          },
+          {
+            "id": "33d5724b3600bedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Base/Ошибки в тесте.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +208,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Ошибки в тесте"
+              "title": "Граф conflict-files-obsidian-git"
             }
           },
           {
@@ -284,7 +298,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -305,9 +320,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2287d651df982d22",
+  "active": "78300052937f3763",
   "lastOpenFiles": [
     "Base/Ошибки в тесте.md",
+    "conflict-files-obsidian-git.md",
     "Base/Собес java 17.03.2025.md",
     "Base/Spring framework.md",
     "Base/Java Developer.md",
@@ -332,7 +348,6 @@
     "Base/Профилирование.md",
     "Base/Java Core.md",
     "Base/Оптимизация java.md",
-    "Base/Аннотации.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
