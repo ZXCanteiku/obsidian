@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,10 +320,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4beb4a8c1a958e1",
+  "active": "d9775bd18a781632",
   "lastOpenFiles": [
-    "Base/Уровни изоляций транзакции.md",
     "Base/Java Developer.md",
+    "Base/Индексы.md",
+    "Base/B-tree индексы.md",
+    "Base/Типы индексов.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Уровни изоляций транзакции.md",
     "Base/Java Core.md",
     "Base/JVM,  Архитектура JVM.md",
     "Base/Ошибки в тесте.md",
@@ -338,16 +342,12 @@
     "Base/Идемпотентность запроса.md",
     "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Apache Kafka.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Индексы.md",
     "Base/ACID.md",
     "Base/Spring framework.md",
     "Base/Архитектурные паттерны.md",
     "Base/Шаблонное проектирование.md",
     "Base/ООП.md",
     "Base/Многопоточность.md",
-    "Base/Модель памяти в Java.md",
-    "Base/Оптимизация java.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
