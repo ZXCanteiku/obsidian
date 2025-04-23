@@ -90,21 +90,9 @@
               "icon": "lucide-file",
               "title": "Собеседование последний этап"
             }
-          },
-          {
-            "id": "c3f1dd235ffdadfd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,7 +306,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3f1dd235ffdadfd",
+  "active": "786c07420568c515",
   "lastOpenFiles": [
     "Base/Java Developer.md",
     "Base/Распространённые решения.md",
