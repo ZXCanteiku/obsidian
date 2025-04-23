@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Java Core.md",
+                "file": "Base/Java Developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
-            }
-          },
-          {
-            "id": "f4beb4a8c1a958e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Многопоточность.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Многопоточность"
+              "title": "Java Developer"
             }
           },
           {
@@ -69,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Конфликты при записи (Write Skew).md",
+                "file": "Base/Уровни изоляций транзакции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Конфликты при записи (Write Skew)"
+              "title": "Уровни изоляций транзакции"
             }
           },
           {
@@ -104,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Собеседование последний этап"
             }
+          },
+          {
+            "id": "c3f1dd235ffdadfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -320,8 +318,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9775bd18a781632",
+  "active": "c3f1dd235ffdadfd",
   "lastOpenFiles": [
+    "Base/Java Developer.md",
+    "Base/Распространённые решения.md",
+    "Base/Инфраструктурными технологии для разработки на Java.md",
+    "Base/JDBC, ORM, JPA and Hibernate.md",
+    "Base/No SQL базы данных.md",
+    "Base/Реляционные базы данных.md",
+    "Base/Spring framework.md",
+    "Base/Архитектурные паттерны.md",
+    "Base/Шаблонное проектирование.md",
+    "Base/Многопоточность.md",
+    "Base/Модель памяти в Java.md",
+    "Base/Java thread.md",
+    "Base/Java Core.md",
+    "Base/Garbage Colector.md",
+    "Base/Устройство памяти в JVM.md",
+    "Base/JVM,  Архитектура JVM.md",
     "Base/Уровни изоляций транзакции.md",
     "Base/Конфликты при записи (Write Skew).md",
     "Base/Фантомное чтение.md",
@@ -329,25 +343,9 @@
     "Base/Грязное чтение.md",
     "Base/Собеседование последний этап.md",
     "Base/Собес java 17.03.2025.md",
-    "Base/Многопоточность.md",
-    "Base/Java Developer.md",
-    "Base/Распространённые решения.md",
-    "Base/Инфраструктурными технологии для разработки на Java.md",
     "Base/Apache Kafka.md",
     "Base/Гарантии доставки kafka.md",
     "Base/Clickhouse.md",
-    "Base/JDBC, ORM, JPA and Hibernate.md",
-    "Base/No SQL базы данных.md",
-    "Base/Реляционные базы данных.md",
-    "Base/Spring framework.md",
-    "Base/Архитектурные паттерны.md",
-    "Base/Шаблонное проектирование.md",
-    "Base/ООП.md",
-    "Base/Проблемы многопоточности.md",
-    "Base/Потоки демоны.md",
-    "Base/Java thread.md",
-    "Base/Atomic.md",
-    "Base/Модель памяти в Java.md",
     "Files/Pasted image 20250311212529.png",
     "Files/Pasted image 20250307212209.png",
     "Files/Pasted image 20250307210250.png",
